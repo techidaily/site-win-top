@@ -1,7 +1,7 @@
 ---
 title: La Técnica Básica Para Fotografía en Blanco Y Negro Con Filtros Monocromáticos | Blanco Y Negro Filters
-date: 2024-09-10 12:15:36
-updated: 2024-09-13 12:49:48
+date: 2024-09-20T09:25:37.868Z
+updated: 2024-09-20T19:13:34.074Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/8e847bcd25e1bb956f9c0d5ed5c3e1ee40f922a7b0a9cd027835fb97af58ec95.jpg
@@ -222,6 +222,13 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -277,6 +284,13 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -420,6 +434,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
@@ -468,6 +489,13 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
 Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voici une liste de raisons que vous pouvez vérifier :
@@ -487,6 +515,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 3. Effectuez un nettoyage du disque et une maintenance du système
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
 
@@ -536,11 +571,27 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-pushing-boundaries-camera-capabilities-in-ios-11/"><u>[New] Pushing Boundaries Camera Capabilities in iOS 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-game-plan-to-trendsetting-video-content-for-2024/"><u>[Updated] The Game Plan to Trendsetting Video Content for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/ai2024/"><u>最适合您的图片放大解决方案: AI照片放大器的前七名[2024年推荐列表]</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-removing-likes-from-every-track-on-spotify/"><u>Complete Guide: Removing Likes From Every Track on Spotify</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/dubit-for-macos-for-2024/"><u>DubIt for macOS for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Vivo X Flip? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/mover-imagenes-webp-a-formato-bmp-sin-costo-utilizando-el-conversor-en-linea-de-movavi/"><u>Mover Imágenes WEBP a Formato BMP Sin Costo Utilizando El Conversor en Línea De Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/redefining-website-visibility-with-ai-insights/"><u>Redefining Website Visibility with AI Insights</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210246674-squamous-cell-carcinoma-usually-appears-as-a-central-tumor-and-can-lead-to-local-obstruction-symptoms/"><u>Squamous Cell Carcinoma Usually Appears as a Central Tumor and Can Lead to Local Obstruction Symptoms.</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-15-canva-replacements-ranked-comprehensive-guide-and-comparisons/"><u>Top 15 Canva Replacements Ranked - Comprehensive Guide & Comparisons</u></a></li>
+<li><a href="https://win-top.techidaily.com/tout-sur-la-fusion-et-lassemblage-de-videos-en-ligne-a-laide-de-movavi/"><u>Tout Sur La Fusion Et L'assemblage De Vidéos en Ligne À L'aide De Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/unveiling-microsofts-basic-display-adapter-bda-via-graphics/"><u>Unveiling Microsoft's Basic Display Adapter (BDA) via Graphics</u></a></li>
+</ul></div>
+

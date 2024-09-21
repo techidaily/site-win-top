@@ -1,7 +1,7 @@
 ---
 title: "« La Meilleure Application De Caméra Sans Fil : Les Choix Gratuits Pour Une Sécurité Accrue À La Maison »"
-date: 2024-09-11T07:58:30.206Z
-updated: 2024-09-15T23:11:29.108Z
+date: 2024-09-18T05:02:57.175Z
+updated: 2024-09-20T22:58:07.384Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d10377fe66a9fba50f8ed26c.jpg
@@ -214,13 +214,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -228,13 +221,6 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -280,9 +266,23 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
@@ -332,6 +332,13 @@ Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de 
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment améliorer les performances de jeu sur Windows 10 (corrections avancées)
@@ -376,6 +383,19 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
+<!-- affiliate ads begin -->
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -415,25 +435,11 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -447,13 +453,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -489,6 +488,19 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -580,20 +592,12 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-10-essential-tips-to-turnback-a-live-twitch-session/"><u>[New] 2024 Approved 10 Essential Tips to Turnback a Live Twitch Session</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-heres-what-you-dont-know-about-instagram-story-viewer/"><u>[New] In 2024, Here's What You Don't Know About Instagram Story Viewer</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-capturing-online-clarity-a-zoomers-guide/"><u>2024 Approved Capturing Online Clarity A Zoomer's Guide</u></a></li>
-<li><a href="https://win-top.techidaily.com/1726026775008-3/"><u>3つのビデオコンテンツをシームレスに集合させる -最適な方法</u></a></li>
-<li><a href="https://win-top.techidaily.com/dvd4k/"><u>高画質ビデオ再生 - DVDを4Kテレビに流す方法</u></a></li>
-<li><a href="https://win-top.techidaily.com/1726030094307-youtube/"><u>年齢チェック不要：YouTubeに抜ける隠されたテクニック</u></a></li>
-<li><a href="https://win-top.techidaily.com/access-serene-melodies-download-tranquil-meditation-sounds-for-inner-calm/"><u>Access Serene Melodies: Download Tranquil Meditation Sounds for Inner Calm</u></a></li>
-<li><a href="https://win-top.techidaily.com/aiffwav/"><u>AIFF音声をWAV形式に一元化して変換する包括的ガイドとツール</u></a></li>
-<li><a href="https://win-top.techidaily.com/comprehensive-steps-to-change-webm-media-to-mpgmpeg-video-file/"><u>Comprehensive Steps to Change WebM Media to MPG/MPEG Video File</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-overcome-cyclic-redundancy-check-errors-a-comprehve-solution-guide/"><u>How to Overcome Cyclic Redundancy Check Errors - A Comprehve Solution Guide</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-prevent-unsolicited-openings-of-search-bar-win11/"><u>How to Prevent Unsolicited Openings of Search Bar, Win11</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/merge-mov-files-for-free-5-best-options-for-2024/"><u>Merge MOV Files for Free 5 Best Options for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-contrasts-between-ipad-pro-2020-m4-and-apples-latest-macbook-air-the-ultimate-comparison/"><u>Unveiling the Contrasts Between iPad Pro 2020 (M4) and Apple’s Latest MacBook Air – The Ultimate Comparison</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-education-exclusive-get-final-cut-pro-at-an-unbeatable-price-for-2024/"><u>Updated Education Exclusive Get Final Cut Pro at an Unbeatable Price for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/1726030146026-usb/"><u>プロジェクタとUSBメモリで動画を直接表示するための解決策</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-complete-guide-to-proficient-use-of-screenrec-software/"><u>[New] In 2024, The Complete Guide to Proficient Use of ScreenRec Software</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-a-step-by-step-journey-to-revamping-your-win11-look/"><u>[Updated] A Step-by-Step Journey to Revamping Your Win11 Look</u></a></li>
+<li><a href="https://win-top.techidaily.com/free-online-conversion-transforming-vob-files-into-flv-format-with-ease-movavi/"><u>Free Online Conversion: Transforming VOB Files Into FLV Format with Ease - Movavi</u></a></li>
+<li><a href="https://win-top.techidaily.com/free-online-tool-change-mp3-files-into-high-quality-wav-format-with-ease-movevvi/"><u>Free Online Tool: Change MP3 Files Into High-Quality WAV Format with Ease - MoveVvi</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-poco-c55-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Poco C55 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/xbox-one-optimizing-your-zoom-experience/"><u>Xbox One Optimizing Your Zoom Experience</u></a></li>
+<li><a href="https://win-top.techidaily.com/1726226084199-3gpflv-movavi/"><u>자원 없이 인터넷을 통해 3GP/FLV 비디오를 바꾸기: Movavi의 방법</u></a></li>
 </ul></div>
 

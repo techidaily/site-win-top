@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Capturing Screenshots Like a Pro on Your ASUS Notebook - Discover the Top 14 Methods with Movavi"
-date: 2024-09-12T22:18:25.935Z
-updated: 2024-09-15T22:26:12.899Z
+date: 2024-09-18T06:32:17.322Z
+updated: 2024-09-21T01:52:01.902Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/b44ba119c3a3d46ced364c534eba92d8a8e7f5db9a0f3270b71a79e318ccd253.jpg
@@ -176,31 +176,11 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -241,6 +221,13 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -330,6 +317,19 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -337,13 +337,6 @@ Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en m
 Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de la souris" dans la zone de recherche. Choisissez **Modifier l'affichage ou la vitesse du pointeur de la souris**. Dans la fenêtre qui s'ouvre, allez dans l'onglet **Options du pointeur** et décochez la case **Améliorer la précision du pointeur**.
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -370,13 +363,6 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -429,6 +415,19 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -453,6 +452,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -488,6 +494,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -544,13 +557,6 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -586,18 +592,19 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-snapedit-fundamentals-for-amateur-photographers-for-2024/"><u>[Updated] Snapedit Fundamentals for Amateur Photographers for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-webcam-guardians-the-best-covers-reviewed/"><u>2024 Approved Webcam Guardians The Best Covers Reviewed</u></a></li>
-<li><a href="https://win-top.techidaily.com/league-of-legends-2024/"><u>全新记录League of Legends 2024版游戏进程：高效方法及提示</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/deciphering-your-ps4s-led-light-signals-understanding-the-meanings-of-blue-white-red-and-orange/"><u>Deciphering Your PS4's LED Light Signals: Understanding the Meanings of Blue, White, Red & Orange</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy F04? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-realme-11-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Realme 11 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-8-plus-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or iPhone 8 Plus?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-oppo-find-n3-by-fonelab-android-recover-music/"><u>How to restore wiped music on Oppo Find N3</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-youtube-with-factory-pro-a-comprehensive-guide-to-convert-videos-effortlessly/"><u>Mastering YouTube with Factory Pro: A Comprehensive Guide to Convert Videos Effortlessly</u></a></li>
-<li><a href="https://win-top.techidaily.com/ps5-compatibility-streaming-content-from-usb-devices-made-simple/"><u>PS5 Compatibility: Streaming Content From USB Devices Made Simple</u></a></li>
-<li><a href="https://win-top.techidaily.com/quick-guide-enjoying-flv-content-without-hitches-on-ios-devices/"><u>Quick Guide: Enjoying FLV Content Without Hitches on iOS Devices</u></a></li>
-<li><a href="https://win-top.techidaily.com/simple-steps-for-quick-conversion-from-m4a-to-mp3-files/"><u>Simple Steps for Quick Conversion From M4A to MP3 Files</u></a></li>
-<li><a href="https://win-top.techidaily.com/solving-no-audio-on-movies-and-tv-application-in-windows-11-effective-troubleshooting-steps/"><u>Solving No Audio on Movies & TV Application in Windows 11: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-calculating-total-vids-for-high-capacity-hardware-64128gb/"><u>[New] 2024 Approved Calculating Total Vids for High-Capacity Hardware (64/128GB)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-comprehensive-guide-to-optimizing-facetime-recording-quality/"><u>[Updated] Comprehensive Guide to Optimizing FaceTime Recording Quality</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-iconic-writings-distinguishing-film-types/"><u>2024 Approved Iconic Writings Distinguishing Film Types</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-use-of-zoom-on-chrome-os-devices/"><u>2024 Approved Optimal Use of Zoom on Chrome OS Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pairing-youtube-sounds-with-visual-narratives/"><u>2024 Approved Pairing YouTube Sounds with Visual Narratives</u></a></li>
+<li><a href="https://win-top.techidaily.com/conversion-de-archivo-raf-a-formato-digital-gratuito-por-movavi-ejecucion-inmediata/"><u>Conversión De Archivo RAF a Formato Digital Gratuito Por Movavi - Ejecución Inmediata</u></a></li>
+<li><a href="https://win-top.techidaily.com/free-online-swf-to-mp4-video-converter-easy-and-reliable-conversion-with-movavi/"><u>Free Online SWF to MP4 Video Converter - Easy & Reliable Conversion with Movavi</u></a></li>
+<li><a href="https://win-top.techidaily.com/free-web-based-convertitor-transform-your-avi-files-into-f4v-format-with-movavis-expertise/"><u>Free Web-Based Convertitor: Transform Your AVI Files Into F4V Format with Movavi's Expertise</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-x50i-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor X50i FRP Locks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/mastering-tunes-in-fb-video-posts-your-step-by-step-manual-for-2024/"><u>Mastering Tunes in FB Video Posts Your Step-by-Step Manual for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/save-and-enjoy-your-favorite-coub-videos-with-ease/"><u>Save and Enjoy Your Favorite Coub Videos with Ease</u></a></li>
+<li><a href="https://win-top.techidaily.com/transcodez-sans-frais-de-fichiers-3gp-a-m4a-en-ligne-chez-videoconvertpro/"><u>Transcodez Sans Frais De Fichiers 3GP À M4A en Ligne Chez VidéoConvertPro</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/youtube-yields-mastering-the-art-of-viral-hashtag-use/"><u>YouTube Yields Mastering the Art of Viral Hashtag Use</u></a></li>
+<li><a href="https://win-top.techidaily.com/ts-vob-movavi/"><u>무료 온라인 모바일화 가능한 TS VOB 영상 데이터를 자주광성 형식으로 변환: Movavi의 기술</u></a></li>
 </ul></div>
 
