@@ -1,7 +1,7 @@
 ---
 title: "Cómo Hacer Una Copia De Seguridad Completa De Windows 11 en Una Memoria USB Externa: Recomendaciones Del Mejor Freeware Existente"
-date: 2024-10-10T00:36:29.202Z
-updated: 2024-10-10T17:16:28.619Z
+date: 2024-10-16T16:42:28.092Z
+updated: 2024-10-17T16:36:54.760Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/8710795f69b6885ee183c5bcebd20dd5644a88070a4884d479fae689522aa348.jpg
@@ -38,13 +38,6 @@ Share this: [![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-art
    4. [Method 4\. Recover from ransomware through system restore](https://tools.techidaily.com/ubackup/products/)
 3. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Is it possible to recover data from ransomware?
 
 I'm looking at a computer after it's been hit by some ransomware. The files have been encrypted. I am trying some guides in removal and recovery, but they don't seem to be of much help. If you have suggestions on how to recover files from ransomware, I would appreciate it.
@@ -55,23 +48,9 @@ If you are looking for methods on how to recover ransomware-infected files, you 
 
 [![Recover Files From Ransomware](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/others/recover-files-from-ransomware.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to recover files from ransomware attack in 4 ways
 
 Many solutions are available for you to solve how to recover data from ransomware attacks. We have selected some easy-to-implement methods for you. Read below for detailed information. 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1\. Recover files from ransomware with data recovery software
 
@@ -115,20 +94,34 @@ Step 1\. Open **Control Panel** and click on **System and Security**. Then, hit 
 
 [![Windows Backup And Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/windows-backup-and-restore.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2\. Tap on the **Restore my files** position in the Restore tab.
 
 ![Windows Backup Restore My Files](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 3\. Click **Browse for files** to locate your lost data and choose to save your recovered files in your original location or another destination as needed.
 
 [![Browse For Files To Restore](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/browse-for-files-to-restore.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3\. Get back files from ransomware using File History
 
@@ -147,10 +140,10 @@ Step 3\. Find the files you want to recover and click the arrow pointing left or
 [![Restore Deleted File](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/restore-deleted-file.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4\. Recover from ransomware through system restore
@@ -163,15 +156,22 @@ Step 1\. Press **Win + S** to open the Windows search box, type **Create a resto
 
 [![Create A Restore Point Open](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/create-a-restore-point-open.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2\. Click on **System Restore** \> **Next**.
 
 [![System Drive On System Restore Next](https://www.ubackup.com/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows/system-drive-on-system-restore-next.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 3\. Choose a restore point from the list and tap on **Scan for affected programs** to check the items that will be deleted after the restore. Then, click **Close**.
@@ -197,6 +197,13 @@ To prevent ransomware from attacking your computer and files again, we list seve
 * Report ransomware attacks to let authorities identify the attacker.
 * Regularly back up important data in case of emergencies.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Ransomware can't be prevented. Though there are multiple ways for you to accomplish how to recover files from ransomware, prevention is easier than rescue. We highly recommend you backup your important data periodically.
@@ -212,6 +219,13 @@ Was the provided information useful? Your vote is important to us!
 [Kelsey](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Kelsey is an English editor of AOMEI Technology. She is passionate about helping people find effective ways to deal with all problems in computer. She has great insights into data backup and recovery, disk partition and clone, and other data protection measures. She likes learn computer skills to improve herself and enjoy quality time with family and friends. 
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -241,21 +255,7 @@ Recover deleted & lost data from any disasters in Windows.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -272,14 +272,18 @@ Recover deleted & lost data from any disasters in Windows.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-how-to-check-your-videos-legal-status-before-tiktok-upload/"><u>[New] 2024 Approved How to Check Your Video's Legal Status Before TikTok Upload</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-enhancing-meet-visuals-applying-filters-effects-and-masks/"><u>[New] Enhancing Meet Visuals Applying Filters, Effects & Masks</u></a></li>
-<li><a href="https://win-top.techidaily.com/cambia-tus-archivos-de-audio-ogg-a-calidad-flac-sin-coste-con-el-mejor-convertidor-en-linea-gratuito/"><u>Cambia Tus Archivos De Audio OGG a Calidad FLAC Sin Coste Con El Mejor Convertidor en Línea Gratuito!</u></a></li>
-<li><a href="https://win-top.techidaily.com/gratuito-online-convertidor-de-wmv-a-m4a-por-internet-utilice-movavi/"><u>Gratuito Online: Convertidor De WMV a M4A Por Internet - Utilice Movavi</u></a></li>
-<li><a href="https://win-top.techidaily.com/gratuito-trasforma-i-tuoi-file-mov-in-formato-flac-con-il-servizio-di-conversione-online-di-moveave-libero-da-registrazione/"><u>Gratuito: Trasforma I Tuoi File MOV in Formato FLAC Con Il Servizio Di Conversione Online Di Moveave - Libero Da Registrazione</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-to-establish-and-reach-your-personal-health-goals-efficiently/"><u>Leveraging ChatGPT to Establish and Reach Your Personal Health Goals Efficiently</u></a></li>
-<li><a href="https://win-top.techidaily.com/movavis-online-free-converter-effortlessly-switch-between-m4a-and-wav-formats-for-no-cost/"><u>Movavi's Online Free Converter: Effortlessly Switch Between M4A and WAV Formats for No Cost!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-rated-free-media-transcoder-convert-videos-without-cost/"><u>Top-Rated Free Media Transcoder: Convert Videos Without Cost</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-in-depth-analysis-of-the-wave-editor-signature-capabilities-evaluations-and-practical-lessons/"><u>Updated 2024 Approved In-Depth Analysis of the Wave Editor Signature Capabilities, Evaluations, and Practical Lessons</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-lost-in-translation-no-videos-on-a6400/"><u>[New] In 2024, Lost in Translation No Videos on A6400</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-talking-head-techniques-diy-filming-made-simple/"><u>[New] Talking Head Techniques DIY Filming Made Simple</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sculpt-social-shares/"><u>[Updated] Sculpt Social Shares</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728468372571-windowsmac/"><u>重获丢失于Windows与Mac系统之内的数据：有效方法介绍</u></a></li>
+<li><a href="https://driver-error.techidaily.com/ax201-not-connecting-intel-wi-fi-6-patch-released/"><u>AX201 Not Connecting - Intel Wi-Fi 6 Patch Released</u></a></li>
+<li><a href="https://win-top.techidaily.com/etape-par-etape-pour-sauvegarder-entierement-votre-pc-tutoriel-facile-et-definitif-pour-les-utilisateurs-de-windows-111087-gratuit/"><u>Étape Par Étape Pour Sauvegarder Entièrement Votre PC : Tutoriel Facile Et Définitif Pour Les Utilisateurs De Windows 11/10/8/7 (Gratuit)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-nokia-c12-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Nokia C12 Pro to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-trivia-titans-of-the-year-best-general-knowledge-sites/"><u>In 2024, Trivia Titans of the Year - Best General Knowledge Sites</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/netgears-nighthawk-x10-ad7200-router-a-comprehensive-review-for-lightning-speed-wireless-connectivity/"><u>Netgear's Nighthawk X10 AD7200 Router: A Comprehensive Review for Lightning Speed Wireless Connectivity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/resolve-chatgpt-gaffes-overcoming-6-common-hurdles-with-ease/"><u>Resolve ChatGPT Gaffes: Overcoming 6 Common Hurdles with Ease</u></a></li>
+<li><a href="https://win-top.techidaily.com/solving-the-issue-steps-to-retrieve-information-from-an-unresponsive-western-digital-externally-powered-drive/"><u>Solving the Issue: Steps to Retrieve Information From an Unresponsive Western Digital Externally Powered Drive</u></a></li>
+<li><a href="https://win-top.techidaily.com/techniques-pour-recuperer-les-fichiers-perdus-de-visual-studio-code-non-enregistres-dans-la-corbeille-systeme/"><u>Techniques Pour Récupérer Les Fichiers Perdus De Visual Studio Code Non Enregistrés Dans La Corbeille Système</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-4-techniques-pour-eliminer-les-correspondances-en-double-dans-microsoft-outlook-2019-2020/"><u>Top 4 Techniques Pour Éliminer Les Correspondances en Double Dans Microsoft Outlook (2019-2020)</u></a></li>
 </ul></div>
 

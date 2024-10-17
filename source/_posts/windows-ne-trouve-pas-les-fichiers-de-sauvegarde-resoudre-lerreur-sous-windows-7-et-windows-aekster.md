@@ -1,7 +1,7 @@
 ---
 title: "Windows Ne Trouve Pas Les Fichiers De Sauvegarde : Résoudre L'erreur Sous Windows 7 Et Windows ˈækstər"
-date: 2024-10-07T00:28:37.080Z
-updated: 2024-10-10T20:51:42.915Z
+date: 2024-10-12T16:10:40.320Z
+updated: 2024-10-17T16:17:39.595Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b97d0ebad54511b61b45570cc2aa70ceb4b57e4382ef455cbbee6f6a39f5f377.jpg
@@ -44,10 +44,10 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
@@ -72,6 +72,13 @@ Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
 Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NAS Buffalo pour Windows, veuillez préparer un disque dur externe, une clé USB, etc. pour stocker l'image de sauvegarde. Ensuite, suivez attentivement les étapes ci-dessous.
@@ -79,6 +86,13 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 **Étape 1.** Lancez AOMEI Backuppper Standard, cliquez sur **Sauvegarder**, puis sur **Sauvegarde de fichiers**.
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
@@ -96,13 +110,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
@@ -112,10 +119,10 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
@@ -147,10 +154,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -173,6 +180,13 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -181,21 +195,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,21 +212,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-obs-supreme-vs-streamlabs-empire/"><u>[New] In 2024, OBS Supreme vs Streamlabs Empire</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-revive-mobile-playback-quick-fixes-for-facebook-videos/"><u>[Updated] 2024 Approved Revive Mobile Playback - Quick Fixes for Facebook Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creating-captivating-thumbnails-for-youtube/"><u>[Updated] In 2024, Creating Captivating Thumbnails for YouTube</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-prosight-review-the-next-big-step-beyond-manycam/"><u>[Updated] ProSight Review The Next Big Step Beyond ManyCam</u></a></li>
-<li><a href="https://win-top.techidaily.com/choosing-the-ideal-user-account-type-in-windows-11-a-step-by-step-guide/"><u>Choosing the Ideal User Account Type in Windows 11 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-top.techidaily.com/countdown-for-resolution-how-microsoft-must-tackle-the-impending-crisis-of-windows-10-in-just-one-year-expert-analysis-by-zdnet/"><u>Countdown for Resolution: How Microsoft Must Tackle the Impending Crisis of Windows 10 in Just One Year | Expert Analysis by ZDNet</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/from-youtube-to-igtv-top-methods-unveiled/"><u>From YouTube to IGTV Top Methods Unveiled</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a05s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A05s without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-cultivate-community-interest-with-collaborative-lists/"><u>In 2024, Cultivate Community Interest With Collaborative Lists</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/petcube-high-definition-pets-monitor-best-deal-for-the-price/"><u>Petcube High Definition Pets Monitor – Best Deal for the Price</u></a></li>
-<li><a href="https://win-top.techidaily.com/solving-the-july-update-dilemma-preventing-your-pcs-encryption-woes-with-bitlocker-recovery-tips-cybersecurity-central/"><u>Solving the July Update Dilemma: Preventing Your PC's Encryption Woes with BitLocker Recovery Tips | CyberSecurity Central</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-dark-side-of-ai-how-to-stay-secure-from-the-threats-posed-by-fraudgpt-and-similar-bots/"><u>The Dark Side of AI: How to Stay Secure From the Threats Posed by FraudGPT and Similar Bots</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-7-tips-to-simplify-your-experience-with-windows-11-discover-how-zdnet/"><u>Top 7 Tips to Simplify Your Experience with Windows 11 - Discover How! (ZDNet)</u></a></li>
-<li><a href="https://win-top.techidaily.com/troubleshooting-steps-fixing-print-screen-issues-in-windows-11/"><u>Troubleshooting Steps: Fixing Print Screen Issues in Windows 11</u></a></li>
-<li><a href="https://win-top.techidaily.com/unlocking-ultimate-control-a-step-by-step-guide-to-enabling-god-mode-on-windows-11-techwise/"><u>Unlocking Ultimate Control: A Step-by-Step Guide to Enabling God Mode on Windows 11 | TechWise</u></a></li>
-<li><a href="https://win-top.techidaily.com/windows-11-update-cost-microsoft-announces-new-pricing-structure-starting-next-year-insights-and-estimates-zdnet/"><u>Windows 11 Update Cost: Microsoft Announces New Pricing Structure Starting Next Year - Insights and Estimates | ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mpowering-audiences-the-playlist-sharing-approach/"><u>[New] Empowering Audiences The Playlist Sharing Approach</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pairing-youtube-sounds-with-visual-narratives/"><u>[Updated] Pairing YouTube Sounds with Visual Narratives</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-perfecting-profile-playlists-on-facebook-through-mobile/"><u>[Updated] Perfecting Profile Playlists on Facebook Through Mobile</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-adobe-photoshop-shake-reduction-is-it-really-useful/"><u>2024 Approved Adobe Photoshop Shake Reduction | Is It Really Useful?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-the-art-of-evading-youtube-copyright-claims/"><u>2024 Approved Mastering the Art of Evading YouTube Copyright Claims</u></a></li>
+<li><a href="https://win-top.techidaily.com/windows-11-ghost-window/"><u>迷你指南：啟用四大途徑搶救Windows 11 Ghost Window</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721266760797-cookiebot-enhanced-boost-your-sites-engagement/"><u>Cookiebot-Enhanced: Boost Your Site's Engagement</u></a></li>
+<li><a href="https://win-top.techidaily.com/effiziente-wege-um-zwei-externe-laufwerke-zu-synchronisieren-auf-dem-pc-unter-windows-10/"><u>Effiziente Wege, Um Zwei Externe Laufwerke Zu Synchronisieren Auf Dem PC Unter Windows 10</u></a></li>
+<li><a href="https://win-top.techidaily.com/guide-simple-creer-un-disque-de-repare-systeme-compatible-avec-windows-v7-a-v11/"><u>Guide Simple : Créer Un Disque De Répare-Système Compatible Avec Windows V7 À V11</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-masterpiece-maker-scenery-and-sound-unite/"><u>In 2024, Masterpiece Maker Scenery & Sound Unite</u></a></li>
+<li><a href="https://extra-support.techidaily.com/oceanic-visionaries-selecting-the-top-5-cameras-for-2024/"><u>Oceanic Visionaries Selecting the Top 5 Cameras for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/tutorial-trouvez-facilement-vos-fichiers-perdus-sur-windows-et-mac-os-x/"><u>Tutorial : Trouvez Facilement Vos Fichiers Perdus Sur Windows Et Mac OS X</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-endless-fun-top-10-free-online-video-loop-generators/"><u>Updated In 2024, Endless Fun Top 10 Free Online Video Loop Generators</u></a></li>
+<li><a href="https://win-top.techidaily.com/windows-11-thasatavaza-fildara-anapasathata-hana-ka-samasaya-ka-hal-karana-ka-eka-thashhatakanae/"><u>Windows 11: दस्तावेज़ फ़ोल्डर अनुपस्थित होने की समस्या को हल करने का एक दृष्टिकोण</u></a></li>
 </ul></div>
 

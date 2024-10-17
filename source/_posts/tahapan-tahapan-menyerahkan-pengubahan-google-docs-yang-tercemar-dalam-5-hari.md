@@ -1,7 +1,7 @@
 ---
 title: Tahapan-Tahapan Menyerahkan Pengubahan Google Docs Yang Tercemar Dalam 5 Hari
-date: 2024-10-08T02:27:33.313Z
-updated: 2024-10-11T08:02:58.212Z
+date: 2024-10-11T16:29:55.244Z
+updated: 2024-10-17T16:16:08.312Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a47a862a6e3798990cfe51fb1.png
@@ -81,22 +81,16 @@ Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur l
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
@@ -105,13 +99,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -124,13 +111,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -149,10 +129,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
@@ -160,10 +140,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -187,10 +167,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
@@ -201,7 +181,21 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -218,15 +212,20 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discover-7-unforgettable-marriage-videos-on-vimeo/"><u>[Updated] In 2024, Discover 7 Unforgettable Marriage Videos on Vimeo</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-enhancing-narratives-a-guide-to-using-b-roll/"><u>[Updated] In 2024, Enhancing Narratives A Guide to Using B-Roll</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-revamping-your-tiktok-look-in-just-a-few-steps/"><u>[Updated] In 2024, Revamping Your TikTok Look in Just a Few Steps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-mystery-maneuvers-effortless-enhancement-techniques/"><u>2024 Approved Mystery Maneuvers Effortless Enhancement Techniques</u></a></li>
-<li><a href="https://win-top.techidaily.com/best-free-and-paid-video-stabilization-tools-of-2024-top-15-picks/"><u>Best Free & Paid Video Stabilization Tools of 2024: Top 15 Picks</u></a></li>
-<li><a href="https://win-top.techidaily.com/descargue-y-convierte-tu-formato-de-video-m1v-a-avi-sin-costo-con-convertidor-online-de-videos-facil-de-uso/"><u>Descargue Y Convierte Tu Formato De Video M1V a AVI Sin Costo Con Convertidor Online De Videos Fácil De Uso</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-efficient-audio-documentation-in-academia-using-macs/"><u>In 2024, Efficient Audio Documentation in Academia Using Macs</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/streaming-success-how-to-keep-a-record-of-live-tv/"><u>Streaming Success How to Keep a Record of Live TV</u></a></li>
-<li><a href="https://win-top.techidaily.com/ultimate-guide-capturing-screenshots-like-a-pro-on-your-asus-notebook-discover-the-top-14-methods-with-movavi/"><u>Ultimate Guide: Capturing Screenshots Like a Pro on Your ASUS Notebook - Discover the Top 14 Methods with Movavi</u></a></li>
-<li><a href="https://win-top.techidaily.com/movaviflac-webm/"><u>レコードの高品質保持を確実にする - MovaviのオンラインFLAC WEBM変換サービス</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-facetune-exploration-the-ultimate-photo-editing-journey/"><u>[Updated] 2024 Approved Facetune Exploration The Ultimate Photo Editing Journey</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-perfect-virtual-presentations-using-video-filters-on-zoom/"><u>[Updated] 2024 Approved Perfect Virtual Presentations Using Video Filters on Zoom</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-is-my-friends-account-invisible-potential-block/"><u>[Updated] Is My Friend's Account Invisible? Potential Block</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-enhancing-reddit-discussions-a-methodical-approach-to-posting/"><u>2024 Approved Enhancing Reddit Discussions A Methodical Approach to Posting</u></a></li>
+<li><a href="https://win-top.techidaily.com/ius6huinoplusawuos5hewiqumzpowsjomhjew7uuizhplusa6kowbnuautuahtjog5lia56plush5lul57s55zub56iu5lin5zcm5pa55rov55qe6kmz55uh5pwz56ilig/"><u>了解永久刪除和重建資源回收桶: 一篇介紹四種不同方法的詳盡教程</u></a></li>
+<li><a href="https://win-top.techidaily.com/effortless-drive-management-configuring-automatic-backup-space-control-on-windows/"><u>Effortless Drive Management: Configuring Automatic Backup Space Control on Windows 지급</u></a></li>
+<li><a href="https://win-top.techidaily.com/erfolgreich-beschadigte-sd-karten-wiederherstellen-expertenrat-fur-einen-unkomplizierten-prozess/"><u>Erfolgreich Beschädigte SD-Karten Wiederherstellen - Expertenrat Für Einen Unkomplizierten Prozess</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-purchase-an-emeditor-license-from-emurasoft-using-euro-as-currency-a-comprehensive-guide/"><u>How to Purchase an EmEditor License From EmuraSoft Using Euro as Currency - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-top.techidaily.com/maitriser-la-tension-cessez-les-clignotements-du-curseur-votre-solution-ultime-au-stress/"><u>Maîtriser La Tension, Cessez Les Clignotements Du Curseur : Votre Solution Ultime Au Stress</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-through-powerpoints-automatic-text-conversion-features/"><u>Navigating Through PowerPoint's Automatic Text Conversion Features</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/revive-the-mute-restarting-windows-7s-audio-services/"><u>Revive the Mute: Restarting Windows 7'S Audio Services</u></a></li>
+<li><a href="https://win11.techidaily.com/swiftly-transition-text-editor-from-light-to-dark-windows-11-style/"><u>Swiftly Transition Text Editor From Light to Dark, Windows 11 Style</u></a></li>
+<li><a href="https://win-top.techidaily.com/tacticas-eficaces-para-la-restauracion-del-juego-ps4-disco-no-reconocido-paso-a-paso-y-consejos-utiles/"><u>Tácticas Eficaces Para La Restauración Del Juego PS4 'Disco No Reconocido': Paso a Paso Y Consejos Útiles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-checklist-for-a-premium-4k-lens-buy/"><u>The Ultimate Checklist for a Premium 4K Lens Buy</u></a></li>
+<li><a href="https://win-top.techidaily.com/44k344k544og44og5yaf44or44o844og44kj44k344on44oz44gu5a6j5ywo44gq44kz44ou44o844go56e76lui5oml6acg/"><u>システム内パーティションの安全なコピーと移転手順</u></a></li>
 </ul></div>
 
