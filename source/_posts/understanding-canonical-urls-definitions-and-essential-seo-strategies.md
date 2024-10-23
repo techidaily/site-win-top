@@ -1,7 +1,7 @@
 ---
 title: "Understanding Canonical URLs: Definitions and Essential SEO Strategies"
-date: 2024-10-15T16:31:30.248Z
-updated: 2024-10-17T16:26:31.987Z
+date: 2024-10-21T20:49:18.193Z
+updated: 2024-10-23T00:17:51.115Z
 tags:
   - wiki
 categories:
@@ -28,16 +28,16 @@ thumbnail: https://thmb.techidaily.com/792170e0e2370b90ed364449dbb33c6317a0c77d0
 * [Related links](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Canonical URL definition
 
 A canonical URL (also called a _canonical link_) is a page that is most representative of a set of duplicate or near-duplicate pages on your site. It is the URL that Google indexes and displays in search results.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Setting up canonical URLs
 
@@ -56,6 +56,13 @@ To do this, you need to add the rel=”canonical” tag in the HTML of the dupli
 <link rel="canonical" href="http://www.site.com.shoes.html" />
 
 If you need to specify canonical for non-HTML files such as PDFs, you can add a rel=”canonical” HTTP header response.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Checking canonical URLs
 
@@ -76,28 +83,15 @@ Top Google guidelines for canonical URLs[\[1\]](https://tools.techidaily.com/lin
 * Only use 301 redirects when you want to replace a page with more relevant content
 * Link to canonical URLs only
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Canonical URLs and CMSs
 
 Many content management systems (CMS) such as Shopify, Wix, WordPress, etc. do not let you edit HTML source code. Still, most of them let users set up canonicals via settings or various plugins. As for Shopify, this CMS sets up canonicals by default because most of Shopify URLs are dynamic[\[2\]](https://tools.techidaily.com/link-assistant/products/).
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Related links
@@ -107,10 +101,10 @@ Many content management systems (CMS) such as Shopify, Wix, WordPress, etc. do n
 [What’s the Best CMS for SEO? Top 10 Platforms Compared](https://tools.techidaily.com/link-assistant/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## References
@@ -132,18 +126,21 @@ Many content management systems (CMS) such as Shopify, Wix, WordPress, etc. do n
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-androids-role-in-virtual-reality-content-consumption-for-2024/"><u>[Updated] Android's Role in Virtual Reality Content Consumption for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-utilizing-luts-for-professional-color-grading/"><u>[Updated] Utilizing LUTs for Professional Color Grading</u></a></li>
-<li><a href="https://win-top.techidaily.com/windows-11-asus/"><u>工場出荷状態にリセット Windows 11 ASUS ラップトップのステップバイステップガイド</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728475584940-os/"><u>他のコンピュータにOSイメージを移植・復元する手順</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728468372571-windowsmac/"><u>重获丢失于Windows与Mac系统之内的数据：有效方法介绍</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/a-detailed-look-at-successful-valheim-sowing/"><u>A Detailed Look at Successful Valheim Sowing</u></a></li>
-<li><a href="https://win-top.techidaily.com/effiziente-methoden-zum-auffinden-und-entfernen-von-duplikatbildern-auf-iphones-der-neuesten-modelle-14-13-12-11-tipps-und-tricks-fur-nutzer/"><u>Effiziente Methoden Zum Auffinden Und Entfernen Von Duplikatbildern Auf iPhones Der Neuesten Modelle (14, 13, 12, 11) - Tipps Und Tricks Für Nutzer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/seamless-steps-for-shifting-your-tunes-from-iphone-to-mac/"><u>Seamless Steps for Shifting Your Tunes From iPhone to Mac</u></a></li>
-<li><a href="https://win-top.techidaily.com/solving-the-issue-steps-to-retrieve-information-from-an-unresponsive-western-digital-externally-powered-drive/"><u>Solving the Issue: Steps to Retrieve Information From an Unresponsive Western Digital Externally Powered Drive</u></a></li>
-<li><a href="https://win-dash.techidaily.com/step-by-step-guide-to-downloading-and-installing-canon-mx340-printer-drivers-for-various-windows-versions/"><u>Step-by-Step Guide to Downloading & Installing Canon MX340 Printer Drivers for Various Windows Versions</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshoot-missing-jscriptdll-error-a-step-by-step-guide-to-fix-the-issue/"><u>Troubleshoot Missing JScript.dll Error: A Step-by-Step Guide to Fix the Issue</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-technique-booting-up-mac-into-its-recovery-environment/"><u>Ultimate Technique: Booting Up Mac Into Its Recovery Environment</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728502597635-windows-11/"><u>データ損失なしにWindows 11を効果的に再設定する方法</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-screen-spectaculor-the-premier-6-hdmi-21-models-reviewed/"><u>[New] Screen Spectaculor The Premier 6 HDMI 2.1 Models Reviewed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-become-an-instagram-content-wizard-with-smart-cropping-practices/"><u>[Updated] Become an Instagram Content Wizard with Smart Cropping Practices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-boost-your-broadcast-three-steps-to-successful-youtube-streaming/"><u>[Updated] In 2024, Boost Your Broadcast Three Steps to Successful YouTube Streaming</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-top-pick-prodigious-insta-hlv-pages-creators/"><u>[Updated] In 2024, Top Pick Prodigious Insta HLV Pages Creators</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-zero-intrusions-check-out-our-list-of-top-7-android-apps-for-2024/"><u>[Updated] Zero Intrusions? Check Out Our List of Top 7 Android Apps for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/best-seo-companies-ranking-highest-in-alexandria-egypt-powerseo-tools-unveiled/"><u>Best SEO Companies Ranking Highest in Alexandria, Egypt - PowerSEO Tools Unveiled</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-mixology-can-it-blend-up-a-flawless-drink/"><u>ChatGPT and Mixology: Can It Blend Up a Flawless Drink?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/finding-the-most-recent-asus-notebook-software-updates-a-complete-walkthrough/"><u>Finding the Most Recent ASUS Notebook Software Updates: A Complete Walkthrough</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fusing-melodies-to-visuals-in-virtual-space-for-2024/"><u>Fusing Melodies to Visuals in Virtual Space for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-xml-sitemaps-for-enhanced-seo-definitions-how-tos-and-optimization-techniques/"><u>Mastering XML Sitemaps for Enhanced SEO: Definitions, How-To's & Optimization Techniques</u></a></li>
+<li><a href="https://win-top.techidaily.com/maximizing-seo-with-effective-exit-page-strategies-definitions-explanations-and-best-practices/"><u>Maximizing SEO with Effective Exit Page Strategies: Definitions, Explanations, and Best Practices</u></a></li>
+<li><a href="https://win-top.techidaily.com/navigateur-de-limaginaire-decouvrir-les-meilleurs-titres-pour-le-referencement-optimise/"><u>Navigateur De L'Imaginaire: Découvrir Les Meilleurs Titres Pour Le Référencement Optimisé</u></a></li>
+<li><a href="https://win-top.techidaily.com/schritt-fur-schritt-anleitung-zum-absichern-von-e-mail-konten-in-microsoft-outlook-201/"><u>Schritt-Für-Schritt-Anleitung Zum Absichern Von E-Mail-Konten in Microsoft Outlook 201</u></a></li>
+<li><a href="https://win-top.techidaily.com/smart-selection-of-email-parsers-save-costs-with-effective-infographic-tips-by-mailmight/"><u>Smart Selection of Email Parsers - Save Costs with Effective Infographic Tips by MailMight</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/0-simple-strategies-for-establishing-successful-biz-youtubes/"><u>Top 10 Simple Strategies for Establishing Successful Biz YouTubes</u></a></li>
+<li><a href="https://win-top.techidaily.com/maksimizaciya-onlajn-prisutstviya-s-pomoshyu-luchshih-analitikskih-platform-podmenyayushie-similarweb-i-seo-powersuite/"><u>Максимизация Онлайн-Присутствия С Помощью Лучших Аналитикских Платформ: Подменяющие SimilarWeb И SEO PowerSuite</u></a></li>
 </ul></div>
 

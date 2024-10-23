@@ -1,7 +1,7 @@
 ---
 title: "Safe and Savvy Craigslist Strategies in 2009: Securing Your Transactions with MassMail Tools"
-date: 2024-10-11T16:24:48.428Z
-updated: 2024-10-17T16:45:57.175Z
+date: 2024-10-20T17:48:09.524Z
+updated: 2024-10-22T22:19:44.548Z
 tags:
   - product
 categories:
@@ -22,6 +22,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -31,13 +38,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -50,13 +50,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -76,22 +69,15 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -102,6 +88,13 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -111,10 +104,10 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
@@ -125,16 +118,22 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -147,6 +146,13 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,21 +173,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-key-points-to-consider-when-opting-for-a-youtube-tv-subscription/"><u>[New] 2024 Approved Key Points to Consider When Opting for a YouTube TV Subscription</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-enhancing-your-youtube-presence-with-split-screen-techniques-for-2024/"><u>[New] Enhancing Your YouTube Presence with Split-Screen Techniques for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-social-network-stardom-top-10-music-video-countdown/"><u>[Updated] In 2024, Social Network Stardom Top 10 Music Video Countdown</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-intros-unveiled-two-proven-ways-for-impact-for-2024/"><u>[Updated] YouTube Intros Unveiled Two Proven Ways for Impact for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-complete-voice-change-blueprint-using-morphvox/"><u>2024 Approved The Complete Voice Change Blueprint Using MorphVOX</u></a></li>
-<li><a href="https://win-top.techidaily.com/configuring-instant-cleanup-how-to-purge-ageing-backups-past-x-days/"><u>Configuring Instant Cleanup: How to Purge Ageing Backups Past X Days</u></a></li>
-<li><a href="https://win-top.techidaily.com/disabling-windows-11-system-updates-with-regedt32-or-registry-modifications/"><u>Disabling Windows 11 System Updates with Regedt32 or Registry Modifications</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-asus-rog-phone-8-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Asus ROG Phone 8 FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win-top.techidaily.com/easy-guide-retrieving-a-recently-erased-excel-document/"><u>Easy Guide: Retrieving a Recently Erased Excel Document</u></a></li>
-<li><a href="https://win-top.techidaily.com/fixing-the-problem-when-your-camera-doesnt-read-the-cf-memory-card/"><u>Fixing the Problem: When Your Camera Doesn't Read the CF Memory Card</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-s17-pro-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo S17 Pro</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/mp4mpeg-audio-extraction-tool/"><u>MP4/MPEG Audio Extraction Tool</u></a></li>
-<li><a href="https://win-top.techidaily.com/panduan-reset-file-dihapsu-di-windows-1011-tutorial-dikembalinya/"><u>Panduan Reset File Dihapsu Di Windows 10/11: Tutorial Dikembalinya</u></a></li>
-<li><a href="https://win-top.techidaily.com/solutionen-fur-das-keine-bootfahigen-gerate-gefunden-fehlermeldung-bei-dell-venue-11-pro-mit-windows-11-drei-ansatze/"><u>Solutionen Für Das 'Keine Bootfähigen Geräte Gefunden' Fehlermeldung Bei Dell Venue 11 Pro Mit Windows 11 (Drei Ansätze)</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-your-windows-n-account-access-problems-solutions-for-secure-signing-in/"><u>Troubleshooting Your Windows N Account Access Problems – Solutions for Secure Signing In</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728504606444-windows-11-ssd/"><u>Windows 11 用户指南：方便易行的将启动磁盘切换为 SSD</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-expert-tips-on-jump-cuts-for-dynamic-video-editing/"><u>[Updated] 2024 Approved Expert Tips on Jump Cuts for Dynamic Video Editing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-ultimate-flashy-game-collection-quick-and-lightweight/"><u>[Updated] 2024 Approved Ultimate Flashy Game Collection - Quick and Lightweight</u></a></li>
+<li><a href="https://win-top.techidaily.com/12-effective-techniques-to-enhance-email-interaction-and-amplify-outcomes-with-massmail-solutions/"><u>12 Effective Techniques to Enhance Email Interaction & Amplify Outcomes with MassMail Solutions</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategies-for-dampening-aerial-drone-vibration-artifacts/"><u>2024 Approved Strategies for Dampening Aerial Drone Vibration Artifacts</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-complete-guide-to-videdit-studio-pro-features-and-more/"><u>A Complete Guide to VidEdit Studio Pro, Features and More</u></a></li>
+<li><a href="https://win-top.techidaily.com/atomica-email-studio-ultimate-walkthrough-using-massmail-a-detailed-tutorial/"><u>Atomica Email Studio Ultimate Walkthrough Using MassMail: A Detailed Tutorial</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-clone-a-sandisk-ssd-to-another-drive-on-windows-11-8-or-7/"><u>How to Clone a SanDisk SSD to Another Drive on Windows 11, 8 or 7</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-harness-free-fb-link-downloaders/"><u>In 2024, Harness Free FB Link Downloaders</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-huawei-nova-y91-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Huawei Nova Y91 Location | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-guide-to-choosing-between-ipad-pro-and-microsofts-surface-pro/"><u>The Ultimate Guide to Choosing Between iPad Pro and Microsoft's Surface Pro</u></a></li>
+<li><a href="https://win-top.techidaily.com/ultimate-guide-choosing-the-ideal-dell-bios-repair-solution-for-your-pc-running-windows/"><u>Ultimate Guide: Choosing the Ideal Dell BIOS Repair Solution for Your PC Running Windows</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unveiling-wiims-newest-streaming-technology-a-revolutionary-update-for-vintage-sound-systems/"><u>Unveiling WiiM's Newest Streaming Technology: A Revolutionary Update for Vintage Sound Systems</u></a></li>
 </ul></div>
 

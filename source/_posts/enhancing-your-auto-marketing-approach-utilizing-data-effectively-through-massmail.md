@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Your Auto-Marketing Approach: Utilizing Data Effectively Through MassMail"
-date: 2024-10-13T16:38:52.182Z
-updated: 2024-10-17T16:25:12.636Z
+date: 2024-10-18T02:57:13.733Z
+updated: 2024-10-22T16:36:22.032Z
 tags:
   - product
 categories:
@@ -45,16 +45,10 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -62,6 +56,13 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -87,13 +88,6 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -102,66 +96,47 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -171,6 +146,13 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -191,24 +173,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/harting-your-course-in-youtubing-dodge-these-top-8-common-missteps/"><u>[New] Charting Your Course in YouTubing Dodge These Top 8 Common Missteps!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-smartphone-list-for-optimal-gear-vr-functionality-2-written-by-john-doe-mba-expert-in-strategic-business-planning-and-marketing/"><u>[New] The Ultimate Smartphone List for Optimal Gear VR Functionality (2 Written By John Doe, MBA | Expert in Strategic Business Planning and Marketing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-essential-guide-to-state-of-the-art-screen-recorders/"><u>[Updated] The Essential Guide to State-of-the-Art Screen Recorders</u></a></li>
-<li><a href="https://win-top.techidaily.com/1-5-effective-strategies-to-retrieve-your-word-file-post-restart/"><u>1. 5 Effective Strategies to Retrieve Your Word File Post-Restart</u></a></li>
-<li><a href="https://win-top.techidaily.com/creating-a-durable-usb-drive-for-windows-11-a-comprehensive-guide/"><u>Creating a Durable USB Drive for Windows 11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/diy-solutions-for-logitech-g430-microphone-connectivity-problems/"><u>DIY Solutions for Logitech G430 Microphone Connectivity Problems</u></a></li>
-<li><a href="https://win-top.techidaily.com/effective-solutions-overcome-sync-issues-with-google-drive-on-windows-1011/"><u>Effective Solutions: Overcome Sync Issues with Google Drive on Windows 10/11</u></a></li>
-<li><a href="https://win-top.techidaily.com/guia-paso-a-paso-regresar-tu-iphone-al-estado-original-con-simplicidad/"><u>Guía Paso a Paso: Regresar Tu iPhone Al Estado Original Con Simplicidad</u></a></li>
-<li><a href="https://win-top.techidaily.com/herstellen-einer-bootfahigen-windows-10-liveusb-mit-rufus-kostenloser-download-und-schritt-fur-schritt-anleitung-fur-portable-setups/"><u>Herstellen Einer Bootfähigen Windows 10 LiveUSB Mit Rufus - Kostenloser Download Und Schritt-Für-Schritt-Anleitung Für Portable Setups</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/iphone-whatsapp/"><u>IPhone WhatsAppメッセージキャプチャ機能 - 空き容量を最大化する方法</u></a></li>
-<li><a href="https://discover-data.techidaily.com/mastering-the-art-of-music-sharing-tips-and-tricks-for-successful-soundcloud-uploads/"><u>Mastering the Art of Music Sharing: Tips and Tricks for Successful SoundCloud Uploads</u></a></li>
-<li><a href="https://win-top.techidaily.com/recuperer-un-document-microsoft-word-perdu-10-methodes-efficacite/"><u>Recuperer Un Document Microsoft Word Perdu : 10 Méthodes Efficacité</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/streaming-soundscapes-on-your-iphone-for-2024/"><u>Streaming Soundscapes on Your iPhone for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tackle-auditory-instability-on-airpods-with-simple-head-tracking-adjustment/"><u>Tackle Auditory Instability on AirPods with Simple Head Tracking Adjustment</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-new-era-of-productivity-in-your-hands-a-comprehensive-look-at-the-galaxy-tab-s6-with-dex-mode-and-stylus-functionality/"><u>The New Era of Productivity in Your Hands: A Comprehensive Look at the Galaxy Tab S6 with DeX Mode and Stylus Functionality.</u></a></li>
-<li><a href="https://win-top.techidaily.com/ultimate-tutorial-on-using-lacie-backup-tool-for-windows-11/"><u>Ultimate Tutorial on Using Lacie Backup Tool for Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/understanding-and-fixing-a-401-authentication-failure-online/"><u>Understanding and Fixing a 401 Authentication Failure Online</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728475058583-windows-11/"><u>Windows 11 專業級無價圖書機 - 完美功能、用户友好型和強大的免費磁碟映像軟體</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-ultimate-slow-motion-showcase-on-instagrams-trendy-reels/"><u>[New] In 2024, The Ultimate Slow Motion Showcase on Instagram's Trendy Reels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-creating-impactful-youtube-conclusion/"><u>[Updated] Creating Impactful YouTube Conclusion</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-asus-rog-phone-8-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Asus ROG Phone 8</u></a></li>
+<li><a href="https://win-top.techidaily.com/elevate-your-email-game-expert-insights-for-enhanced-messaging-via-massmail-tools/"><u>Elevate Your Email Game: Expert Insights for Enhanced Messaging via Massmail Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-pdf-understanding-via-chatgpts-4-tools/"><u>Enhance PDF Understanding via ChatGPT's 4 Tools</u></a></li>
+<li><a href="https://win-top.techidaily.com/gunstige-alternativen-zu-seagates-disk-wizard-expertenbewertungen-und-nutzungsanleitungen/"><u>Günstige Alternativen Zu Seagate's Disk Wizard - Expertenbewertungen Und Nutzungsanleitungen</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-dive-into-the-world-of-youtube-on-facebook-video-content/"><u>In 2024, Dive Into the World of YouTube on Facebook Video Content</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-11-pro-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 11 Pro? Learn All 4 Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-swift-transfer-tweets-as-vids-on-whatsapp-platform/"><u>In 2024, Swift Transfer Tweets as Vids on WhatsApp Platform</u></a></li>
+<li><a href="https://win-top.techidaily.com/send-them-relevant-emails-about-their-purchases/"><u>Send Them Relevant Emails About Their Purchases</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-ranked-tools-for-duplicating-data-on-a-samsung-970-evo-plus-with-windows/"><u>Top-Ranked Tools for Duplicating Data on a Samsung 970 EVO Plus with Windows</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/valheim-vegetation-value-optimal-sapling-guidance-for-2024/"><u>Valheim Vegetation Value Optimal Sapling Guidance for 2024</u></a></li>
 </ul></div>
 
