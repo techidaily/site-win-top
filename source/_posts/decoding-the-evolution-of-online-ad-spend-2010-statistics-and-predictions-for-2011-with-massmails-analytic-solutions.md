@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Evolution of Online Ad Spend: 2010 Statistics and Predictions for 2011 with Massmail's Analytic Solutions"
-date: 2024-10-24T16:12:54.852Z
-updated: 2024-10-28T22:51:24.630Z
+date: 2024-10-27T22:28:17.849Z
+updated: 2024-11-03T16:04:46.335Z
 tags:
   - product
 categories:
@@ -22,13 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -39,16 +32,16 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -58,13 +51,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -72,10 +58,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -90,13 +76,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -105,9 +84,23 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -125,21 +118,22 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 8\. Partner
@@ -173,22 +167,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-enhance-your-profile-best-tools-to-create-professional-facebook-cover-photos/"><u>[New] In 2024, Enhance Your Profile Best Tools to Create Professional Facebook Cover Photos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-propel-your-youtube-presence-with-google-analytics-skills/"><u>[Updated] Propel Your YouTube Presence with Google Analytics Skills</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728467874848-windows-server-201/"><u>「無感電荷地更換Windows Server 201</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-top-8-best-video-converter-on-iphonedesktop/"><u>2024 Approved Top 8 Best Video Converter on iPhone/Desktop</u></a></li>
-<li><a href="https://win-top.techidaily.com/como-ampliar-el-almacenamiento-de-su-pc-transformando-un-hdd-en-ssd-en-sistemas-windows/"><u>Cómo Ampliar El Almacenamiento De Su PC: Transformando Un HDD en SSD en Sistemas Windows</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-why-linksys-velop-is-the-top-choice-for-smart-home-routers/"><u>Comprehensive Analysis: Why Linksys Velop Is the Top Choice for Smart Home Routers</u></a></li>
-<li><a href="https://win-top.techidaily.com/guide-complet-les-meilleurs-produits-gratuits-de-clonage-disque-ssd-sk-hynic-caracteristiques-et-avantages-uniques/"><u>Guide Complet : Les Meilleurs Produits Gratuits De Clonage Disque SSD SK Hynic, Caractéristiques Et Avantages Uniques</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-v-purse-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor V Purse without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/humor-driven-promotional-strategies-essential-guidelines-for-gratuity-in-dining-establishments-with-massmail-tools/"><u>Humor-Driven Promotional Strategies: Essential Guidelines for Gratuity in Dining Establishments with MassMail Tools</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-nubia-red-magic-9-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Nubia Red Magic 9 Pro FRP Bypass</u></a></li>
-<li><a href="https://win-top.techidaily.com/ps5ssd/"><u>PS5ディスク容量拡張手順：SSDアップグレード完全マニュアル</u></a></li>
-<li><a href="https://win11.techidaily.com/the-simple-way-to-self-empty-the-recycle-bin-on-windows/"><u>The Simple Way to Self-Empty the Recycle Bin on Windows</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-rated-tools-for-professionals-in-email-marketing-discover-massmail/"><u>Top-Rated Tools for Professionals in Email Marketing: Discover MassMail</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-connect-your-device-bluetooth-error-in-windows-11/"><u>Troubleshooting Connect Your Device Bluetooth Error in Windows 11</u></a></li>
-<li><a href="https://win-top.techidaily.com/unveiling-profit-driven-markets-using-effective-digital-approaches-insights-from-massmail-tech/"><u>Unveiling Profit-Driven Markets Using Effective Digital Approaches - Insights From MassMail Tech</u></a></li>
-<li><a href="https://win-top.techidaily.com/upgrade-windows-server-seamlessly-from-2012-r2-to-2019-without-losing-any-data/"><u>Upgrade Windows Server Seamlessly From 2012 R2 to 2019 Without Losing Any Data</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/vmware-virtual-machine-recovery-two-effective-methods/"><u>VMware Virtual Machine Recovery: Two Effective Methods</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-kinetic-keywords-animation-mastery-for-social-media-captions/"><u>[New] 2024 Approved Kinetic Keywords Animation Mastery for Social Media Captions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-cinematic-images-on-iphone-8-advanced-techniques/"><u>[New] Crafting Cinematic Images on iPhone 8 Advanced Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-the-subtle-art-of-easing-audio-intensity-garageband/"><u>[New] In 2024, The Subtle Art of Easing Audio Intensity (Garageband)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-exclusive-roundup-the-best-video-to-mp3-converters/"><u>[Updated] Exclusive Roundup The Best Video to Mp3 Converters</u></a></li>
+<li><a href="https://win-top.techidaily.com/affordable-auto-rentals-made-easy-top-tips-with-massmail-pro/"><u>Affordable Auto Rentals Made Easy: Top Tips with MassMail Pro</u></a></li>
+<li><a href="https://win-top.techidaily.com/comment-configurer-une-synchronisation-asynchrone-unidirectionnelle-a-laide-de-qsync-sur-windows-versions-11-10-8-et-7/"><u>Comment Configurer Une Synchronisation Asynchrone Unidirectionnelle À L'aide De Qsync Sur Windows (Versions 11, 10, 8 Et 7)</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-infinix-hot-40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Hot 40 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-psd-overhaul-techniques-for-2024/"><u>Expert PSD Overhaul Techniques for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-infinix-smart-8-plus-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Infinix Smart 8 Plus Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-livestream-perfection-selecting-your-go-to-platform/"><u>In 2024, Livestream Perfection Selecting Your Go-To Platform</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-the-art-of-content-creation-the-ultimate-guide-to-modern-blogging-platforms-and-mass-mailing-techniques-for-web-success/"><u>Mastering the Art of Content Creation - The Ultimate Guide to Modern Blogging Platforms and Mass Mailing Techniques for Web Success</u></a></li>
+<li><a href="https://win-top.techidaily.com/revive-your-disappeared-memories-tutorial-for-restoring-permanently-erased-video-files-on-computers/"><u>Revive Your Disappeared Memories: Tutorial for Restoring Permanently Erased Video Files on Computers</u></a></li>
+<li><a href="https://win-top.techidaily.com/unleashing-effective-email-strategies-akin-to-a-well-played-match-dive-into-massmail-solutions/"><u>Unleashing Effective Email Strategies Akin to a Well-Played Match: Dive Into MassMail Solutions</u></a></li>
+<li><a href="https://win-top.techidaily.com/unveiling-the-magic-of-macd-strategy-for-currency-markets-on-metatrader-4/"><u>Unveiling the Magic of MACD Strategy for Currency Markets on MetaTrader 4</u></a></li>
 </ul></div>
 
