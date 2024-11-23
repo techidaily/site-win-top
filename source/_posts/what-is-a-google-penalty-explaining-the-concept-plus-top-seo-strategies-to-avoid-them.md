@@ -1,7 +1,7 @@
 ---
 title: What Is a Google Penalty? Explaining the Concept + Top SEO Strategies to Avoid Them
-date: 2024-11-11T20:52:44.662Z
-updated: 2024-11-13T00:36:48.798Z
+date: 2024-11-15T16:25:01.778Z
+updated: 2024-11-22T19:25:03.328Z
 tags:
   - wiki
 categories:
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/6751e55bdf4c2e1662ce3bd78f4508fbf0de25f71
 >
 
 ## Google penalty
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Contents
 
@@ -41,9 +34,17 @@ thumbnail: https://thmb.techidaily.com/6751e55bdf4c2e1662ce3bd78f4508fbf0de25f71
 * [Related articles](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Definition
 
 A Google penalty is a significant cutback in organic visibility and clicks, which a website experiences in response to the owner’s violation of the search engine’s guidelines. The penalty may be specifically issued by someone on the Google team or applied automatically when the website triggers some [algorithmic spam indicators](https://tools.techidaily.com/link-assistant/products/). 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What happens when you get a Google penalty?
 
@@ -70,43 +71,24 @@ Many a time, the creator of spammy content and links on the website is not the w
 Another external factor for a Google penalty is spammy web hosting. If the hosting provider gets penalized for hosting too many spammy websites, each and every website they host will also get a Google SEO penalty, regardless of their quality. Thus, the best practice to avoid penalties is to stick with a trusted and authoritative hosting provider. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Structured data issue
 
 This penalty might be issued if a website owner tries to manipulate the search engine by disguising its content for something different than it is. In other words, if the actual type of content on a page is different from the type of schema markup you are using, a penalty might follow. The most healthy practice here is to follow Google’s structured data guidelines[\[2\]](https://tools.techidaily.com/link-assistant/products/) and use structured data only the way it is appropriate. 
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Unnatural backlinks
 
 This penalty is very likely to follow when the webmaster is involved in shady link building - i.e. paying for links, using PBNs, comment spam, and other black-hat SEO tactics. After receiving such a penalty, the only way to go would be to remove the unnaturally built backlinks or disavow them via the Google Disavow file to make sure the search engine excludes them from its authority calculations. 
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Unnatural outbound links
 
 Your website mustn’t be involved in link-building schemes not only as the recipient of the backlink but also as its donor. So, excessively linking out to irrelevant resources or clearly doing this for a cash reward is likely to get your website under a Google SEO penalty. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Thin content penalty
 
@@ -121,10 +103,7 @@ After that, the cause of the penalty should be identified and the violation - be
 Finally, when the website can no longer be considered a violator, a reconsideration request to Google is sent.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related articles
@@ -154,24 +133,20 @@ Finally, when the website can no longer be considered a violator, a reconsiderat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-a-spectrum-of-excellence-top-5-tvs-for-grading-mastery/"><u>[New] 2024 Approved A Spectrum of Excellence Top 5 TVs for Grading Mastery</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-advanced-insights-fullscreen-perfection-with-adobe-premiere/"><u>[New] 2024 Approved Advanced Insights Fullscreen Perfection with Adobe Premiere</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-curate-engaging-content-with-top-igtv-editor-tools/"><u>[New] Curate Engaging Content with Top IGTV Editor Tools</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-revolutionizing-pc-captures-a-review-of-apowersofts-tool/"><u>[New] Revolutionizing PC Captures A Review of Apowersoft’s Tool</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-utilizing-b-roll-enhancing-video-quality/"><u>[New] Utilizing B Roll Enhancing Video Quality</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-fostering-connection-through-respectful-engagement-for-2024/"><u>[Updated] Fostering Connection Through Respectful Engagement for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-leading-edge-1-ranked-4k-gaming-pcs/"><u>[Updated] In 2024, Leading Edge #1 Ranked 4K Gaming PCs</u></a></li>
-<li><a href="https://win-top.techidaily.com/alexandrias-premier-seo-firms-discover-expert-services-with-seo-powersuite/"><u>Alexandria's Premier SEO Firms : Discover Expert Services with SEO PowerSuite</u></a></li>
-<li><a href="https://win-top.techidaily.com/boost-site-visibility-in-2011-discover-effective-seo-techniques-and-free-continuous-traffic-using-massmail-tools/"><u>Boost Site Visibility in 2011: Discover Effective SEO Techniques & Free Continuous Traffic Using MassMail Tools</u></a></li>
-<li><a href="https://win-top.techidaily.com/data-protection-during-sd-card-reformatting-expert-tips-for-windows-users/"><u>Data Protection During SD Card Reformatting: Expert Tips for Windows Users</u></a></li>
-<li><a href="https://win-top.techidaily.com/discovering-pre-owned-electronic-devices-in-2009-with-massmails-innovative-approach/"><u>Discovering Pre-Owned Electronic Devices in 2009 with Massmail's Innovative Approach</u></a></li>
-<li><a href="https://win-top.techidaily.com/effectively-remembering-your-audience-through-gentle-email-alerts-using-massmail-technology/"><u>Effectively Remembering Your Audience Through Gentle Email Alerts Using MassMail Technology</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-fix-iphone-7-could-not-be-activatedreached-issue-by-drfone-ios/"><u>How To Fix iPhone 7 Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://win-top.techidaily.com/master-the-art-of-blog-seo-boost-your-visibility-using-massmail-techniques/"><u>Master the Art of Blog SEO: Boost Your Visibility Using MassMail Techniques</u></a></li>
-<li><a href="https://win-top.techidaily.com/maximize-mailing-success-top-5-hassle-free-techniques-for-building-an-email-list-using-massmail-solutions/"><u>Maximize Mailing Success: Top 5 Hassle-Free Techniques for Building an Email List Using MassMail Solutions</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigating-the-hype-unraveling-the-mysteries-of-the-latest-nvidia-rtx-4070/"><u>Navigating the Hype: Unraveling the Mysteries of the Latest Nvidia RTX 4070</u></a></li>
-<li><a href="https://win-top.techidaily.com/query/"><u>Query</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-mac-video-tag-editor-8-best-tools-for-easy-organization/"><u>Updated In 2024, Mac Video Tag Editor 8 Best Tools for Easy Organization</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-5-seo-kompanij-v-dalase-dlya-povysheniya-onlajn-vidimosti-ekspertnoe-rukovodstvo-s-seo-powersuite/"><u>Топ-5 SEO-Компаний В Даласе Для Повышения Онлайн-Видимости: Экспертное Руководство С SEO PowerSuite</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-ultimate-list-of-top-quality-cost-free-luts/"><u>[New] In 2024, Ultimate List of Top-Quality, Cost-Free LUTs</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-finding-the-best-prices-on-vr-headsets-from-china/"><u>[Updated] 2024 Approved Finding the Best Prices on VR Headsets From China</u></a></li>
+<li><a href="https://win-top.techidaily.com/1-access-your-pictures-for-zero-cost-a-guide-to-checking-out-icloud-backups/"><u>1. Access Your Pictures for Zero Cost: A Guide to Checking Out iCloud Backups</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-walking-dead-top-picks-for-horror-gamers/"><u>2024 Approved Walking Dead Top Picks for Horror Gamers</u></a></li>
+<li><a href="https://win-top.techidaily.com/effortless-transition-transferring-data-from-your-previous-device-to-the-latest-iphone-1415/"><u>Effortless Transition: Transferring Data From Your Previous Device to the Latest iPhone 14/15</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-honor-v-purse-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/integrer-amazon-cloud-drive-avec-un-mac-un-tutoriel-pratique-pour-la-synchronisation-sans-probleme/"><u>Intégrer Amazon Cloud Drive Avec Un Mac : Un Tutoriel Pratique Pour La Synchronisation Sans Problème</u></a></li>
+<li><a href="https://win-top.techidaily.com/localizing-file-histories-with-emeditor-a-comprehensive-text-editing-tool/"><u>Localizing File Histories with EmEditor - A Comprehensive Text Editing Tool</u></a></li>
+<li><a href="https://win-top.techidaily.com/reparation-et-reinitialisation-du-sistema-de-imagenes-en-windows-10-methodes-faciles/"><u>Réparation Et Réinitialisation Du Sistema De Imágenes en Windows 10 - Méthodes Faciles</u></a></li>
+<li><a href="https://win-top.techidaily.com/should-you-prep-your-new-ssd-for-data-duplication-comprehensive-guide/"><u>Should You Prep Your New SSD for Data Duplication? Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-top-9-issues-with-icloud-on-your-iphoneipad-troubleshooting-and-solutions/"><u>Solving the Top 9 Issues with iCloud on Your iPhone/iPad: Troubleshooting & Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/step-by-step-guide-converting-your-favorite-soundcloud-tracks-into-high-quality-aac-audio-files/"><u>Step-by-Step Guide: Converting Your Favorite SoundCloud Tracks Into High-Quality AAC Audio Files</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-microsoft-teams-when-is-downtime-user-error/"><u>Troubleshooting Microsoft Teams – When Is Downtime User Error?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-top-8-converter-list-for-sub-to-srt/"><u>Ultimate Top 8 Converter List for Sub to SRT</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728491030784-windowsaomei-backupper/"><u>Windows用ディスクバックアップツール「AOMEI Backupper」の紹介</u></a></li>
 </ul></div>
 

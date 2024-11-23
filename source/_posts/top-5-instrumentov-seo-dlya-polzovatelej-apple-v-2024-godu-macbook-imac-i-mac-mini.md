@@ -1,7 +1,7 @@
 ---
 title: "Топ-5 Инструментов SEO Для Пользователей Apple В 2024 Году: MacBook, iMac И Mac Mini"
-date: 2024-11-07T19:34:55.708Z
-updated: 2024-11-12T23:12:14.212Z
+date: 2024-11-18T02:07:50.686Z
+updated: 2024-11-23T03:02:37.271Z
 tags:
   - articles
 categories:
@@ -133,6 +133,10 @@ SEO PowerSuite - это наш универсальный набор SEO-инс�
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/rt-1-1024x538.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Трекер рангов
 
 Rank Tracker - это универсальный инструмент, который позволяет пользователям отслеживать рейтинг ключевых слов в различных поисковых системах и устройствах. Он предлагает универсальное решение для отслеживания позиций ключевых слов с настраиваемыми панелями отслеживания рангов и SEO-отчетами. Разработанный для профессиональных SEO-задач, Rank Tracker позволяет пользователям проверять ранжирование без ограничений по ключевым словам, оптимизировать для локального поиска, проводить исследования ключевых слов, анализировать ключевые слова и трафик конкурентов и многое другое. Гибкость нашего инструмента позволяет отслеживать ранжирование в более чем 597 поисковых системах, что делает его комплексным решением для SEO-специалистов, которым нужны подробные и точные данные для выработки стратегии.
@@ -186,11 +190,19 @@ WebSite Auditor предлагает множество функций для у
 
 План Enterprise предназначен для обширных SEO-потребностей и стоит $499 в год. При выборе двухлетней подписки годовая цена снижается до $399, что составляет 20%, а трехлетний план еще больше снижает стоимость до $333 в год, предлагая скидку в 34%. Этот план включает в себя все функции Профессионального плана, а также неограниченный поиск и поиск ссылок, сохранение проектов и улучшенную обработку специальных запросов. Кроме того, он обеспечивает автоматизацию SEO-задач и полностью настраиваемые отчеты с белыми метками, что делает его подходящим для масштабных SEO-проектов.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Плюсы:
 
 * Комплексные инструменты для аудита и оптимизации сайта
 * Визуальный анализ карты сайта и внутренней перелинковки
 * Оптимизация контента в приложении
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Конс:
 
@@ -199,25 +211,11 @@ WebSite Auditor предлагает множество функций для у
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/sg-1-1024x538.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. SEO SpyGlass
 
 SEO SpyGlass - это наш мощный инструмент анализа обратных ссылок, который помогает пользователям проводить аудит и исследование обратных ссылок для улучшения SEO-показателей сайта. Инструмент обеспечивает тщательный аудит качества обратных ссылок, используя один из крупнейших и наиболее актуальных индексов обратных ссылок. Пользователи могут анализировать собственные профили обратных ссылок, сравнивать их с конкурентами и открывать новые возможности для получения ссылок. SEO SpyGlass также предлагает информацию о реферальном трафике, авторитетности ссылок и риске штрафов за некачественные обратные ссылки.
 
 SEO SpyGlass предназначен для детального анализа обратных ссылок всего за несколько кликов. Он предоставляет подробную информацию о каждой обратной ссылке, включая ее тип, риск штрафа и анкорный текст. Инструмент также позволяет сравнивать профили обратных ссылок конкурентов, выявлять пробелы в обратных ссылках и отслеживать исторические данные обратных ссылок, чтобы проследить изменения с течением времени. Кроме того, SEO SpyGlass поддерживает массовый анализ до 200 доменов, что делает его ценным инструментом для масштабных кампаний по наращиванию ссылочной массы.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Ценовые планы:
 
@@ -233,6 +231,10 @@ SEO SpyGlass предназначен для детального анализа
 
 Стоимость плана Enterprise составляет $499 в год, при двухлетней подписке годовая стоимость снижается до $399 (скидка 20%), а при трехлетнем плане - до $333 в год (скидка 34%). Этот план включает в себя все функции Профессионального плана, а также автоматическую проверку обратных ссылок, расширенный поиск и привлечение ссылок и отчетность на основе белых меток. Он также включает расширенную обработку специальных запросов для проверки без капчи, что делает его идеальным для крупномасштабных SEO-усилий.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Плюсы:
 
 * Всесторонний анализ и исследование обратных ссылок
@@ -245,6 +247,14 @@ SEO SpyGlass предназначен для детального анализа
 * Может быть сложным для новичков
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/la-1-1024x538.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. LinkAssistant
 
@@ -266,6 +276,10 @@ LinkAssistant упрощает процесс построения ссылок,
 
 План Enterprise стоит $499 в год, при двухлетней подписке годовая цена снижается до $399 (скидка 20%), а при трехлетнем плане - до $333 в год (скидка 34%). Этот план включает все функции Профессионального плана, а также расширенную обработку выделенных запросов, автоматическую проверку обратных ссылок и полностью настраиваемые отчеты с белой меткой. Он также предлагает расширенный поиск ссылок, что делает его подходящим для масштабных кампаний по наращиванию ссылочной массы.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Плюсы:
 
 * Комплексные инструменты для построения ссылок и работы с населением
@@ -277,13 +291,6 @@ LinkAssistant упрощает процесс построения ссылок,
 * Некоторые функции ограничены
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/Screaming-Frog-.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Screaming Frog SEO Spider
 
@@ -315,6 +322,10 @@ Screaming Frog SEO Spider предлагает бесплатную версию
 * Всесторонние возможности аудита сайта
 * Эффективная визуализация архитектуры сайта
 * Генерирует XML-карты сайта и файлы robots.txt
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Конс:
 
@@ -368,13 +379,6 @@ Netpeak Spider - это надежный SEO-инструмент, предна�
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/Pro-Rank-Tracker.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 8\. Pro Rank Tracker
 
 Pro Rank Tracker - это специализированный SEO-инструмент, ориентированный на отслеживание позиций ключевых слов на страницах результатов поисковых систем (SERP). Он предлагает высокоточное и актуальное отслеживание ключевых слов, что делает его идеальным решением для пользователей Mac, которым нужны точные данные о результатах SEO. Pro Rank Tracker предоставляет информацию о рейтинге ключевых слов из различных мест и с различных устройств, помогая пользователям понять свою эффективность на разных рынках. Возможность отслеживания 100 лучших страниц по любому ключевому слову позволяет получить полное представление о конкурентной среде.
@@ -414,6 +418,10 @@ Advanced Web Ranking - это мощный инструмент для отсл�
 
 Преимуществом Advanced Web Ranking является возможность сегментировать данные о ранжировании на основе различных параметров, что помогает пользователям понять свои показатели на различных рынках. Однако стоимость использования этого инструмента может увеличиться, особенно для пользователей, которые отслеживают большое количество ключевых слов, так как цены основаны на объеме выполненных поисковых запросов. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Ценовые планы:
 
 План Pro План Pro стоит $99 в месяц и подходит для SEO-фрилансеров и малого бизнеса. Он включает 7 000 ключевых слов, 4 000+ поисковых систем, а также такие функции, как отслеживание локального поиска и анализ конкурентов. 
@@ -425,13 +433,6 @@ Advanced Web Ranking - это мощный инструмент для отсл�
 #### План предприятия
 
 План Enterprise, доступный по цене $449 в месяц, включает 35 500 ключевых слов и предоставляет широкие возможности для масштабных SEO-операций. Этот план поддерживает неограниченное количество проектов и пользователей, что делает его идеальным для крупных организаций. 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Плюсы:
 
@@ -445,20 +446,6 @@ Advanced Web Ranking - это мощный инструмент для отсл�
 * Может быть сложным для новых пользователей
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/Scrutiny-for-Mac.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 10\. Scrutiny для Mac
 
@@ -513,10 +500,7 @@ $31.50 в месяц (оплачивается ежегодно), поддерж
 * Может оказаться непосильной задачей для новичков из-за обширных возможностей.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Заключение
@@ -540,21 +524,18 @@ $31.50 в месяц (оплачивается ежегодно), поддерж
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-breaking-down-instagrams-video-conversation-protocol-for-2024/"><u>[New] Breaking Down Instagram's Video Conversation Protocol for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-definitive-list-of-tools-for-computer-and-microphone-capture-for-2024/"><u>[Updated] The Definitive List of Tools for Computer & Microphone Capture for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728492346130-wd-my-cloudwindows-11/"><u>如何使WD My Cloud恢复在Windows 11系统中的可见性——最新解决方法</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728497649990-efibios/"><u>修正完成：EFI/BIOS引起的系统恢复图片无法重建</u></a></li>
-<li><a href="https://win-top.techidaily.com/core-content-strategies-defining-the-cornerstones-of-seo-success-a-comprehensive-guide/"><u>Core Content Strategies: Defining the Cornerstones of SEO Success - A Comprehensive Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-tecno-pop-8-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Tecno Pop 8</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-honor-x8b-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/elevate-your-email-game-expert-insights-for-enhanced-messaging-via-massmail-tools/"><u>Elevate Your Email Game: Expert Insights for Enhanced Messaging via Massmail Tools</u></a></li>
-<li><a href="https://win-top.techidaily.com/facil-y-gratuita-sincronizacion-entre-ordenadores-pasos-simples-para-compartir-archivos/"><u>Fácil Y Gratuita Sincronización Entre Ordenadores: Pasos Simples Para Compartir Archivos</u></a></li>
-<li><a href="https://win-top.techidaily.com/how-to-extract-and-save-a-bootable-disk-image-with-aomei-in-linux-systems/"><u>How to Extract and Save a Bootable Disk Image with AOMEI in Linux Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-infinix-hot-40-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Infinix Hot 40</u></a></li>
-<li><a href="https://extra-support.techidaily.com/integrating-linktree-in-your-tiktok-bio-for-maximum-impact-for-2024/"><u>Integrating Linktree in Your TikTok Bio for Maximum Impact for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-to-let-go-of-hurtful-comments-for-2024/"><u>Learning to Let Go of Hurtful Comments for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722966480145-quick-and-easy-update-downloading-amd-ati-radeon-hd-3450-drivers-now/"><u>Quick and Easy Update: Downloading AMD ATI Radeon HD 3450 Drivers Now</u></a></li>
-<li><a href="https://win-excellent.techidaily.com/wiederherstellung-von-daten-nach-einem-plattenausfall-professionelle-methoden-und-tipps/"><u>Wiederherstellung Von Daten Nach Einem Plattenausfall – Professionelle Methoden Und Tipps</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-5-kompanij-po-optimizacii-dlya-poiskovyh-sistem-v-varshave-polsha-seo-powersuite/"><u>Топ-5 Компаний По Оптимизации Для Поисковых Систем В Варшаве, Польша - SEO PowerSuite</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-fcp-download-hack-get-it-for-free-in-2024/"><u>[Updated] FCP Download Hack Get It for Free, In 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-mastery-in-captioning-a-youtube-creators-handbook/"><u>2024 Approved Mastery in Captioning A YouTube Creator's Handbook</u></a></li>
+<li><a href="https://win-top.techidaily.com/boot-into-safe-mode-restart-your-pc-and-press-f8-or-shift-plus-f8-on-newer-systems-to-enter-advanced-startup-options-then-select-safe-mode-this-will-load-wi42/"><u>Boot Into Safe Mode: Restart Your PC and Press F8 (or Shift + F8 on Newer Systems) to Enter Advanced Startup Options, Then Select Safe Mode. This Will Load Windows with a Minimal Set of Drivers and Services.</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-the-bits-activision-blizzard-titles-ready-for-reload-with-xbox/"><u>Bring Back the Bits! Activision Blizzard Titles Ready for Reload with Xbox</u></a></li>
+<li><a href="https://win-top.techidaily.com/comment-dupliquer-avec-efficacite-un-ssd-sur-windows-easement-sans-endommager-vos-fichiers/"><u>Comment Dupliquer Avec Efficacité Un SSD Sur Windows Easement Sans Endommager Vos Fichiers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/edit-and-cut-videos-anywhere-best-free-online-cropping-software/"><u>Edit and Cut Videos Anywhere: Best Free Online Cropping Software</u></a></li>
+<li><a href="https://win-top.techidaily.com/guia-paso-a-paso-como-hacer-la-mejor-copia-de-respaldo-antes-de-actualizarreinstalar-windows-11/"><u>Guía Paso a Paso: Cómo Hacer La Mejor Copia De Respaldo Antes De Actualizar/Reinstalar Windows 11</u></a></li>
+<li><a href="https://win-top.techidaily.com/guide-dassistance-resolvez-la-detection-erronee-de-votre-ssd-samsung-t7-avec-ces-trois-methodes-sur-windows-amok/"><u>Guide D'assistance : Résolvez La Détection Erronée De Votre SSD Samsung T7 Avec Ces Trois Méthodes Sur Windows amoK</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-easily-and-effectively-backup-cf-cards-at-no-cost-a-guide-for-windows-users/"><u>How to Easily and Effectively Backup CF Cards at No Cost: A Guide for Windows Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/simple-and-effective-methods-ranking-the-top-5-tools-for-converting-ogg-audio-to-mp3/"><u>Simple & Effective Methods: Ranking the Top 5 Tools for Converting OGG Audio to MP3</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/streaming-beyond-streamlabs-a-comparative-study/"><u>Streaming Beyond StreamLabs A Comparative Study</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unseen-conversationalists-of-cyberspace-a-deep-dive-into-the-dead-internet-theory/"><u>Unseen Conversationalists of Cyberspace: A Deep Dive Into the Dead Internet Theory</u></a></li>
 </ul></div>
 

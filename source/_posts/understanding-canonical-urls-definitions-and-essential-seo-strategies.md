@@ -1,7 +1,7 @@
 ---
 title: "Understanding Canonical URLs: Definitions and Essential SEO Strategies"
-date: 2024-11-05T21:38:56.481Z
-updated: 2024-11-12T18:06:36.053Z
+date: 2024-11-20T04:11:04.570Z
+updated: 2024-11-23T04:00:09.943Z
 tags:
   - wiki
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/792170e0e2370b90ed364449dbb33c6317a0c77d0
 
 ## Canonical URL
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Contents
 
 * [Canonical URL definition](https://tools.techidaily.com/link-assistant/products/)
@@ -35,9 +28,17 @@ thumbnail: https://thmb.techidaily.com/792170e0e2370b90ed364449dbb33c6317a0c77d0
 * [Related links](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Canonical URL definition
 
 A canonical URL (also called a _canonical link_) is a page that is most representative of a set of duplicate or near-duplicate pages on your site. It is the URL that Google indexes and displays in search results.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Setting up canonical URLs
 
@@ -57,13 +58,6 @@ To do this, you need to add the rel=”canonical” tag in the HTML of the dupli
 
 If you need to specify canonical for non-HTML files such as PDFs, you can add a rel=”canonical” HTTP header response.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Checking canonical URLs
 
 There are various free and paid tools to check if a page is canonical. If you need to check a specific URL, you can use canonical tag checkers such as [SEO Site Checkup](https://seositecheckup.com/tools/canonical-tag-test) or [SEOptimer](https://www.seoptimer.com/canonical-checker). If you need to bulk check what pages on your website have canonical tags, then use [WebSite Auditor](https://tools.techidaily.com/link-assistant/products/) (_Site Structure_ \> _Site Audit_ \> _Redirects_ \> _Pages with rel=”canonical”_):
@@ -71,10 +65,11 @@ There are various free and paid tools to check if a page is canonical. If you ne
 ![checking canonicals with WebSite Auditor](https://cdn1.link-assistant.com/thumbs/w1387-c1/upload/seowiki/posts/29/cl1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Canonical URLs best SEO practices
@@ -91,10 +86,7 @@ Top Google guidelines for canonical URLs[\[1\]](https://tools.techidaily.com/lin
 * Link to canonical URLs only
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Canonical URLs and CMSs
@@ -126,22 +118,24 @@ Many content management systems (CMS) such as Shopify, Wix, WordPress, etc. do n
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-eight-powerful-devices-for-prospective-filmora-alternatives/"><u>[New] Eight Powerful Devices for Prospective Filmora Alternatives</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-complete-picture-youtubes-quick-clips/"><u>[New] The Complete Picture YouTube's Quick Clips</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-free-youtube-intro-steps-and-template-guide/"><u>[Updated] Free YouTube Intro Steps and Template Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-5-premier-cloud-platforms-revolutionizing-storage/"><u>2024 Approved 5 Premier Cloud Platforms Revolutionizing Storage</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-audio-prime-websites-for-turning-video-melodies-into-sound-effects/"><u>2024 Approved Seamless Audio Prime Websites for Turning Video Melodies Into Sound Effects</u></a></li>
-<li><a href="https://win-top.techidaily.com/alexandrias-premier-seo-firms-discover-expert-services-with-seo-powersuite/"><u>Alexandria's Premier SEO Firms : Discover Expert Services with SEO PowerSuite</u></a></li>
-<li><a href="https://win-top.techidaily.com/boost-your-workstations-power-elevate-with-a-dell-wyse-5060-solid-state-drive-ssd-enhancement/"><u>Boost Your Workstation's Power: Elevate with a Dell Wyse 5060 Solid State Drive (SSD) Enhancement</u></a></li>
-<li><a href="https://win-top.techidaily.com/guide-retrieve-lost-youtube-history-and-download-missing-videos/"><u>Guide: Retrieve Lost YouTube History and Download Missing Videos</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/how-to-perform-a-complete-system-restore-using-wbadmin-on-unmatched-hardware-configurations/"><u>How to Perform a Complete System Restore Using WBAdmin on Unmatched Hardware Configurations</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-art-of-enhanced-visual-interaction-in-microsoft-teams/"><u>In 2024, The Art of Enhanced Visual Interaction in Microsoft Teams</u></a></li>
-<li><a href="https://win-top.techidaily.com/master-the-art-of-blog-seo-boost-your-visibility-using-massmail-techniques/"><u>Master the Art of Blog SEO: Boost Your Visibility Using MassMail Techniques</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-fx-trading-distinguishing-technical-from-fundamental-analysis-techniques-on-metatrader-4/"><u>Mastering FX Trading: Distinguishing Technical From Fundamental Analysis Techniques on MetaTrader 4</u></a></li>
-<li><a href="https://win-top.techidaily.com/optimizacion-rapida-de-copias-y-transferencias-de-datos-en-windows-11-descubre-los-mejores-8-tecnicas/"><u>Optimización Rápida De Copias Y Transferencias De Datos en Windows 11 - Descubre Los Mejores 8 Técnicas</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-12-ultimate-agenda-organizers-boosting-workplace-efficiency/"><u>Top 12 Ultimate Agenda Organizers Boosting Workplace Efficiency</u></a></li>
-<li><a href="https://win-top.techidaily.com/unveiling-the-realities-of-integrating-videos-into-email-marketing-strategies-dispelling-myths-since-201n-a-guide-using-massmail/"><u>Unveiling the Realities of Integrating Videos Into Email Marketing Strategies, Dispelling Myths Since 201N - A Guide Using MassMail</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-this-article-introduce-tips-on-how-to-stream-any-video-format-to-google-chromecast-for-2024/"><u>Updated This Article Introduce Tips on How to Stream Any Video Format to Google Chromecast for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/silnye-igroki-seo-klyuchevye-prilozheniya-i-instrumenty-dlya-blogerov-v-2024-godu-powersuite-rejting-seo/"><u>Сильные Игроки SEO: Ключевые Приложения И Инструменты Для Блогеров В 2024 Году | PowerSuite Рейтинг SEO</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mastering-twitter-setup-a-step-by-step-guide/"><u>[New] 2024 Approved Mastering Twitter Setup A Step-by-Step Guide</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-friendly-reminder-how-to-chill-at-someones-tiktok-party/"><u>[Updated] In 2024, Friendly Reminder How To Chill at Someone's TikTok Party</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-prime-10-editors-seamless-image-transformation-pro/"><u>[Updated] Prime 10 Editors Seamless Image Transformation Pro</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024s-cloud-pricing-breakdown-a-detailed-comparison/"><u>2024'S Cloud Pricing Breakdown A Detailed Comparison</u></a></li>
+<li><a href="https://win-top.techidaily.com/usb202n/"><u>安心してUSBに移動！最新ファイル転送プログラム202n年 - 無料強化機能付き</u></a></li>
+<li><a href="https://win-top.techidaily.com/ius6huinoplusawuos5hewiqumzpowsjomhjew7uuizhplusa6kowbnuautuahtjog5lia56plush5lul57s55zub56iu5lin5zcm5pa55rov55qe6kmz55uh5pwz56ilig/"><u>了解永久刪除和重建資源回收桶: 一篇介紹四種不同方法的詳盡教程</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpts-external-plugins-are-they-reliable-and-safe/"><u>ChatGPT's External Plugins: Are They Reliable and Safe?</u></a></li>
+<li><a href="https://win-top.techidaily.com/effortless-drive-management-configuring-automatic-backup-space-control-on-windows/"><u>Effortless Drive Management: Configuring Automatic Backup Space Control on Windows 지급</u></a></li>
+<li><a href="https://win-top.techidaily.com/erfolgreich-beschadigte-sd-karten-wiederherstellen-expertenrat-fur-einen-unkomplizierten-prozess/"><u>Erfolgreich Beschädigte SD-Karten Wiederherstellen - Expertenrat Für Einen Unkomplizierten Prozess</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-purchase-an-emeditor-license-from-emurasoft-using-euro-as-currency-a-comprehensive-guide/"><u>How to Purchase an EmEditor License From EmuraSoft Using Euro as Currency - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-top.techidaily.com/maitriser-la-tension-cessez-les-clignotements-du-curseur-votre-solution-ultime-au-stress/"><u>Maîtriser La Tension, Cessez Les Clignotements Du Curseur : Votre Solution Ultime Au Stress</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximizing-longevity-with-finties-guard-a-closer-look-at-macbook-pro-13-defense-gear-and-its-price-advantage/"><u>Maximizing Longevity with Fintie's Guard: A Closer Look at MacBook Pro 13 Defense Gear & Its Price Advantage</u></a></li>
+<li><a href="https://win-top.techidaily.com/tacticas-eficaces-para-la-restauracion-del-juego-ps4-disco-no-reconocido-paso-a-paso-y-consejos-utiles/"><u>Tácticas Eficaces Para La Restauración Del Juego PS4 'Disco No Reconocido': Paso a Paso Y Consejos Útiles</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-nokia-c02-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Nokia C02 FRP Bypass</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/ultimate-showdown-intel-core-i7-2580m-vs-amd-ryzen-phoenix-bapco-benchmark-revelations/"><u>Ultimate Showdown: Intel Core I7-2580M vs AMD Ryzen Phoenix - BAPCO Benchmark Revelations</u></a></li>
+<li><a href="https://win-top.techidaily.com/windows-vistawindows-103/"><u>Windows VistaからWindows 10にスムーズにデータ転送するための3コツ</u></a></li>
+<li><a href="https://win-top.techidaily.com/44k344k544og44og5yaf44or44o844og44kj44k344on44oz44gu5a6j5ywo44gq44kz44ou44o844go56e76lui5oml6acg/"><u>システム内パーティションの安全なコピーと移転手順</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 9 Email Performance Indicators & Modern Strategies (2011) Featuring MassMail Suite
-date: 2024-11-08T22:11:21.592Z
-updated: 2024-11-12T22:12:42.124Z
+date: 2024-11-19T18:06:50.190Z
+updated: 2024-11-22T20:36:50.208Z
 tags:
   - product
 categories:
@@ -23,10 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -39,22 +36,12 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -99,27 +86,21 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -129,16 +110,13 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -147,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -167,16 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-get-your-twitter-video-feed-ready-aspect-ratio-key/"><u>[New] Get Your Twitter Video Feed Ready Aspect Ratio Key</u></a></li>
-<li><a href="https://win11.techidaily.com/elevate-windows-app-functionality-enhance-internet-connectivity/"><u>Elevate Windows App Functionality: Enhance Internet Connectivity</u></a></li>
-<li><a href="https://win-top.techidaily.com/hamburgs-premier-seo-experts-for-enhanced-online-visibility-select-the-finest-agencies-with-seo-powersuite-ratings/"><u>Hamburg's Premier SEO Experts for Enhanced Online Visibility: Select the Finest Agencies with SEO PowerSuite Ratings</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-to-use-the-chatgpt-widget-on-android/"><u>How to Use the ChatGPT Widget on Android</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-optimizing-video-exposure-on-youtube-with-high-impact-channels/"><u>In 2024, Optimizing Video Exposure on YouTube with High-Impact Channels</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-the-social-scene-understanding-facebook-twitter-instagram-and-youtube/"><u>Navigating The Social Scene: Understanding Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-top.techidaily.com/resepsi-gratis-untuk-mendapatkan-file-file-pc-yang-hapus-dari-disk-eksternal/"><u>Resepsi Gratis Untuk Mendapatkan File-File PC Yang Hapus Dari Disk Eksternal</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/satirical-hits-the-funniest-song-rewrites-for-2024/"><u>Satirical Hits The Funniest Song Rewrites for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/tech-guide-copying-a-bitlocker-protected-hard-drive-without-unlocking/"><u>Tech Guide: Copying a BitLocker-Protected Hard Drive Without Unlocking</u></a></li>
-<li><a href="https://win-top.techidaily.com/two-cost-free-methods-for-synchronizing-folders-on-your-mac/"><u>Two Cost-Free Methods for Synchronizing Folders on Your Mac</u></a></li>
-<li><a href="https://win-top.techidaily.com/understanding-external-links-comprehensive-guide-with-top-seo-strategies/"><u>Understanding External Links: Comprehensive Guide with Top SEO Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-red-dead-online-crashing-on-pc/"><u>[Solved] Red Dead Online Crashing on PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-boosting-zoom-outputs-with-top-three-conversion-tactics/"><u>[Updated] Boosting Zoom Outputs with Top Three Conversion Tactics</u></a></li>
+<li><a href="https://win-top.techidaily.com/best-substitutes-to-clearscape-advanced-tools-for-enhancing-on-page-seo/"><u>Best Substitutes to ClearScape: Advanced Tools for Enhancing On-Page SEO</u></a></li>
+<li><a href="https://win-top.techidaily.com/fact-3/"><u>Fact 3</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-tecno-camon-30-pro-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Tecno Camon 30 Pro 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-iphone-15-plus-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 15 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/migraje-atenuado-de-windows-tin-a-un-disco-duro-o-ssd-fresco-evitando-reinstalacion/"><u>Migraje Atenuado De Windows ˈTiːn a Un Disco Duro O SSD Fresco, Evitando Reinstalación</u></a></li>
+<li><a href="https://win-top.techidaily.com/no-wi-fi-no-problem-expert-strategies-for-offline-setup-of-windows-server-2019-installs/"><u>No Wi-Fi? No Problem! Expert Strategies for Offline Setup of Windows Server 2019 Installs</u></a></li>
+<li><a href="https://win-top.techidaily.com/overcoming-technology-dilemmas-solving-the-primary-boot-device-missing-error-a-comprehensive-tutorial-on-recovering-from-startup-issues/"><u>Overcoming Technology Dilemmas: Solving the 'Primary Boot Device Missing Error' - A Comprehensive Tutorial on Recovering From Startup Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/pacific-islanders-flying-problem-in-call-of-duty-warzone-now-fixed/"><u>Pacific Islanders' Flying Problem in Call of Duty: Warzone Now Fixed!</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-printer-problems-why-you-cant-print-without-the-right-driver/"><u>Solving Printer Problems: Why You Can't Print Without the Right Driver</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-fix-detroit-become-human-pc-crashes-and-enhance-your-gaming-session/"><u>Troubleshooting Guide: How to Fix Detroit: Become Human PC Crashes & Enhance Your Gaming Session</u></a></li>
+<li><a href="https://win-top.techidaily.com/understanding-orphan-pages-comprehensive-guide-and-strategic-seo-advice-with-seo-mastery-suite/"><u>Understanding Orphan Pages: Comprehensive Guide & Strategic SEO Advice with SEO Mastery Suite</u></a></li>
+<li><a href="https://solve-help.techidaily.com/1725288866282-winx-dvd-ripper-platinum/"><u>WinX DVD Ripper Platinum全功能專業版頂級解析器 - 直接在官方網站下載</u></a></li>
+<li><a href="https://win-top.techidaily.com/sovremennye-instrumenty-seo-dlya-pkwindows-2024-goda-polnyj-spisok-s-ocenkoj/"><u>Современные Инструменты SEO Для ПК/Windows 2024 Года - Полный Список С Оценкой</u></a></li>
 </ul></div>
 

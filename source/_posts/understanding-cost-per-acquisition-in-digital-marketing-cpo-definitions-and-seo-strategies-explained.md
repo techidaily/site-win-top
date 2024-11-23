@@ -1,7 +1,7 @@
 ---
 title: Understanding Cost Per Acquisition in Digital Marketing - CPO Definitions & SEO Strategies Explained
-date: 2024-11-10T20:34:48.894Z
-updated: 2024-11-12T17:12:50.149Z
+date: 2024-11-21T17:07:54.779Z
+updated: 2024-11-23T03:50:48.023Z
 tags:
   - wiki
 categories:
@@ -16,13 +16,14 @@ thumbnail: https://thmb.techidaily.com/5d226635edaf435094da0cef0471d4f2b3210c149
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Cost per order (CPO)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Contents
@@ -34,15 +35,16 @@ thumbnail: https://thmb.techidaily.com/5d226635edaf435094da0cef0471d4f2b3210c149
 * [CPO alternatives](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## CPO definition
 
 Cost per order, or CPO, is a term used to describe the average marketing spend needed to drive any purchase to your website. Cost per order, also known as cost per purchase, is often used to assess the effectiveness of an internet advertising campaign.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CPO calculation
@@ -52,13 +54,6 @@ Here’s how to calculate CPO - you’ll need to divide the advertising costs by
 **Cost per order ($) = Advertising cost ($) / Orders placed (#)** [\[1\]](https://tools.techidaily.com/link-assistant/products/)
 
 Here’s an example of calculating CPO: you paid $200 for placing a banner on a website and at the end of the campaign you received 40 orders. 200/40=$5 which means that the CPO in this case is $5.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## CPO in affiliate marketing
 
@@ -79,10 +74,7 @@ However, a major disadvantage of the CPO model is the fact that website operator
 CPO is not the only model you can use in advertising and affiliate marketing. Such models as cost per action (CPA), cost per click (CPC), and cost per lead (CPL) are very similar to CPO with the difference that advertising fees are paid when traffic is generated from advertisers (but purchases are not made yet). The cost per view (CPV) is another model that’s more often used to advertise videos or online games.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## References
@@ -104,21 +96,19 @@ CPO is not the only model you can use in advertising and affiliate marketing. Su
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-transform-your-media-quickly-macs-simple-guide-to-resized-insta-content/"><u>[New] 2024 Approved Transform Your Media Quickly Mac's Simple Guide to Resized Insta Content</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-snapedit-a-beginners-guide-to-photo-mastery/"><u>[New] Snapedit A Beginner's Guide to Photo Mastery</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-historical-knowledge-at-your-fingertips-best-yt-history-channels/"><u>[Updated] Historical Knowledge at Your Fingertips Best YT History Channels</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-release-dates-for-podcast-episodes/"><u>[Updated] In 2024, Best Release Dates for Podcast Episodes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-digital-diaries-reviewing-the-best-personal-devices/"><u>[Updated] In 2024, Digital Diaries Reviewing the Best Personal Devices</u></a></li>
-<li><a href="https://win-top.techidaily.com/404-web/"><u>404 Webページ未発見の問題 - 検索方法と解決策</u></a></li>
-<li><a href="https://win-top.techidaily.com/aufdeckung-der-ursache-wenn-verschwinden-sie-ihre-hddssd-auf-windows-10-wiederholt/"><u>Aufdeckung Der Ursache: Wenn Verschwinden Sie Ihre HDD/SSD Auf Windows 10 Wiederholt?</u></a></li>
-<li><a href="https://win-top.techidaily.com/guide-facile-pour-resetter-votre-ordinateur-verrouille-par-windows-11-sans-code/"><u>Guide Facile Pour Resetter Votre Ordinateur Verrouillé Par Windows 11 Sans Code.</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-achieving-profitability-at-half-a-million-viewers/"><u>In 2024, Achieving Profitability at Half a Million Viewers</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-illuminating-your-photos-with-iphones-hdr-capabilities/"><u>In 2024, Illuminating Your Photos with iPhone’s HDR Capabilities</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728488376192-pc/"><u>PC上のファイル・フォルダが開けない - 詳細な解決法と対処方法</u></a></li>
-<li><a href="https://win-top.techidaily.com/sicherstellen-sie-ein-reibungsloses-update-auf-windows-11-ohne-datenverlust-entdecken-sie-drei-effektive-strategien/"><u>Sicherstellen Sie Ein Reibungsloses Update Auf Windows 11 Ohne Datenverlust: Entdecken Sie Drei Effektive Strategien!</u></a></li>
-<li><a href="https://win-top.techidaily.com/strategies-pour-retrouver-et-restaurer-vos-fichiers-word-sur-un-pc-windows/"><u>Stratégies Pour Retrouver Et Restaurer Vos Fichiers Word Sur Un PC Windows</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-gratuito-para-backup-de-drive-interno-optimo/"><u>Top Gratuito Para Backup De Drive Interno Óptimo</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-the-dependable-and-mobile-kensun-tire-inflator-unveiled/"><u>Ultimate Guide: The Dependable & Mobile Kensun Tire Inflator Unveiled</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-guide-to-font-customization-in-ae-for-2024/"><u>[New] The Ultimate Guide to Font Customization in AE for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-unlocking-the-secret-strategies-of-instagram-influencers/"><u>[Updated] In 2024, Unlocking the Secret Strategies of Instagram Influencers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/best-savings-on-apple-watches-unbeatable-offers-for-this-week/"><u>Best Savings on Apple Watches: Unbeatable Offers for This Week</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-edge-correction-for-comfortable-viewing/"><u>Effortless Edge Correction for Comfortable Viewing</u></a></li>
+<li><a href="https://win-top.techidaily.com/email-marketing-statistics-data-analysis-and-the-brand-name-massmail/"><u>Email Marketing, Statistics, Data Analysis, and the Brand Name MassMail.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-resolve-frequent-crashes-in-praey-for-the-overlord-when-played-on-pc/"><u>Expert Tips to Resolve Frequent Crashes in Praey for the Overlord When Played on PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-honor-play-40c-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Honor Play 40C Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win-top.techidaily.com/krok-po-kroku-w-utrzymywaniu-dysku-ssd-sandisk-w-systemie-windows-11-wykonanie-skonfigurowania-twardego/"><u>Krok Po Kroku W Utrzymywaniu Dysku SSD SANDISK W Systemie Windows 11 - Wykonanie Skonfigurowania Twardego</u></a></li>
+<li><a href="https://win-guides.techidaily.com/marketing-mastery-how-massmail-helps-grow-your-contact-database-tips-from-the-mmsw-blog/"><u>Marketing Mastery: How Massmail Helps Grow Your Contact Database - Tips From the MMSW Blog</u></a></li>
+<li><a href="https://win-top.techidaily.com/revolutionary-myspace-marketing-strategies-of-2009-exploring-innovative-advertising-tools-and-automated-email-campaigns/"><u>Revolutionary MySpace Marketing Strategies of 2009: Exploring Innovative Advertising Tools and Automated Email Campaigns</u></a></li>
+<li><a href="https://win-top.techidaily.com/simple-steps-to-implement-daily-weekly-or-monthly-incremental-backups-for-free/"><u>Simple Steps to Implement Daily, Weekly, or Monthly Incremental Backups for Free</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solved-unsticking-the-among-us-load-screen-glitch/"><u>Solved: Unsticking the Among Us Load Screen Glitch</u></a></li>
+<li><a href="https://win-top.techidaily.com/viennas-leading-seo-companies-top-picks-for-optimized-online-presence/"><u>Vienna's Leading SEO Companies: Top Picks for Optimized Online Presence</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-11vob/"><u>Windows 11のVOBファイルプレーヤーとして機能する手順</u></a></li>
 </ul></div>
 

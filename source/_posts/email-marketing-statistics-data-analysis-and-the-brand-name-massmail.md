@@ -1,7 +1,7 @@
 ---
 title: Email Marketing, Statistics, Data Analysis, and the Brand Name MassMail.
-date: 2024-11-08T21:36:50.540Z
-updated: 2024-11-12T19:46:20.950Z
+date: 2024-11-21T03:55:54.367Z
+updated: 2024-11-22T23:33:15.123Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -44,25 +52,11 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -80,33 +74,21 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -116,16 +98,13 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -148,16 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -179,22 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-transition-to-non-stop-browsing-set-up-youtube-autoplay-on-fb/"><u>[New] 2024 Approved Transition to Non-Stop Browsing Set Up YouTube Autoplay on FB</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-apple-vs-android-the-face-id-and-galaxy-recognition-race/"><u>[Updated] Apple Vs. Android The Face ID and Galaxy Recognition Race</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-from-obscurity-to-elite-nine-keys-to-dominating-instagram/"><u>[Updated] In 2024, From Obscurity to Elite Nine Keys to Dominating Instagram</u></a></li>
-<li><a href="https://win-top.techidaily.com/15-exceptional-moz-substitutes-boosting-your-seo-rankings-top-picks-and-their-features/"><u>15 Exceptional Moz Substitutes Boosting Your SEO Rankings - Top Picks and Their Features</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-elite-fingers-to-enhance-virtual-adventures/"><u>2024 Approved Elite Fingers to Enhance Virtual Adventures</u></a></li>
-<li><a href="https://win-top.techidaily.com/best-seo-companies-ranking-highest-in-alexandria-egypt-powerseo-tools-unveiled/"><u>Best SEO Companies Ranking Highest in Alexandria, Egypt - PowerSEO Tools Unveiled</u></a></li>
-<li><a href="https://win-top.techidaily.com/decoding-session-identifiers-in-depth-insights-and-key-seo-techniques-for-enhanced-online-visibility/"><u>Decoding Session Identifiers: In-Depth Insights & Key SEO Techniques for Enhanced Online Visibility</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-xml-sitemaps-for-enhanced-seo-definitions-how-tos-and-optimization-techniques/"><u>Mastering XML Sitemaps for Enhanced SEO: Definitions, How-To's & Optimization Techniques</u></a></li>
-<li><a href="https://win-top.techidaily.com/maximizing-seo-with-effective-exit-page-strategies-definitions-explanations-and-best-practices/"><u>Maximizing SEO with Effective Exit Page Strategies: Definitions, Explanations, and Best Practices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/merging-youtube-soundtracks-to-cinematic-scenes-for-2024/"><u>Merging YouTube Soundtracks to Cinematic Scenes for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/perfecting-your-personal-palette-a-guide-to-whatsapp-alerts-on-phones-for-2024/"><u>Perfecting Your Personal Palette A Guide to WhatsApp Alerts on Phones for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/schritt-fur-schritt-anleitung-zum-absichern-von-e-mail-konten-in-microsoft-outlook-201/"><u>Schritt-Für-Schritt-Anleitung Zum Absichern Von E-Mail-Konten in Microsoft Outlook 201</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/simplified-guide-to-crafting-effective-instagram-loops-for-2024/"><u>Simplified Guide to Crafting Effective Instagram Loops for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/smart-selection-of-email-parsers-save-costs-with-effective-infographic-tips-by-mailmight/"><u>Smart Selection of Email Parsers - Save Costs with Effective Infographic Tips by MailMight</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-using-your-philips-hf3505-sunrise-simulator-alarm-clock/"><u>The Ultimate Guide to Using Your Philips HF3505 Sunrise Simulator Alarm Clock</u></a></li>
-<li><a href="https://win-top.techidaily.com/maksimizaciya-onlajn-prisutstviya-s-pomoshyu-luchshih-analitikskih-platform-podmenyayushie-similarweb-i-seo-powersuite/"><u>Максимизация Онлайн-Присутствия С Помощью Лучших Аналитикских Платформ: Подменяющие SimilarWeb И SEO PowerSuite</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-secrets-of-successfully-posting-imovie-videos-on-vimeo/"><u>[New] 2024 Approved The Secrets of Successfully Posting iMovie Videos on Vimeo</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-exploring-new-frontiers-with-vr-game-engines/"><u>[New] Exploring New Frontiers with VR Game Engines</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/adata/"><u>簡単な手順でADATAフラッシュドライブを修復 - 迅速データ救出ガイド</u></a></li>
+<li><a href="https://win-top.techidaily.com/ghostwindows-11uefi/"><u>利用Ghost在Windows 11和UEFI系统上实现简单转换方法</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728491517599-sd/"><u>如何安全有效地使用微型SD卡進行磁碟分割與救援遺失的硬碟</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-java-not-installing-a-windows-fixers-manual/"><u>Addressing Java Not Installing: A Windows Fixer's Manual</u></a></li>
+<li><a href="https://win-top.techidaily.com/aomei-data-recovery-solutions-comprehensive-frequently-asked-questions-faq-guide/"><u>AOMEI Data Recovery Solutions: Comprehensive Frequently Asked Questions (FAQ) Guide</u></a></li>
+<li><a href="https://win-top.techidaily.com/comment-refaire-un-demarrage-propre-sur-windows-11-guide-complet/"><u>Comment Refaire Un Démarrage Propre Sur Windows 11 : Guide Complet</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-ensure-your-iphone-receives-texts-from-android-contacts-efficiently/"><u>How To Ensure Your iPhone Receives Texts From Android Contacts Efficiently</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-comprehensive-review-of-lg-bp350-display-technology-and-capabilities/"><u>In 2024, Comprehensive Review of LG BP350 Display Technology and Capabilities</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-6-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 6 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/le-top-5-software-di-riproduzione-libera-per-windows-11-back-up-ottimali/"><u>Le Top 5 Software Di Riproduzione Libera per Windows 11: Back-Up Ottimali</u></a></li>
+<li><a href="https://win-top.techidaily.com/resolving-the-unfixable-error-in-windows-10-5-effective-methods/"><u>Resolving the Unfixable Error in Windows 10 - 5 Effective Methods</u></a></li>
+<li><a href="https://win-top.techidaily.com/step-by-step-instructions-on-lacie-hdd-data-restoration-processes/"><u>Step-by-Step Instructions on LaCie HDD Data Restoration Processes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/stereoshield-comfortable-in-ear-devices-review/"><u>StereoShield Comfortable In-Ear Devices Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006829791-unlocking-smooth-gameplay-fix-nba-2k24s-persistent-code-727e66ac-challenge/"><u>Unlocking Smooth Gameplay: Fix NBA 2K24's Persistent Code 727E66ac Challenge</u></a></li>
 </ul></div>
 
