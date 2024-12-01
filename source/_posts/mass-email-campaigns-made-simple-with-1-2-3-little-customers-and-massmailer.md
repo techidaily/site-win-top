@@ -1,7 +1,7 @@
 ---
 title: Mass Email Campaigns Made Simple with 1-2-3 Little Customers and MassMailer
-date: 2024-11-07T23:57:16.526Z
-updated: 2024-11-12T21:15:53.019Z
+date: 2024-11-28T04:14:09.249Z
+updated: 2024-11-30T21:09:46.036Z
 tags:
   - product
 categories:
@@ -23,10 +23,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -58,10 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -77,15 +71,16 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -95,13 +90,6 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -109,13 +97,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -126,10 +107,7 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -139,6 +117,10 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -167,17 +149,17 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-the-comprehensive-guide-to-mastering-facetune-app-features-for-2024/"><u>[New] The Comprehensive Guide to Mastering Facetune App Features for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-unlocking-creative-potential-with-new-iphone-x-camera-for-2024/"><u>[Updated] Unlocking Creative Potential with New iPhone X Camera for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-step-by-step-soundscapes-for-iphone-customization/"><u>2024 Approved Step-by-Step Soundscapes for iPhone Customization</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-install-the-latest-drivers-for-your-logitech-m310-mouse/"><u>How To Install The Latest Drivers For Your Logitech M310 Mouse</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-unlock-fb-story-potential-4-effective-techniques/"><u>In 2024, Unlock FB Story Potential - 4 Effective Techniques</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-keyword-density-for-better-rankings-insights-and-expert-seo-advice/"><u>Mastering Keyword Density for Better Rankings: Insights and Expert SEO Advice</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-ultimate-guide-to-animating-photos-top-8-tools-and-software-for-2024/"><u>New The Ultimate Guide to Animating Photos Top 8 Tools and Software for 2024</u></a></li>
-<li><a href="https://win-special.techidaily.com/the-dawn-of-learning-tech-how-pc-producers-are-shaping-the-future-with-windows-11-se-discoveries-on-zdnet/"><u>The Dawn of Learning Tech: How PC Producers Are Shaping the Future with Windows 11 SE | Discoveries on ZDNET</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-downloaded-linux-seo-software-essential-free-and-open-source-seo-utilities/"><u>Top Downloaded Linux Seo Software: Essential Free and Open-Source SEO Utilities</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-guide-pcs-hd-color-videography/"><u>Ultimate Guide PC's HD Color Videography</u></a></li>
-<li><a href="https://win-top.techidaily.com/ultimate-guide-to-using-rsi-indicators-for-perfect-buys-and-sells-on-mt4-mt5-and-beyond-trading-copier-insights/"><u>Ultimate Guide to Using RSI Indicators for Perfect Buys and Sells on MT4, MT5 & Beyond | Trading Copier Insights</u></a></li>
-<li><a href="https://win-top.techidaily.com/what-is-thin-content-unveiling-definitions-and-seo-enhancement-techniques-with-seo-powersuite-insights/"><u>What Is Thin Content? Unveiling Definitions and SEO Enhancement Techniques with SEO PowerSuite Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-finding-your-ideal-video-capture-solution-bandicam-vs-camtasia/"><u>[New] 2024 Approved Finding Your Ideal Video Capture Solution Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-exemplary-directors-dialogue-compilation/"><u>[New] Exemplary Directors' Dialogue Compilation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-quick-fixes-for-professional-looking-indie-films/"><u>[Updated] Quick Fixes for Professional-Looking Indie Films</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-swift-remedies-for-iphone-unfocused-shots/"><u>2024 Approved Swift Remedies for iPhone Unfocused Shots</u></a></li>
+<li><a href="https://win-top.techidaily.com/6lw35yuv5asx5pwx5pmc44gr44or44k944kz44oz44gu5b6p5ywd5rov44ks5a2m44g2/"><u>起動失敗時にパソコンの復元法を学ぶ</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-of-the-netgear-c3700-a-dual-purpose-modem-and-router/"><u>Comprehensive Evaluation of the Netgear C3700 - A Dual-Purpose Modem and Router</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/dailymotion-vs-youtube-monetization-which-is-more-profitable-in-2024/"><u>Dailymotion vs YouTube Monetization Which Is More Profitable, In 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-successfully-retrieve-lost-movies-from-your-sd-card-without-spending-a-penny/"><u>How to Successfully Retrieve Lost Movies From Your SD Card Without Spending a Penny</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-13-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 13 Pro Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-prefetch-technology-in-seo-in-depth-analysis-and-expert-techniques-using-seo-powersuite/"><u>Mastering Prefetch Technology in SEO: In-Depth Analysis and Expert Techniques Using SEO PowerSuite</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/by-step-process-for-free-youtube-introend-making-for-2024/"><u>Step-by-Step Process for Free YouTube Intro/End Making for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/understanding-canonical-urls-definitions-and-essential-seo-strategies/"><u>Understanding Canonical URLs: Definitions and Essential SEO Strategies</u></a></li>
 </ul></div>
 

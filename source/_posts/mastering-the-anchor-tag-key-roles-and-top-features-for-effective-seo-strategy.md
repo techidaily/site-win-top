@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Anchor Tag: Key Roles & Top Features for Effective SEO Strategy"
-date: 2024-11-07T23:39:40.629Z
-updated: 2024-11-13T00:56:12.495Z
+date: 2024-11-29T05:51:37.858Z
+updated: 2024-11-30T19:32:24.439Z
 tags:
   - wiki
 categories:
@@ -32,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/5f475d0a004509c4a79784030951fa61283b44848
 * [Related articles](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is an anchor tag?
 
 An anchor tag _<a>_ is one of the HTML tags, which is used for linking one page to another or some sections on a single page. By itself, however <a> doesn’t do much (it’s just a placeholder). For linking, it must be accompanied by an _href_ attribute.
@@ -55,31 +48,21 @@ Anchor tags are the basic HTML element that helps optimize site content for sear
 * **Anchor tags create better UX.** <a> Links are a means of navigation. What’s more, its styling opportunities are pretty vast: links are usually underlined and go in blue color, which is eye-catching. Thus, users can easily get to the related page/page section without wasting time.
 * **Anchor tags contribute to your page rankings.** Anchor text, which is a part of <a> links, sends signals to search engines on what a page is about. That helps search engines rank your pages on the SERPs.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Main anchor tag attributes
 
 Anchor tag attributes are the way we tell how the hyperlink should behave on the page. 
 
 Here is the list f the most often used anchor attributes:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### href
 
 It is the only mandatory attribute on the list. All the other attributes can be used only if the href attribute is present. _href_ attribute is used to specify the target URL (the destination, in other words)[\[2\]](https://tools.techidaily.com/link-assistant/products/).
 
 Example: <a href="https://website.com">Your anchor text</a>[\[3\]](https://tools.techidaily.com/link-assistant/products/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### rel
 
@@ -91,18 +74,15 @@ It is used to specify the relation between the current page and the linked one. 
 
 Example: <a rel="nofollow" href="http://website.com/">Your anchor text</a>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### download
 
 It is used to specify the target link to download files with a click.
 
 Example: <a href="/images/yourgreatimage.png" download="imagename">
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### hreflang
 
@@ -120,6 +100,10 @@ media="print and (resolution:300dpi)">
 
 Open media attribute page for print.</a>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### target
 
 It is used to specify the way how a destination URL should be browsed. For example, in a new window or tab. Here is the list of your options:
@@ -132,10 +116,7 @@ It is used to specify the way how a destination URL should be browsed. For examp
 Example: <a href="https://website.com" target="\_blank">Your anchor text</a>
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Related articles
@@ -143,6 +124,10 @@ Example: <a href="https://website.com" target="\_blank">Your anchor text</a>
 [Internal Links for SEO: Best Practices 2022](https://tools.techidaily.com/link-assistant/products/)
 
 [5 Cases When Different Link Location Means Different SEO Value](https://tools.techidaily.com/link-assistant/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## References
 
@@ -163,22 +148,15 @@ Example: <a href="https://website.com" target="\_blank">Your anchor text</a>
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-money-smart-sports-photography-innovation-on-a-dime/"><u>[New] In 2024, Money-Smart Sports Photography - Innovation on a Dime</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-superior-5-digital-capture-devices/"><u>[New] In 2024, Superior 5 Digital Capture Devices</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-unleash-creativity-capturing-quality-videos-on-logitech/"><u>[New] Unleash Creativity Capturing Quality Videos on Logitech</u></a></li>
-<li><a href="https://win-top.techidaily.com/ultimate-guide-windows-103/"><u>「Ultimate Guide: Windows 10における3種類のゴースト画像化手法」</u></a></li>
-<li><a href="https://win-top.techidaily.com/windows-11-ghost-window/"><u>迷你指南：啟用四大途徑搶救Windows 11 Ghost Window</u></a></li>
-<li><a href="https://win-top.techidaily.com/win1011/"><u>修復Win10/11硬盤碎片化分區的刪除資料回收方法</u></a></li>
-<li><a href="https://win-top.techidaily.com/ultra-3d-ssd/"><u>最高のクローニング方法：サンディスクUltra 3D SSDのためのベストプラクティス</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/easy-to-follow-tutorial-on-deploying-activex-controls-in-projects/"><u>Easy-to-Follow Tutorial on Deploying ActiveX Controls in Projects</u></a></li>
-<li><a href="https://win-top.techidaily.com/effiziente-wege-um-zwei-externe-laufwerke-zu-synchronisieren-auf-dem-pc-unter-windows-10/"><u>Effiziente Wege, Um Zwei Externe Laufwerke Zu Synchronisieren Auf Dem PC Unter Windows 10</u></a></li>
-<li><a href="https://win-top.techidaily.com/guide-simple-creer-un-disque-de-repare-systeme-compatible-avec-windows-v7-a-v11/"><u>Guide Simple : Créer Un Disque De Répare-Système Compatible Avec Windows V7 À V11</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-xiaomi-redmi-12-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Xiaomi Redmi 12 Phone? Unlock It Now</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/mastering-your-content-on-facebook-after-algorithms-change-for-2024/"><u>Mastering Your Content on Facebook After Algorithms Change for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/simple-solutions-for-overcoming-the-your-pc-cannot-display-on-a-second-monitor-issue/"><u>Simple Solutions for Overcoming the 'Your PC Cannot Display on a Second Monitor' Issue</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/step-by-step-guide-on-converting-video-object-vob-to-professional-waveform-audio-wav-format/"><u>Step-by-Step Guide on Converting Video Object (VOB) to Professional Waveform Audio (WAV) Format</u></a></li>
-<li><a href="https://win-top.techidaily.com/switching-sql-database-models-transition-from-simple-to-full-a-comprehensive-guide/"><u>Switching SQL Database Models: Transition From Simple to Full - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722955559018-update-your-lenovo-screen-software-easy-instructions-inside/"><u>Update Your Lenovo Screen Software – Easy Instructions Inside!</u></a></li>
-<li><a href="https://win-top.techidaily.com/windows-11-thasatavaza-fildara-anapasathata-hana-ka-samasaya-ka-hal-karana-ka-eka-thashhatakanae/"><u>Windows 11: दस्तावेज़ फ़ोल्डर अनुपस्थित होने की समस्या को हल करने का एक दृष्टिकोण</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-exploring-ffmpegs-original-audio-extraction-capabilities/"><u>[Updated] 2024 Approved Exploring FFmpeg’s Original Audio Extraction Capabilities</u></a></li>
+<li><a href="https://win-top.techidaily.com/1-top-5-solutions-to-resolve-your-iphones-persistent-emergency-sos-display-problem/"><u>1. Top 5 Solutions to Resolve Your iPhone's Persistent Emergency SOS Display Problem</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-master-your-images-top-10-pixlr-hacks-revealed/"><u>2024 Approved Master Your Images Top 10 Pixlr Hacks Revealed</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-transformative-power-of-no-fee-text-animation-tools/"><u>2024 Approved Transformative Power of No-Fee Text Animation Tools</u></a></li>
+<li><a href="https://win-top.techidaily.com/effortless-fixes-for-overcoming-windows-backup-error-0x8100002f-with-simple-steps/"><u>Effortless Fixes for Overcoming Windows Backup Error 0X8100002F with Simple Steps</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-motorola-defy-2-phone-by-drfone-android/"><u>How to Reset a Locked Motorola Defy 2 Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-redmi-12-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi Redmi 12 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/revolutionize-your-android-devices-longevity-top-10-power-saving-tweaks-for-enhanced-battery-performance/"><u>Revolutionize Your Android Device's Longevity: Top 10 Power-Saving Tweaks for Enhanced Battery Performance</u></a></li>
+<li><a href="https://win-top.techidaily.com/rising-stars-in-the-marketing-realm-meet-the-elite-millionaire-creators-with-massmail-solutions/"><u>Rising Stars in the Marketing Realm: Meet the Elite Millionaire Creators with MassMail Solutions</u></a></li>
+<li><a href="https://win-top.techidaily.com/transferencia-expressa-do-hdd-para-um-disco-solto-m2-tecnica-simplificada/"><u>Transferência Expressa Do HDD Para Um Disco Solto M.2 - Técnica Simplificada</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Co-Citations: Comprehensive Guide & SEO Optimization Techniques"
-date: 2024-10-15T16:00:49.840Z
-updated: 2024-10-17T16:42:45.183Z
+date: 2024-11-27T06:25:57.423Z
+updated: 2024-11-30T16:29:40.806Z
 tags:
   - wiki
 categories:
@@ -16,14 +16,11 @@ thumbnail: https://thmb.techidaily.com/e2a22d0e1eb69e31073b9f86edc15bd17dc9ed743
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-## Co-citation
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Co-citation
 
 ### Contents
 
@@ -35,13 +32,6 @@ thumbnail: https://thmb.techidaily.com/e2a22d0e1eb69e31073b9f86edc15bd17dc9ed743
 * [See more](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Definition
 
 Co-citation is an indicator used to measure semantic relatedness between two documents based on how frequently they are mentioned by other documents alongside one another. 
@@ -49,10 +39,7 @@ Co-citation is an indicator used to measure semantic relatedness between two doc
 In simple words, a co-citation occurs every time two publications are cited together by any other document. And the more such common citing documents they have, the more semantically related the two cited documents are considered.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Co-citation vs bibliographic coupling
@@ -62,6 +49,10 @@ In citation analysis (i.e. analyzing frequency and patterns of citations to esta
 While co-citation presupposes that one document is referring to two others, bibliographic coupling, on the contrary, means two documents have one common document they refer to[\[1\]](https://tools.techidaily.com/link-assistant/products/).
 
 ![Co-citation vs bibliographic coupling](https://cdn1.link-assistant.com/thumbs/w790-c1/upload/seowiki/posts/36/cc1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is author co-citation analysis?
 
@@ -88,15 +79,16 @@ The former is obvious from the commonly known role of backlinks in search engine
 In any case, the concept of co-citation has influenced the basic principles of SEO link building, giving birth to co-citation link building - actively pursuing web mentions in the same articles where key competitors’ are being mentioned. Thus, being co-cited by the same source, a website might get a semantic association with an established industry leader.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## See more
 
 [9 Actionable Link Building Tactics for 2023 - Explore co-citation links](https://tools.techidaily.com/link-assistant/products/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## References
 
@@ -117,18 +109,21 @@ In any case, the concept of co-citation has influenced the basic principles of S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-streamlining-post-production-adding-annotations-to-videos/"><u>[New] 2024 Approved Streamlining Post-Production Adding Annotations to Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-snapshot-survival-guide-top-recorders-evaluated-for-2024/"><u>[Updated] SnapShot Survival Guide Top Recorders Evaluated for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/000-windows/"><u>000フォルダの意味と再生可能な方法 - Windows上でのファイル回復ガイド</u></a></li>
-<li><a href="https://win-top.techidaily.com/boot-into-safe-mode-restart-your-pc-and-press-f8-or-shift-plus-f8-on-newer-systems-to-enter-advanced-startup-options-then-select-safe-mode-this-will-load-wi42/"><u>Boot Into Safe Mode: Restart Your PC and Press F8 (or Shift + F8 on Newer Systems) to Enter Advanced Startup Options, Then Select Safe Mode. This Will Load Windows with a Minimal Set of Drivers and Services.</u></a></li>
-<li><a href="https://win-top.techidaily.com/comment-dupliquer-avec-efficacite-un-ssd-sur-windows-easement-sans-endommager-vos-fichiers/"><u>Comment Dupliquer Avec Efficacité Un SSD Sur Windows Easement Sans Endommager Vos Fichiers</u></a></li>
-<li><a href="https://win-top.techidaily.com/comprehensive-walkthrough-relocating-your-appdata-directories-within-windows-11-environments/"><u>Comprehensive Walkthrough: Relocating Your AppData Directories Within Windows 11 Environments</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/effortless-image-transformation-with-movavis-free-online-pcx-converter/"><u>Effortless Image Transformation with Movavi's Free Online PCX Converter</u></a></li>
-<li><a href="https://win-top.techidaily.com/guide-dassistance-resolvez-la-detection-erronee-de-votre-ssd-samsung-t7-avec-ces-trois-methodes-sur-windows-amok/"><u>Guide D'assistance : Résolvez La Détection Erronée De Votre SSD Samsung T7 Avec Ces Trois Méthodes Sur Windows amoK</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-instagram-insights-crafting-tall-footage-in-final-cut-pro-x/"><u>In 2024, Instagram Insights Crafting Tall Footage in Final Cut Pro X</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/safe-ways-to-obtain-keepvid-pro-crack-expert-tips-and-troubleshooting/"><u>Safe Ways to Obtain KeepVid Pro Crack: Expert Tips & Troubleshooting</u></a></li>
-<li><a href="https://win-top.techidaily.com/soluciona-el-problema-de-la-particion-borrada-de-windows-accidentalmente-con-estos-pasos-faciles/"><u>Soluciona El Problema De La Partición Borrada De Windows Accidentalmente Con Estos Pasos Fáciles</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/streamline-your-watching-experience-download-youtube-captions-in-3-ways/"><u>Streamline Your Watching Experience Download YouTube Captions in 3 Ways</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transform-your-mac-interaction-innovative-text-to-speech-apps-uncovered-for-2024/"><u>Transform Your Mac Interaction Innovative Text-to-Speech Apps Uncovered for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boost-viewership-cost-effectively-with-subscriber-purchase/"><u>[New] In 2024, Boost Viewership Cost-Effectively with Subscriber Purchase</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-the-power-of-in-stream-ads-on-facebook-a-comprehensive-handbook/"><u>[New] In 2024, Unlocking the Power of In-Stream Ads on Facebook A Comprehensive Handbook</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-transform-images-top-5-android-tools/"><u>[Updated] 2024 Approved Transform Images Top 5 Android Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/best-15-video-player-apps-compatible-with-windows-10-8-7-and-macos-top-picks/"><u>Best 15 Video Player Apps Compatible with Windows 10, 8, 7 & macOS: Top Picks</u></a></li>
+<li><a href="https://win-top.techidaily.com/copiez-et-gravez-limage-iso-dinstallation-daomei-backup-pour-linux-sans-frais/"><u>Copiez Et Gravez L’Image ISO D’Installation D'AOMEI Backup Pour Linux Sans Frais</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-usb-to-rs232-driver-quickly/"><u>Download USB to RS232 Driver Quickly</u></a></li>
+<li><a href="https://win-top.techidaily.com/effizientes-kopieren-von-windows-1011-systemen-professionelle-tipps-und-tricks-zum-erstellen-genauester-duplizate/"><u>Effizientes Kopieren Von Windows 10/11 Systemen: Professionelle Tipps Und Tricks Zum Erstellen Genauester Duplizate</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-back-up-your-data-transferring-windows-11-files-to-a-usb-stick-two-easy-methods/"><u>How to Back Up Your Data: Transferring Windows 11 Files to a USB Stick, Two Easy Methods</u></a></li>
+<li><a href="https://win-top.techidaily.com/les-deux-facons-pour-sauvegarder-le-lecteur-de-systeme-c-dans-windows-nouvelle-version-guide-pratique-and-detaile/"><u>Les Deux Façons Pour Sauvegarder Le Lecteur De Système C Dans Windows Nouvelle Version - Guide Pratique & Détailé</u></a></li>
+<li><a href="https://win-top.techidaily.com/liberez-votre-boite-mail-la-cle-pour-optimiser-votre-outlook/"><u>Libérez Votre Boîte-Mail : La Clé Pour Optimiser Votre Outlook</u></a></li>
+<li><a href="https://win-top.techidaily.com/outlook-hilfe-strategien-zur-wiederherstellung-geloschter-e-mails-und-datenschutz-gewahrleisten/"><u>Outlook-Hilfe: Strategien Zur Wiederherstellung Gelöschter E-Mails Und Datenschutz Gewährleisten</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-s18-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo S18 Pro Phone Now with These Tips</u></a></li>
+<li><a href="https://win-top.techidaily.com/seamless-file-migration-how-to-shift-data-from-onedrive-to-windows-11-with-simplicity/"><u>Seamless File Migration: How to Shift Data From OneDrive to Windows 11 with Simplicity</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-shopping-guide-choosing-game-consoles-and-extras-for-junior-players/"><u>Ultimate Shopping Guide: Choosing Game Consoles and Extras for Junior Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/vrijwelgratis-omzetting-van-swf-bestandjes-de-beste-oplossingen-voor-online-converters/"><u>Vrijwelgratis Omzetting Van Swf-Bestandjes: De Beste Oplossingen Voor Online Converters</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/win-the-game-of-access-paths-to-opening-directories/"><u>Win the Game of Access: Paths to Opening Directories</u></a></li>
 </ul></div>
 

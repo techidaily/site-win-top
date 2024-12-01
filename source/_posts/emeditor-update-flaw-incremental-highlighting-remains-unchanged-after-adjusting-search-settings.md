@@ -1,7 +1,7 @@
 ---
 title: "EmEditor Update Flaw: Incremental Highlighting Remains Unchanged After Adjusting Search Settings"
-date: 2024-11-21T16:40:08.337Z
-updated: 2024-11-23T01:04:57.337Z
+date: 2024-11-26T02:14:11.141Z
+updated: 2024-12-01T00:48:32.992Z
 tags:
   - product
 categories:
@@ -54,22 +54,26 @@ Viewing 3 posts - 1 through 3 (of 3 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-to-prepare-your-fb-content-hv-orientation-matters/"><u>[New] In 2024, How to Prepare Your FB Content H/V Orientation Matters</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-complete-guide-to-mastering-picsart/"><u>[Updated] Complete Guide to Mastering PicsArt</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-download-youtube-music-to-your-android-phone-top-6-free-apps/"><u>[Updated] In 2024, Download YouTube Music to Your Android Phone Top 6 Free Apps</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/1725289604844-2024-dvd/"><u>【2024】 DVD プレーヤーなしでも簡単にテレビで動画を楽しむ方法</u></a></li>
-<li><a href="https://win-top.techidaily.com/enhance-your-mobile-reach-advanced-techniques-in-the-seo-powersuite/"><u>Enhance Your Mobile Reach: Advanced Techniques in the SEO PowerSuite</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-pro-max-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Pro Max Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
-<li><a href="https://win-top.techidaily.com/metodos-faciles-para-exportar-el-historial-del-chat-de-wechat-en-dispositivos-moviles/"><u>Métodos Fáciles Para Exportar El Historial Del Chat De WeChat en Dispositivos Móviles</u></a></li>
-<li><a href="https://win-top.techidaily.com/search-for-sentences-that-describe-proximity-to-amenities-eg-shops-and-cafes/"><u>Search for Sentences that Describe Proximity to Amenities (E.g., Shops and Cafes).</u></a></li>
-<li><a href="https://win-top.techidaily.com/simplest-methods-to-restore-deleted-files-on-windows-11-a-step-by-step-guide/"><u>Simplest Methods to Restore Deleted Files on Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-nokia-c210-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Nokia C210 Location | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/understanding-email-bounce-rates-strategies-for-reduction-with-massmail-software/"><u>Understanding Email Bounce Rates: Strategies for Reduction with MassMail Software</u></a></li>
-<li><a href="https://win-top.techidaily.com/understanding-tracking-pixels-and-their-role-in-seo-a-comprehensive-guide/"><u>Understanding Tracking Pixels & Their Role in SEO - A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-engage-efficiently-leading-insta-filters/"><u>[Updated] 2024 Approved Engage Efficiently Leading Insta Filters</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-buy-subscribers-wisely-watch-your-numbers-soar/"><u>[Updated] Buy Subscribers Wisely, Watch Your Numbers Soar!</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-unveiling-the-top-5-non-youtube-editing-choices/"><u>[Updated] In 2024, Unveiling the Top 5 Non-YouTube Editing Choices</u></a></li>
+<li><a href="https://win-top.techidaily.com/boot-into-safe-mode-restart-your-pc-and-press-f8-or-shift-plus-f8-on-newer-systems-to-enter-advanced-startup-options-then-select-safe-mode-this-will-load-wi42/"><u>Boot Into Safe Mode: Restart Your PC and Press F8 (or Shift + F8 on Newer Systems) to Enter Advanced Startup Options, Then Select Safe Mode. This Will Load Windows with a Minimal Set of Drivers and Services.</u></a></li>
+<li><a href="https://win-top.techidaily.com/comment-dupliquer-avec-efficacite-un-ssd-sur-windows-easement-sans-endommager-vos-fichiers/"><u>Comment Dupliquer Avec Efficacité Un SSD Sur Windows Easement Sans Endommager Vos Fichiers</u></a></li>
+<li><a href="https://win-top.techidaily.com/guia-paso-a-paso-como-hacer-la-mejor-copia-de-respaldo-antes-de-actualizarreinstalar-windows-11/"><u>Guía Paso a Paso: Cómo Hacer La Mejor Copia De Respaldo Antes De Actualizar/Reinstalar Windows 11</u></a></li>
+<li><a href="https://win-top.techidaily.com/guide-dassistance-resolvez-la-detection-erronee-de-votre-ssd-samsung-t7-avec-ces-trois-methodes-sur-windows-amok/"><u>Guide D'assistance : Résolvez La Détection Erronée De Votre SSD Samsung T7 Avec Ces Trois Méthodes Sur Windows amoK</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-easily-and-effectively-backup-cf-cards-at-no-cost-a-guide-for-windows-users/"><u>How to Easily and Effectively Backup CF Cards at No Cost: A Guide for Windows Users</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-crafting-success-with-these-15-youtube-introduction-plans/"><u>In 2024, Crafting Success with These 15 YouTube Introduction Plans</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-xiaomi-14-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-patience-transform-your-reels-through-slow-motion/"><u>In 2024, The Art of Patience Transform Your Reels Through Slow-Motion</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726029002875-pc/"><u>PCスクリーンとオーディオの録画・録音方法一挙提示</u></a></li>
+<li><a href="https://fox-info.techidaily.com/sightline-synopsis-study/"><u>Sightline Synopsis Study</u></a></li>
+<li><a href="https://win-top.techidaily.com/soluciona-el-problema-de-la-particion-borrada-de-windows-accidentalmente-con-estos-pasos-faciles/"><u>Soluciona El Problema De La Partición Borrada De Windows Accidentalmente Con Estos Pasos Fáciles</u></a></li>
+<li><a href="https://win-top.techidaily.com/solving-the-puzzle-of-windows-update-error-80240020-expert-fixes-and-guidelines/"><u>Solving the Puzzle of Windows Update Error 80240020: Expert Fixes & Guidelines</u></a></li>
+<li><a href="https://win-top.techidaily.com/understanding-icloud-backup-duration-what-factors-influence-the-time-required/"><u>Understanding iCloud Backup Duration: What Factors Influence the Time Required?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/upcoming-google-tv-streaming-device-latest-speculations-on-cost-launch-timeline-and-features/"><u>Upcoming Google TV Streaming Device - Latest Speculations on Cost, Launch Timeline, and Features</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

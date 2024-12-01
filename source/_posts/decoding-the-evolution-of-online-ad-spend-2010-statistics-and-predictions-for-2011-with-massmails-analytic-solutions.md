@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Evolution of Online Ad Spend: 2010 Statistics and Predictions for 2011 with Massmail's Analytic Solutions"
-date: 2024-11-15T23:20:54.399Z
-updated: 2024-11-22T21:32:12.525Z
+date: 2024-11-24T16:00:42.586Z
+updated: 2024-12-01T01:13:06.392Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
@@ -41,7 +41,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -59,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -73,10 +73,6 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -95,7 +91,7 @@ If you use several types of media to promote your campaign, use a different keyw
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
@@ -115,12 +111,16 @@ Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/p
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,24 +149,15 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-impressive-scrutiny-and-comparable-proposals/"><u>[New] Impressive Scrutiny & Comparable Proposals</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-mastering-lut-manipulation-a-comprehensive-photoshop-guide/"><u>[New] In 2024, Mastering LUT Manipulation A Comprehensive PhotoShop Guide</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-binge-watch-with-flexibility-mastering-the-pip-functionality-in-netflix/"><u>[Updated] In 2024, Binge-Watch With Flexibility Mastering the PIP Functionality in Netflix</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/affordable-monoprice-drawing-pad-assessment-excellent-quality-without-breaking-the-bank/"><u>Affordable Monoprice Drawing Pad Assessment: Excellent Quality without Breaking the Bank</u></a></li>
-<li><a href="https://win-top.techidaily.com/beginners-guide-to-crafting-effective-email-footers-lessons-from-2veolutionary-email-marketing-and-utilizing-massmailer-software/"><u>Beginner's Guide to Crafting Effective Email Footers - Lessons From 2Veolutionary Email Marketing and Utilizing MassMailer Software</u></a></li>
-<li><a href="https://win-top.techidaily.com/best-seo-companies-in-barcelona-boost-your-rankings-with-elite-services/"><u>Best SEO Companies in Barcelona: Boost Your Rankings with Elite Services</u></a></li>
-<li><a href="https://win-top.techidaily.com/best-seo-software-suites-for-apple-enthusiasts-optimizing-your-website-with-macbook-imac-and-mac-mini/"><u>Best SEO Software Suites for Apple Enthusiasts: Optimizing Your Website with MacBook, iMac & Mac Mini</u></a></li>
-<li><a href="https://win-top.techidaily.com/destination-of-deleted-data-understanding-what-occurs-when-you-clear-your-recycle-bin/"><u>Destination of Deleted Data: Understanding What Occurs When You Clear Your Recycle Bin</u></a></li>
-<li><a href="https://win-top.techidaily.com/gmail-nachrichten-erfolgreich-zu-microsoft-outlook-importieren-sichere-vorgehensweisen-mit-einem-zusatzlichen-e-mail-sicherheitsprogramm/"><u>Gmail Nachrichten Erfolgreich Zu Microsoft Outlook Importieren: Sichere Vorgehensweisen Mit Einem Zusätzlichen E-Mail-Sicherheitsprogramm</u></a></li>
-<li><a href="https://win-top.techidaily.com/guide-simple-pour-substituer-la-carte-hdd-dun-portable-asus-par-une-solution-ssd-faits-et-astuces/"><u>Guide Simple Pour Substituer La Carte HDD D'Un Portable Asus Par Une Solution SSD - Faits Et Astuces</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/languagehorizon-2020-expo-dubais-vision-for-communication/"><u>LanguageHorizon 2020: Expo Dubai's Vision for Communication</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mac-users-guide-using-superdrive-to-watch-dvds-without-an-internal-drive/"><u>Mac Users Guide: Using SuperDrive to Watch DVDs Without an Internal Drive</u></a></li>
-<li><a href="https://win-bits.techidaily.com/rechtliche-anleitung-zur-fehlerbehebung-von-windows-server-2008-r2-und-2012-r2-mit-cmd-befehlen/"><u>Rechtliche Anleitung Zur Fehlerbehebung Von Windows Server 2008 R2 Und 2012 R2 Mit CMD-Befehlen</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/screenstream-worldwide-live-including-exclusive-locals-for-2024/"><u>ScreenStream Worldwide Live, Including Exclusive Locals for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/step-by-step-guide-to-swapping-your-hp-pavilion-g6s-hard-drive-with-an-ssd/"><u>Step-by-Step Guide to Swapping Your HP Pavilion G6's Hard Drive with an SSD</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/step-by-step-integrating-apple-music-into-your-videos/"><u>Step-by-Step Integrating Apple Music Into Your Videos</u></a></li>
-<li><a href="https://win-top.techidaily.com/1729044338535-the-evolution-of-mobile-and-sms-advertising-in-the-last-decade-a-comprehensive-guide-to-campaign-strategies-and-best-practices-updated/"><u>The Evolution of Mobile & SMS Advertising in the Last Decade: A Comprehensive Guide to Campaign Strategies and Best Practices (Updated )</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/windows-10xbox/"><u>Windows 10上、Xboxゲームバーは画像記録不可能？解決手段を学ぶ！</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728491420561-windowsonedrive/"><u>Windows上でOneDrive同期設定 - 自動アップデートガイド</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-efficiently-capturing-professional-movies-on-your-windows-pc-for-2024/"><u>[New] Efficiently Capturing Professional Movies on Your Windows PC for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-exclusive-review-best-free-videocall-platforms-w-screen-view-for-2024/"><u>[Updated] Exclusive Review Best Free Videocall Platforms W/ Screen View for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-mastering-video-edits-essential-mp4-tools-for-mac-users/"><u>[Updated] Mastering Video Edits Essential MP4 Tools for Mac Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-10-drones-for-high-quality-cinematography-for-2024/"><u>Best 10 Drones for High-Quality Cinematography for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-achieve-smooth-gameplay-by-fixing-latency-issues-and-high-ping-on-pc-for-cs2/"><u>How to Achieve Smooth Gameplay by Fixing Latency Issues & High Ping on PC for CS2</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-se-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone SE Passcode Easily Video Inside</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-forex-top-3-entry-level-strategies-guaranteed-to-earn-on-mt4/"><u>Mastering Forex: Top 3 Entry-Level Strategies Guaranteed to Earn on MT4</u></a></li>
+<li><a href="https://win-top.techidaily.com/pariss-premier-seo-firms-for-2e25-success-discover-top-picks-and-expert-strategies-using-seo-powersuite/"><u>Paris's Premier SEO Firms for 2E25 Success: Discover Top Picks & Expert Strategies Using SEO PowerSuite</u></a></li>
+<li><a href="https://win-top.techidaily.com/strategia-efficiente-come-costruire-il-tuo-disco-di-ripristino-in-windows-server-2022/"><u>Strategia Efficiente: Come Costruire Il Tuo Disco Di Ripristino in Windows Server 2022</u></a></li>
+<li><a href="https://win-top.techidaily.com/tutorial-implementare-un-backup-continuo-e-autonomo-per-il-tuo-nas-sistemato-in-windows/"><u>Tutorial: Implementare Un Backup Continuo E Autonomo per Il Tuo NAS Sistemato in Windows</u></a></li>
 </ul></div>
 
