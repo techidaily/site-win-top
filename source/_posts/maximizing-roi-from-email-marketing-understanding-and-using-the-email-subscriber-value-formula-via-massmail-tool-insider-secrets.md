@@ -1,7 +1,7 @@
 ---
 title: "Maximizing ROI From Email Marketing: Understanding and Using the Email Subscriber Value Formula via MassMail Tool | Insider Secrets"
-date: 2024-11-27T21:54:16.730Z
-updated: 2024-12-01T06:43:41.954Z
+date: 2024-12-08T09:01:44.160Z
+updated: 2024-12-09T04:37:54.934Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -33,16 +37,12 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -51,10 +51,6 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -75,24 +71,16 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -101,6 +89,10 @@ If you use several types of media to promote your campaign, use a different keyw
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
@@ -113,6 +105,10 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,15 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-eyevision-recorder-ultimate/"><u>[New] EyeVision Recorder Ultimate</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-instant-ideas-recording-ppts-with-ease/"><u>[Updated] Instant Ideas Recording PPTs with Ease</u></a></li>
-<li><a href="https://win-top.techidaily.com/effortlessly-reach-your-audience-discover-1-2-3-little-customers-and-massmailer-for-streamlined-mailing-solutions/"><u>Effortlessly Reach Your Audience: Discover 1-2-3 Little Customers & MassMailer for Streamlined Mailing Solutions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/excellence-squad-selecting-top-7-fps-games-for-2024/"><u>Excellence Squad Selecting Top 7 FPS Games for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/halloween-promotional-mastery-essential-tactics-creative-concepts-and-inspiration-for-impactful-campaigns-via-massmail-solutions/"><u>Halloween Promotional Mastery: Essential Tactics, Creative Concepts & Inspiration for Impactful Campaigns via MassMail Solutions</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-rewards-and-risks-virtual-reality-unveiled/"><u>In 2024, Rewards & Risks Virtual Reality Unveiled</u></a></li>
-<li><a href="https://win-top.techidaily.com/local-trading-station-enhances-user-experience-by-integrating-dxtrade-for-hassle-free-mt4-trade-cloning-using-mt4copier/"><u>Local Trading Station Enhances User Experience by Integrating DXTrade for Hassle-Free MT4 Trade Cloning Using Mt4Copier</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722963681586-speedy-setup-for-your-wi-fi-install-immediately-linksys-ae2500-router-drivers-available-now/"><u>Speedy Setup for Your Wi-Fi - [INSTALL IMMEDIATELY] Linksys AE2500 Router Drivers Available Now!</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/ultimate-review-of-twelve-souths-bookbook-v2-for-macbook-smart-and-stylish-protection/"><u>Ultimate Review of Twelve South's BookBook V2 for MacBook: Smart & Stylish Protection</u></a></li>
-<li><a href="https://win-top.techidaily.com/effektivnye-metody-seo-ot-vedushih-agentstv-v-dallase-dostigajte-maksimalnoj-vidimosti-s-pomoshyu-seo-powersuite/"><u>Эффективные Методы SEO От Ведущих Агентств В Далласе - Достигайте Максимальной Видимости С Помощью SEO PowerSuite</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-architecting-top-quality-canon-time-lapse/"><u>[Updated] Architecting Top Quality Canon Time-Lapse</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-tailored-for-tech-savvy-audiences-unveil-the-youtuber-who-resonates-with-you-through-six-quizzes/"><u>[Updated] In 2024, Tailored for Tech-Savvy Audiences Unveil the YouTuber Who Resonates with You Through Six Quizzes</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-thriving-in-the-streaming-scene-overcoming-subscriber-limitations/"><u>2024 Approved Thriving in the Streaming Scene Overcoming Subscriber Limitations</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-on-iphone-14-plus-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out On iPhone 14 Plus How to Bypass?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-windows-11-performance-solutions-for-enhancing-speed/"><u>Boosting Windows 11 Performance: Solutions for Enhancing Speed</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dragon-ball-fighterz-error-troubleshooting-network-initialization-failures/"><u>Dragon Ball FighterZ Error: Troubleshooting Network Initialization Failures</u></a></li>
+<li><a href="https://win-top.techidaily.com/elevate-web-traffic-with-premier-seo-companselections-in-muscat-oman-harness-the-strength-of-seo-powersuite/"><u>Elevate Web Traffic with Premier SEO Compan_selections in Muscat, Oman - Harness the Strength of SEO PowerSuite</u></a></li>
+<li><a href="https://win-top.techidaily.com/email-marketing-statistics-data-analysis-and-the-brand-name-massmail/"><u>Email Marketing, Statistics, Data Analysis, and the Brand Name MassMail.</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-a78-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/krok-po-kroku-w-utrzymywaniu-dysku-ssd-sandisk-w-systemie-windows-11-wykonanie-skonfigurowania-twardego/"><u>Krok Po Kroku W Utrzymywaniu Dysku SSD SANDISK W Systemie Windows 11 - Wykonanie Skonfigurowania Twardego</u></a></li>
+<li><a href="https://win-top.techidaily.com/optimisez-la-synchronisation-les-techniques-recuperatrices-les-plus-efficaces-avec-un-nas-synology-pour-windows-1011/"><u>Optimisez La Synchronisation : Les Techniques Récupératrices Les Plus Efficaces Avec Un NAS Synology Pour Windows 10/11!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pixels-of-peaceful-tales-video-critique/"><u>Pixels of Peaceful Tales Video Critique</u></a></li>
+<li><a href="https://win-top.techidaily.com/revolutionary-myspace-marketing-strategies-of-2009-exploring-innovative-advertising-tools-and-automated-email-campaigns/"><u>Revolutionary MySpace Marketing Strategies of 2009: Exploring Innovative Advertising Tools and Automated Email Campaigns</u></a></li>
+<li><a href="https://win-top.techidaily.com/steps-voor-het-omzetten-van-mijn-hoe-kloon-ssd-naar-usb-en-de-initiatievaardigheden-bij-het-herstarten/"><u>Steps Voor Het Omzetten Van Mijn Hoe Kloon SSD Naar USB en De Initiatievaardigheden Bij Het Herstarten?</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-rated-seo-firms-in-london-uk-comprehensive-guide-for-2nd-2024-with-seo-power-suite/"><u>Top-Rated SEO Firms in London, UK: Comprehensive Guide for 2nD 2024 with SEO Power Suite</u></a></li>
 </ul></div>
 

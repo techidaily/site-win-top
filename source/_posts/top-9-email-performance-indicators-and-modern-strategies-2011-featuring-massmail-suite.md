@@ -1,7 +1,7 @@
 ---
 title: Top 9 Email Performance Indicators & Modern Strategies (2011) Featuring MassMail Suite
-date: 2024-11-27T19:32:04.884Z
-updated: 2024-12-01T00:26:46.365Z
+date: 2024-12-06T21:10:28.196Z
+updated: 2024-12-09T09:02:54.467Z
 tags:
   - product
 categories:
@@ -18,17 +18,9 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -39,10 +31,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -56,11 +44,19 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -74,6 +70,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -81,10 +81,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -98,13 +94,13 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -119,7 +115,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,19 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-jumpstart-your-collaboration-zooms-screen-share-essentials/"><u>[New] Jumpstart Your Collaboration Zoom's Screen-Share Essentials</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-transcribe-speaking-to-writing-free-of-charge/"><u>[New] Transcribe Speaking to Writing Free of Charge</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-verifying-realness-in-instagrams-visual-identity-expressions-for-2024/"><u>[New] Verifying Realness in Instagram's Visual Identity Expressions for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-planning-a-dynamic-tiktok-outro-experience/"><u>[Updated] In 2024, Planning a Dynamic TikTok Outro Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-making-a-difference-structuring-video-content-with-chapters/"><u>[Updated] Making a Difference Structuring Video Content with Chapters</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-vivo-y100i-unlock-without-password-by-drfone-android/"><u>5 Solutions For Vivo Y100i Unlock Without Password</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/best-13-online-communities-for-mastering-affiliate-and-internet-marketing-discover-them-with-massmail-tools/"><u>Best 13 Online Communities for Mastering Affiliate & Internet Marketing: Discover Them with Massmail Tools</u></a></li>
-<li><a href="https://win-top.techidaily.com/como-ampliar-el-almacenamiento-de-su-pc-transformando-un-hdd-en-ssd-en-sistemas-windows/"><u>Cómo Ampliar El Almacenamiento De Su PC: Transformando Un HDD en SSD en Sistemas Windows</u></a></li>
-<li><a href="https://win-top.techidaily.com/decoding-the-evolution-of-online-ad-spend-2010-statistics-and-predictions-for-2011-with-massmails-analytic-solutions/"><u>Decoding the Evolution of Online Ad Spend: 2010 Statistics and Predictions for 2011 with Massmail's Analytic Solutions</u></a></li>
-<li><a href="https://win-top.techidaily.com/escape-from-your-email-blacklist-a-comprehensive-guide-with-massmail-solutions/"><u>Escape From Your Email Blacklist: A Comprehensive Guide with MassMail Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-samsung-galaxy-m14-4g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Samsung Galaxy M14 4G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/understanding-html-a-comprehensive-guide-with-essential-seo-strategies-from-the-seo-powersuite/"><u>Understanding HTML: A Comprehensive Guide with Essential SEO Strategies From the SEO PowerSuite</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728466501667-windows-10/"><u>Windows 10上發生白屏故障？即時修復方法</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-boost-your-videos-impact-with-top-ranking-software-solutions/"><u>[New] In 2024, Boost Your Videos' Impact with Top-Ranking Software Solutions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-iphones-finest-leading-cost-free-photo-layout-apps-ranked/"><u>[New] IPhone's Finest Leading Cost-Free Photo Layout Apps Ranked</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-protecting-beats-on-instagram/"><u>[Updated] Protecting Beats on Instagram</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-conversion-made-simple-learn-how-without-spending-a-dime/"><u>[Updated] YouTube Conversion Made Simple – Learn How Without Spending a Dime</u></a></li>
+<li><a href="https://win-top.techidaily.com/boost-your-forex-earnings-smart-strategies-for-successful-metaltrader-4-copying/"><u>Boost Your Forex Earnings: Smart Strategies for Successful Metaltrader 4 Copying.</u></a></li>
+<li><a href="https://win-top.techidaily.com/forex-mastery-with-algorithmic-trading-elevate-profits-using-mt4-copier/"><u>Forex Mastery with Algorithmic Trading: Elevate Profits Using MT4 Copier</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-prepare-bootable-dell-windows/"><u>How to Prepare Bootable Dell Windows</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-asus-rog-phone-7-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Asus ROG Phone 7 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-cutting-edge-filmmaking-kinemasters-seamless-segments/"><u>In 2024, Cutting-Edge Filmmaking Kinemaster's Seamless Segments</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-15-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 15 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-mastering-live-streaming-for-peak-engagement/"><u>In 2024, Mastering Live Streaming for Peak Engagement</u></a></li>
+<li><a href="https://win-top.techidaily.com/leading-seo-service-providers-in-the-us-capital-region-with-a-spotlight-on-seo-powersuite-excellence/"><u>Leading SEO Service Providers in the US Capital Region with a Spotlight on SEO PowerSuite Excellence</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-the-psychology-behind-successful-long-term-forex-trading-with-steady-patience-and-strong-discipline/"><u>Mastering the Psychology Behind Successful Long-Term Forex Trading with Steady Patience and Strong Discipline</u></a></li>
+<li><a href="https://win-top.techidaily.com/optimize-your-site-the-comprehensive-guide-to-seo-driven-data-processing-tools/"><u>Optimize Your Site: The Comprehensive Guide to SEO-Driven Data Processing Tools</u></a></li>
+<li><a href="https://win-top.techidaily.com/safe-and-savvy-craigslist-strategies-in-2009-securing-your-transactions-with-massmail-tools/"><u>Safe and Savvy Craigslist Strategies in 2009: Securing Your Transactions with MassMail Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/techniques-for-more-watches-on-your-insta-vids/"><u>Techniques for More Watches on Your Insta Vids</u></a></li>
+<li><a href="https://win-top.techidaily.com/luchshie-agentstva-po-optimizacii-dlya-poiskovyh-sistem-seo-v-belfaste-angliya-ischerpyvayushij-obzor-ot-komandy-powersuite/"><u>Лучшие Агентства По Оптимизации Для Поисковых Систем (SEO) В Белфасте, Англия: Исчерпывающий Обзор От Команды PowerSuite</u></a></li>
 </ul></div>
 

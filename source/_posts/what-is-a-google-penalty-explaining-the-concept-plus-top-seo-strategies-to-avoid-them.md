@@ -1,7 +1,7 @@
 ---
 title: What Is a Google Penalty? Explaining the Concept + Top SEO Strategies to Avoid Them
-date: 2024-11-27T19:47:24.573Z
-updated: 2024-12-01T02:33:59.783Z
+date: 2024-12-08T08:36:56.051Z
+updated: 2024-12-08T22:51:07.309Z
 tags:
   - wiki
 categories:
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/6751e55bdf4c2e1662ce3bd78f4508fbf0de25f71
 >
 
 ## Google penalty
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Contents
 
@@ -43,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/6751e55bdf4c2e1662ce3bd78f4508fbf0de25f71
 A Google penalty is a significant cutback in organic visibility and clicks, which a website experiences in response to the owner’s violation of the search engine’s guidelines. The penalty may be specifically issued by someone on the Google team or applied automatically when the website triggers some [algorithmic spam indicators](https://tools.techidaily.com/link-assistant/products/). 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What happens when you get a Google penalty?
@@ -52,19 +48,23 @@ You won't be notified if your website has been penalized automatically. However,
 
 If the penalty is a manual one, you will get a penalty notification in your Google Search Console account. The website at the same time will get downranked or even banned from the search results altogether. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What causes a Google penalty?
 
 For a website to get penalized by Google, it has to be considered spammy and somehow violate the search engine’s Web Search Essentials (former Webmaster Guidelines).[\[1\]](https://tools.techidaily.com/link-assistant/products/)
 
 For example, a couple of the most frequent causes of penalties are spammy backlinks and thin and low-quality content. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What kind of Google penalties can you get?
 
 There are a number of things one needs to keep in mind to avoid being penalized by Google. The most common types of penalties you might encounter are as follows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### User-generated spam
 
@@ -73,6 +73,10 @@ Many a time, the creator of spammy content and links on the website is not the w
 ### Spammy hosting
 
 Another external factor for a Google penalty is spammy web hosting. If the hosting provider gets penalized for hosting too many spammy websites, each and every website they host will also get a Google SEO penalty, regardless of their quality. Thus, the best practice to avoid penalties is to stick with a trusted and authoritative hosting provider. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Structured data issue
 
@@ -86,10 +90,6 @@ This penalty is very likely to follow when the webmaster is involved in shady li
 
 Your website mustn’t be involved in link-building schemes not only as the recipient of the backlink but also as its donor. So, excessively linking out to irrelevant resources or clearly doing this for a cash reward is likely to get your website under a Google SEO penalty. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Thin content penalty
 
 Last but not least comes the penalty for insufficient content. Considered a sign of a content farm, thin content should be avoided throughout the whole website. This might be especially important for e-commerce websites with thousands of almost identical product pages.
@@ -102,6 +102,10 @@ After that, the cause of the penalty should be identified and the violation - be
 
 Finally, when the website can no longer be considered a violator, a reconsideration request to Google is sent.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Related articles
 
 [Google’s Disavow Tool: How to Save Your Site from Bad Backlinks](https://tools.techidaily.com/link-assistant/products/)
@@ -109,10 +113,6 @@ Finally, when the website can no longer be considered a violator, a reconsiderat
 [9 Reasons Google Rankings Suddenly Dropped & Find-and-Fix SEO Guide](https://tools.techidaily.com/link-assistant/products/)
 
 [The 8-Step Process for Full Website Content Audit](https://tools.techidaily.com/link-assistant/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## References
 
@@ -133,21 +133,20 @@ Finally, when the website can no longer be considered a violator, a reconsiderat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-the-softer-side-of-promotion-elevating-your-audience-count/"><u>[New] 2024 Approved The Softer Side of Promotion Elevating Your Audience Count</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-incremental-introduction-for-2024/"><u>[Updated] Incremental Introduction for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-step-by-step-guide-to-stunning-instagram-videos-for-2024/"><u>[Updated] Step-by-Step Guide to Stunning Instagram Videos for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1-apples-next-move-unveiling-the-secure-os-designed-for-cutting-edge-ai-operations-in-their-data-facilities-insights-from-tech-sphere/"><u>1. Apple's Next Move: Unveiling the Secure OS Designed for Cutting-Edge AI Operations in Their Data Facilities | Insights From Tech Sphere</u></a></li>
-<li><a href="https://win-top.techidaily.com/best-search-engine-optimization-firms-in-frankfurt-discovering-the-top-picks-with-seo-powersuite/"><u>Best Search Engine Optimization Firms in Frankfurt: Discovering the Top Picks with SEO PowerSuite</u></a></li>
-<li><a href="https://win-top.techidaily.com/boosting-domain-authority-with-link-popularity-expert-tips-from-seo-powersuite/"><u>Boosting Domain Authority with Link Popularity - Expert Tips From SEO PowerSuite</u></a></li>
-<li><a href="https://win-top.techidaily.com/budget-seo-mastery-with-leading-economical-software-and-techniques-in-the-market-optimize-with-frugal-precision-using-powersuite/"><u>Budget SEO Mastery with Leading Economical Software & Techniques in the Market | Optimize with Frugal Precision Using PowerSuite</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210970037-9781088234488-el-manana-a-dios-pertenece/"><u>El Mañana a Dios pertenece | Free Book</u></a></li>
-<li><a href="https://win-top.techidaily.com/exploring-the-impact-of-the-disposition-effect-on-forex-market-decisions-traders-guide/"><u>Exploring the Impact of the Disposition Effect on Forex Market Decisions | Traders' Guide</u></a></li>
-<li><a href="https://win-top.techidaily.com/how-does-sender-policy-framework-work-in-email-communication-insights-from-massmails-perspective/"><u>How Does Sender Policy Framework Work in Email Communication? Insights From MassMail's Perspective</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/how-to-adjust-text-emphasis-and-search-highlights/"><u>How To Adjust Text Emphasis and Search Highlights</u></a></li>
-<li><a href="https://solve-info.techidaily.com/maximize-your-pcs-performance-effective-methods-for-deleting-redundant-data-and-expanding-storage-insights-by-yl-computing/"><u>Maximize Your PC's Performance: Effective Methods for Deleting Redundant Data & Expanding Storage - Insights by YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-windows-error-code-0x80070570-for-corrupted-items/"><u>Steps to Resolve Windows Error Code 0X80070570 for Corrupted Items</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/uncover-rare-windows-11-skins-and-themes/"><u>Uncover Rare Windows 11 Skins & Themes</u></a></li>
-<li><a href="https://win-top.techidaily.com/understanding-meta-descriptions-a-comprehensive-guide-with-top-seo-strategies/"><u>Understanding Meta Descriptions: A Comprehensive Guide with Top SEO Strategies</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-5-ekspertnyh-seo-agentstv-v-glazgo-uluchshite-optimizaciyu-vebsajtov-dlya-velikobritanii/"><u>Топ-5 Экспертных SEO Агентств В Глазго: Улучшите Оптимизацию Вебсайтов Для Великобритании</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-drones-and-stability-optimal-vibration-control-devices-for-2024/"><u>[New] Drones & Stability Optimal Vibration Control Devices for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/crafting-attention-grabbing-email-designs-integrating-background-images-flawlessly-the-latest-insights-from-massmails-2023-guide/"><u>Crafting Attention-Grabbing Email Designs: Integrating Background Images Flawlessly | The Latest Insights From MassMail's 2023 Guide</u></a></li>
+<li><a href="https://win-top.techidaily.com/e-mail-nachwiederherstellung-aus-dem-papierkorbtank-zwei-effektive-methoden/"><u>E-Mail-Nachwiederherstellung Aus Dem Papierkorbtank: Zwei Effektive Methoden</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-festive-download-premium-hd-3d-christmas-walls-for-zero-cost/"><u>Get Festive: Download Premium HD 3D Christmas Walls for Zero Cost</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-autoplay-youtube-videos-on-facebook-for-2024/"><u>How to Autoplay Youtube Videos on Facebook for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-samsung-galaxy-s24plus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Samsung Galaxy S24+ Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-batch-communication-introducing-magic-articles-revolutionary-massmail-software/"><u>Mastering Batch Communication: Introducing Magic Articles' Revolutionary MassMail Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-hardware-choices-wisdom-from-toms-technological-review/"><u>Mastering Hardware Choices - Wisdom From Tom's Technological Review</u></a></li>
+<li><a href="https://win-top.techidaily.com/maximizing-profits-when-to-start-trading-forex-in-america-based-on-market-opening-schedules-and-leveraging-mt4copier-tools/"><u>Maximizing Profits: When to Start Trading Forex in America Based on Market Opening Schedules & Leveraging MT4copier Tools</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728488572089-microsoft-outlook/"><u>Microsoft Outlook メッセージ送信失敗: 解決策とトラブルシューティング手順</u></a></li>
+<li><a href="https://win-top.techidaily.com/overcoming-obstacles-in-hard-drive-splitting-techniques-expert-advice-on-disk-partition-failures/"><u>Overcoming Obstacles in Hard Drive Splitting Techniques: Expert Advice on Disk Partition Failures</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-of-clearstream-2v-all-weather-hd-tv-antenna-exceptional-signal-in-an-aesthetic-design/"><u>Review of ClearStream 2V All-Weather HD TV Antenna: Exceptional Signal in an Aesthetic Design</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-12-pro-max-by-drfone-ios/"><u>The Ultimate Guide to Bypassing iCloud Activation Lock on iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tracing-the-path-to-improved-windows-experience-via-ai/"><u>Tracing the Path to Improved Windows Experience via AI</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unbelievably-powerful-how-this-compact-8-in-1-adapter-outshines-expectations-for-just-xx-insights/"><u>Unbelievably Powerful: How This Compact 8-in-1 Adapter Outshines Expectations for Just $XX! - Insights</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Downloadable Valentine's Day Cards & Graphics - Quick Access with ATOM Park (2014 Edition)
-date: 2024-11-28T04:25:05.501Z
-updated: 2024-12-01T02:03:18.345Z
+date: 2024-12-02T03:31:57.552Z
+updated: 2024-12-09T09:09:34.593Z
 tags:
   - product
 categories:
@@ -18,10 +18,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
@@ -36,17 +32,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -55,6 +43,10 @@ Brands and agencies increasingly recognize that mobile is a powerful, cost-effec
 _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s measurable
 
@@ -74,6 +66,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -82,13 +78,13 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-### 2\. Use media types for promotion
-
-If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+### 2\. Use media types for promotion
+
+If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 ### 3\. Offer incentives
 
@@ -101,6 +97,10 @@ When promoting your vanity short code, always provide the short code’s digits 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -115,7 +115,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,21 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-heartstrings-harmony-best-music-to-accompany-your-engagement/"><u>[Updated] Heartstrings Harmony Best Music to Accompany Your Engagement</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-embedding-yt-audio-into-film-formats/"><u>2024 Approved Embedding YT Audio Into Film Formats</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-the-ultimate-slomo-recording-tool-assessment-guide/"><u>2024 Approved The Ultimate SloMo Recording Tool Assessment Guide</u></a></li>
-<li><a href="https://win-top.techidaily.com/windows-11-ghost-window/"><u>迷你指南：啟用四大途徑搶救Windows 11 Ghost Window</u></a></li>
-<li><a href="https://win-top.techidaily.com/win1011/"><u>修復Win10/11硬盤碎片化分區的刪除資料回收方法</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/adding-epub-books-to-ipads-ibooks-library-a-complete-tutorial/"><u>Adding EPUB Books to iPad's iBooks Library - A Complete Tutorial</u></a></li>
-<li><a href="https://discover-data.techidaily.com/best-no-cost-apps-for-creating-videos-on-instagram/"><u>Best No-Cost Apps for Creating Videos on Instagram</u></a></li>
-<li><a href="https://win-top.techidaily.com/effiziente-wege-um-zwei-externe-laufwerke-zu-synchronisieren-auf-dem-pc-unter-windows-10/"><u>Effiziente Wege, Um Zwei Externe Laufwerke Zu Synchronisieren Auf Dem PC Unter Windows 10</u></a></li>
-<li><a href="https://win-top.techidaily.com/guide-simple-creer-un-disque-de-repare-systeme-compatible-avec-windows-v7-a-v11/"><u>Guide Simple : Créer Un Disque De Répare-Système Compatible Avec Windows V7 À V11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-chords-to-clicks-mastering-music-on-ig/"><u>In 2024, From Chords to Clicks Mastering Music on IG</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-top-10-richest-youtubers/"><u>In 2024, Top 10 Richest YouTubers</u></a></li>
-<li><a href="https://win-top.techidaily.com/switching-sql-database-models-transition-from-simple-to-full-a-comprehensive-guide/"><u>Switching SQL Database Models: Transition From Simple to Full - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-top.techidaily.com/tutorial-trouvez-facilement-vos-fichiers-perdus-sur-windows-et-mac-os-x/"><u>Tutorial : Trouvez Facilement Vos Fichiers Perdus Sur Windows Et Mac OS X</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-unlimited-fake-faces-best-free-online-face-generation-tools/"><u>Updated 2024 Approved Unlimited Fake Faces Best Free Online Face Generation Tools</u></a></li>
-<li><a href="https://win-top.techidaily.com/windows-11-thasatavaza-fildara-anapasathata-hana-ka-samasaya-ka-hal-karana-ka-eka-thashhatakanae/"><u>Windows 11: दस्तावेज़ फ़ोल्डर अनुपस्थित होने की समस्या को हल करने का एक दृष्टिकोण</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-decorate-your-windows-11-photos-app-add-aesthetic-filters-plus-audio-streams-for-2024/"><u>[Updated] Decorate Your Windows 11 Photos App Add Aesthetic Filters + Audio Streams for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-tubebuddy-the-key-to-youtube-dominance/"><u>[Updated] TubeBuddy The Key to YouTube Dominance</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/battleye-service-now-running-steps-to-successfully-configure-your-anticheat-protection/"><u>BattlEye Service Now Running: Steps to Successfully Configure Your Anticheat Protection</u></a></li>
+<li><a href="https://techtrends.techidaily.com/como-convertir-mp4-a-formato-flv-sin-coste-mediante-movavi-guia-paso-a-paso/"><u>Cómo Convertir MP4 a Formato FLV Sin Coste Mediante Movavi: Guía Paso a Paso</u></a></li>
+<li><a href="https://win-top.techidaily.com/effiziente-hyper-v-virtualisierung-praktische-anleitungen-zur-losung-von-prufpunkten/"><u>Effiziente Hyper-V-Virtualisierung: Praktische Anleitungen Zur Lösung Von Prüfpunkten</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-motorola-moto-g14-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Motorola Moto G14 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-nokia-xr21-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Nokia XR21 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/restoring-specific-notes-from-your-iphone-backup-made-easy/"><u>Restoring Specific Notes From Your iPhone Backup Made Easy</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/revolutionizing-accounts-payable-the-strategic-alliance-between-siemens-and-abbyy-in-process-automation/"><u>Revolutionizing Accounts Payable: The Strategic Alliance Between Siemens & ABBYY in Process Automation</u></a></li>
+<li><a href="https://win-top.techidaily.com/sicherung-ihrer-iphone-daten-entweder-durch-einen-usb-stick-oder-ein-externes-flash-laufwerk/"><u>Sicherung Ihrer iPhone Daten - Entweder Durch Einen USB Stick Oder Ein Externes Flash-Laufwerk</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/time-reverse-footage-on-your-phone-for-2024/"><u>Time-Reverse Footage on Your Phone for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/transferir-copias-de-seguridad-de-software-gratuito-entre-computadoras-por-internet-tecnicas-expertas-y-consejos/"><u>Transferir Copias De Seguridad De Software Gratuito Entre Computadoras Por Internet – Técnicas Expertas Y Consejos</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/tutorial-pemeliharaan-ssd-proses-klon-usb-dan-konfirmasi-modal-awal/"><u>Tutorial Pemeliharaan SSD: Proses Klon USB Dan Konfirmasi Modal Awal</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728499338611-usb-3/"><u>データ救出不可能! USBドライブのセットで安全に情報抹消法 - 新たな戦略3つ</u></a></li>
 </ul></div>
 

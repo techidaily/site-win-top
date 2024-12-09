@@ -1,7 +1,7 @@
 ---
 title: Understanding Cost Per Acquisition in Digital Marketing - CPO Definitions & SEO Strategies Explained
-date: 2024-11-25T23:58:19.352Z
-updated: 2024-11-30T18:11:44.048Z
+date: 2024-12-05T07:36:01.758Z
+updated: 2024-12-08T18:25:26.519Z
 tags:
   - wiki
 categories:
@@ -17,14 +17,10 @@ thumbnail: https://thmb.techidaily.com/5d226635edaf435094da0cef0471d4f2b3210c149
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Cost per order (CPO)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Contents
 
@@ -40,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/5d226635edaf435094da0cef0471d4f2b3210c149
 Cost per order, or CPO, is a term used to describe the average marketing spend needed to drive any purchase to your website. Cost per order, also known as cost per purchase, is often used to assess the effectiveness of an internet advertising campaign.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CPO calculation
@@ -50,6 +46,10 @@ Here’s how to calculate CPO - you’ll need to divide the advertising costs by
 **Cost per order ($) = Advertising cost ($) / Orders placed (#)** [\[1\]](https://tools.techidaily.com/link-assistant/products/)
 
 Here’s an example of calculating CPO: you paid $200 for placing a banner on a website and at the end of the campaign you received 40 orders. 200/40=$5 which means that the CPO in this case is $5.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## CPO in affiliate marketing
 
@@ -66,7 +66,7 @@ That means that an advertiser has a lower risk of wasting their marketing budget
 However, a major disadvantage of the CPO model is the fact that website operators have to rely on the honesty of their business partners. It is almost impossible to track if the advertising partner reports the number of sales correctly. On the other hand, Does a blog that offers ad space really have as much reach as claimed? Is the provided ad material of such quality that it actually leads to sales? CPO as a billing model only leads to a win-win situation if both parties work fairly and transparently on optimizing the cooperation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## CPO alternatives
@@ -74,7 +74,7 @@ However, a major disadvantage of the CPO model is the fact that website operator
 CPO is not the only model you can use in advertising and affiliate marketing. Such models as cost per action (CPA), cost per click (CPC), and cost per lead (CPL) are very similar to CPO with the difference that advertising fees are paid when traffic is generated from advertisers (but purchases are not made yet). The cost per view (CPV) is another model that’s more often used to advertise videos or online games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## References
@@ -96,20 +96,18 @@ CPO is not the only model you can use in advertising and affiliate marketing. Su
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-transform-fb-video-tunes-to-mp3/"><u>[New] 2024 Approved Transform Fb Video Tunes to MP3</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-annual-highlights-ultimate-free-lut-download-guide/"><u>[New] Annual Highlights Ultimate Free LUT Download Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-complete-screencast-process-methodical-instructional-video/"><u>2024 Approved Complete Screencast Process Methodical Instructional Video</u></a></li>
-<li><a href="https://win-top.techidaily.com/easy-tips-for-enabling-auto-backup-features-in-windows-11/"><u>Easy Tips for Enabling Auto Backup Features in Windows 11</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/enhance-playstation-2-gaming-the-ultimate-guide-to-android-emulation-tools-for-2024/"><u>Enhance PlayStation 2 Gaming The Ultimate Guide to Android Emulation Tools for 2024</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-change-your-iphone-11-pro-apple-id-on-macbook-by-drfone-ios/"><u>How To Change Your iPhone 11 Pro Apple ID on MacBook</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-xiaomi-redmi-note-12r-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Xiaomi Redmi Note 12R Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/iphone-16-a-breakthrough-in-user-friendly-maintenance-compared-to-older-models-insights-from-apple-zdnet/"><u>IPhone 16: A Breakthrough in User-Friendly Maintenance Compared to Older Models - Insights From Apple | ZDNet</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-moving-averages-using-macd-for-successful-forex-strategies-with-mt4mt5-and-trade-copier/"><u>Mastering Moving Averages: Using MACD for Successful Forex Strategies with MT4/MT5 and Trade Copier</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-seo-metrics-how-to-define-and-leverage-unique-visitor-counts-using-seo-powersuite-tips/"><u>Mastering SEO Metrics: How to Define and Leverage Unique Visitor Counts Using SEO PowerSuite Tips</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-free-to-edit-top-video-editing-software-without-watermarks-or-fees-for-2024/"><u>New Free to Edit Top Video Editing Software without Watermarks or Fees for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-ranking-seo-companies-in-chicago-premier-seo-services-for-the-windy-city/"><u>Top-Ranking SEO Companies in Chicago | Premier SEO Services for the Windy City</u></a></li>
-<li><a href="https://win-top.techidaily.com/ultimate-strategies-to-restore-deleted-files-in-windows-11/"><u>Ultimate Strategies to Restore Deleted Files in Windows 11</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-artificial-intelligence-chatbot-filtering-impact-on-users/"><u>Understanding Artificial Intelligence Chatbot Filtering: Impact on Users</u></a></li>
-<li><a href="https://win-top.techidaily.com/ekspertnye-seo-servisy-v-edinburge-velikobritaniya-upscale-seo-powersuite-reshenie/"><u>Экспертные SEO-Сервисы В Эдинбурге, Великобритания | Upscale SEO PowerSuite Решение</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-cutting-edge-strategies-for-igtv-backgrounds/"><u>[Updated] 2024 Approved Cutting-Edge Strategies for IGTV Backgrounds</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-enhancing-your-tiktok-profile-with-memorable-username-ideas-for-2024/"><u>[Updated] Enhancing Your TikTok Profile with Memorable Username Ideas for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-transform-your-memories-into-engaging-facebook-slides/"><u>[Updated] In 2024, Transform Your Memories Into Engaging Facebook Slides</u></a></li>
+<li><a href="https://win-top.techidaily.com/ultimate-guide-windows-103/"><u>「Ultimate Guide: Windows 10における3種類のゴースト画像化手法」</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-elevate-your-videos-with-expert-tips-on-vlc-spinning/"><u>2024 Approved Elevate Your Videos with Expert Tips on VLC Spinning</u></a></li>
+<li><a href="https://win-top.techidaily.com/win1011/"><u>修復Win10/11硬盤碎片化分區的刪除資料回收方法</u></a></li>
+<li><a href="https://win-top.techidaily.com/ultra-3d-ssd/"><u>最高のクローニング方法：サンディスクUltra 3D SSDのためのベストプラクティス</u></a></li>
+<li><a href="https://win-top.techidaily.com/comprehensive-freeundelete-software-analysis-the-ultimate-guide/"><u>Comprehensive FreeUndelete Software Analysis - The Ultimate Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/end-to-end-walkthrough-of-videoshows-24-upgrade/"><u>End-to-End Walkthrough of VideoShow's '24 Upgrade</u></a></li>
+<li><a href="https://win-top.techidaily.com/fehlerbehebung-erkennung-externer-speichermedien-in-windows-11-7-ansatze/"><u>Fehlerbehebung: Erkennung Externer Speichermedien in Windows 11 (7 Ansätze)</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guia-rapida-y-sencilla-conversion-sin-costo-en-linea-de-archivos-mp2-a-mp4-usando-herramientas-de-movavi/"><u>Guía Rápida Y Sencilla: Conversión Sin Costo en Línea De Archivos MP2 a MP4 Usando Herramientas De Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-elite-8-video-transformations-for-virtual-events/"><u>In 2024, Elite 8 Video Transformations for Virtual Events</u></a></li>
 </ul></div>
 

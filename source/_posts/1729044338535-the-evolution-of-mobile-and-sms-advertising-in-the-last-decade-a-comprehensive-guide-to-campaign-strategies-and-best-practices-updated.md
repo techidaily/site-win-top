@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Mobile & SMS Advertising in the Last Decade: A Comprehensive Guide to Campaign Strategies and Best Practices (Updated )"
-date: 2024-11-25T05:17:18.134Z
-updated: 2024-11-30T18:21:11.068Z
+date: 2024-12-06T05:02:36.259Z
+updated: 2024-12-09T07:23:20.608Z
 tags:
   - product
 categories:
@@ -51,7 +51,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -67,12 +67,16 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -82,10 +86,6 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -94,29 +94,25 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,19 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-pioneering-tools-for-modern-gameplay-recording/"><u>[New] In 2024, Pioneering Tools for Modern Gameplay Recording</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-transform-clips-into-content-from-premiere-to-youtube/"><u>[Updated] 2024 Approved Transform Clips Into Content From Premiere to YouTube</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-harmony-in-frames-selecting-music-for-social-media-videos/"><u>[Updated] Harmony in Frames Selecting Music for Social Media Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-puzzle-paradise-10-amazing-e-commerce-sites-for-box-enigmas/"><u>2024 Approved Puzzle Paradise 10 Amazing E-Commerce Sites for Box Enigmas</u></a></li>
-<li><a href="https://win-top.techidaily.com/6led/"><u>如何解決手提電腦起動時出現全黑屏的問題？6個專家提�led拯救方法揭秘！</u></a></li>
-<li><a href="https://win-top.techidaily.com/bypass-the-frustration-top-6-methods-for-fixing-an-iphone-that-wont-respond/"><u>Bypass the Frustration: Top 6 Methods for Fixing an iPhone That Won’t Respond</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-oppo-a1x-5g-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Oppo A1x 5G?</u></a></li>
-<li><a href="https://win-top.techidaily.com/five-effective-solutions-for-resolving-the-endless-loop-of-windows-11-rebooting/"><u>Five Effective Solutions for Resolving the Endless Loop of Windows 11 Rebooting</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/new-horizon-in-ai-unveiling-gpt-4/"><u>New Horizon in AI: Unveiling GPT-4</u></a></li>
-<li><a href="https://win-top.techidaily.com/time-machinewindows/"><u>Time Machineに匹敵するWindowsデスクトップ向けの高度なバックアップソフトウェア</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-tipps-zur-bereinigung-von-update-dateien-in-windows-11-die-schnellsten-und-sichersten-wege-erklart/"><u>Top-Tipps Zur Bereinigung Von Update-Dateien in Windows 11 - Die Schnellsten Und Sichersten Wege Erklärt</u></a></li>
-<li><a href="https://driver-error.techidaily.com/unlocking-the-mystery-getting-your-wireless-keyboard-functional-again-on-windows/"><u>Unlocking the Mystery: Getting Your Wireless Keyboard Functional Again on Windows</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728500590321-pc/"><u>ウィンドウズPCで強力なバックアップソリューション - 自宅事業者に最適!</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-synching-youtube-songs-to-video-frameworks/"><u>[New] 2024 Approved Synching YouTube Songs to Video Frameworks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-premier-selection-of-best-indoor-android-games-no-wi-fi-required/"><u>[New] In 2024, Premier Selection of Best Indoor Android Games (No Wi-Fi Required)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unlocking-your-podcast-potential-on-ios-from-script-to-success/"><u>[Updated] Unlocking Your Podcast Potential on iOS From Script to Success</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-how-to-start-participate-in-and-organize-zoom-calls-for-android-users/"><u>2024 Approved How to Start, Participate in, and Organize Zoom Calls for Android Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/202-cups-of-coffee-in-the-morning-but-i-am-feeling-a-bit-sleepy-at-work/"><u>精選202 Cups of Coffee in the Morning, but I Am Feeling a Bit Sleepy at Work.</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728473205297-windows-11onedrive/"><u>您好，想在Windows 11系统中关闭OneDrive的云端同步？请参考本指南！</u></a></li>
+<li><a href="https://win-top.techidaily.com/comprehensive-handbook-on-resolving-mysterious-usb-malfunctions/"><u>Comprehensive Handbook on Resolving Mysterious USB Malfunctions</u></a></li>
+<li><a href="https://win-top.techidaily.com/data-rescue-wizard-myrecovers-ultimate-solution-for-lost-files-on-windows-and-iphone-systems/"><u>Data Rescue Wizard: MyRecover's Ultimate Solution for Lost Files on Windows and iPhone Systems</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-solve-your-canon-digital-cameras-sd-card-glitches-expert-advice/"><u>How to Solve Your Canon Digital Camera's SD Card Glitches: Expert Advice</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/podcasting-perfection-premium-recording-mics/"><u>Podcasting Perfection Premium Recording Mics</u></a></li>
+<li><a href="https://win-top.techidaily.com/sd-karten-datentragererklarungsprobleme-losen-einfache-losungen-und-schutzmassnahmen/"><u>SD-Karten-Datenträgererklärungsprobleme Lösen: Einfache Lösungen Und Schutzmaßnahmen</u></a></li>
+<li><a href="https://win-top.techidaily.com/speedy-transfers-how-to-send-your-windows-11-video-content-to-your-iphone/"><u>Speedy Transfers: How to Send Your Windows 11 Video Content to Your iPhone</u></a></li>
+<li><a href="https://win-top.techidaily.com/step-by-step-guide-retrieving-accidentally-erased-documents-from-an-hp-notebook/"><u>Step-by-Step Guide: Retrieving Accidentally Erased Documents From an HP Notebook</u></a></li>
+<li><a href="https://win-best.techidaily.com/streamline-your-system-a-users-guide-to-eliminating-apparitions-in-windows-11/"><u>Streamline Your System: A User's Guide to Eliminating Apparitions in Windows 11</u></a></li>
+<li><a href="https://win-top.techidaily.com/the-blood-ocular-barrier-consists-of-the-blood-aqueous-barrier-and-the-blood-retinal-barrier-which-regulate-the-exchange-of-substances-between-the-bloodstre24/"><u>The Blood-Ocular Barrier Consists of the Blood-Aqueous Barrier and the Blood-Retinal Barrier, Which Regulate the Exchange of Substances Between the Bloodstream and Ocular Tissues.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-lifespan-of-your-mailcom-email-address-when-might-it-end/"><u>Understanding the Lifespan of Your mail.com Email Address - When Might It End?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ustream-showcase-plus-similar-video-sites-for-2024/"><u>Ustream Showcase + Similar Video Sites for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728480680841-windows-11/"><u>Windows 11について学ぶ - 昔のバージョンから進化した新機能と操作法</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wsappx-explained-strategies-to-tackle-high-system-load-issues-successfully/"><u>WSAPPX Explained: Strategies to Tackle High System Load Issues Successfully</u></a></li>
 </ul></div>
 

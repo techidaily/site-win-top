@@ -1,7 +1,7 @@
 ---
 title: "Personal Brand Building on Social Platforms: The Leading 11 Trends of 2011 - Part Two Featuring Massmail Techniques"
-date: 2024-11-24T22:21:44.741Z
-updated: 2024-12-01T00:55:19.323Z
+date: 2024-12-06T20:08:01.393Z
+updated: 2024-12-08T23:33:09.789Z
 tags:
   - product
 categories:
@@ -18,9 +18,17 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -36,10 +44,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -48,15 +52,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -82,33 +86,29 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -119,7 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -149,20 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-invest-in-quality-top-5-handhoced-stabilizers-review/"><u>[New] 2024 Approved Invest in Quality Top 5 Handhoced Stabilizers Review</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-upgrade-your-facebook-experience-with-the-best-5-extensions/"><u>[Updated] 2024 Approved Upgrade Your Facebook Experience with the Best 5 Extensions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-innovative-techniques-for-superior-canva-visuals-for-2024/"><u>[Updated] Innovative Techniques for Superior Canva Visuals for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-sharpening-the-sight-on-minecraft-structures/"><u>[Updated] Sharpening the Sight on Minecraft Structures</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-find-hidden-fb-watch-video-tile/"><u>2024 Approved Find Hidden FB Watch Video Tile</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cut-the-clutter-a-guide-to-swift-winoutlook/"><u>Cut the Clutter: A Guide to Swift WinOutlook</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-drivers-for-your-hp-deskjet-3755-on-windows-11-8-and-7-platforms/"><u>Get the Newest Drivers for Your HP DeskJet 3755 on Windows 11, 8 & 7 Platforms</u></a></li>
-<li><a href="https://win-top.techidaily.com/hamburgs-premier-seo-experts-for-enhanced-online-visibility-select-the-finest-agencies-with-seo-powersuite-ratings/"><u>Hamburg's Premier SEO Experts for Enhanced Online Visibility: Select the Finest Agencies with SEO PowerSuite Ratings</u></a></li>
-<li><a href="https://program-issues.techidaily.com/resolved-issues-with-sifu-games-frame-rate-and-smoothness-on-pc-systems/"><u>Resolved: Issues with Sifu Game's Frame Rate and Smoothness on PC Systems</u></a></li>
-<li><a href="https://win-top.techidaily.com/tech-guide-copying-a-bitlocker-protected-hard-drive-without-unlocking/"><u>Tech Guide: Copying a BitLocker-Protected Hard Drive Without Unlocking</u></a></li>
-<li><a href="https://win-top.techidaily.com/two-cost-free-methods-for-synchronizing-folders-on-your-mac/"><u>Two Cost-Free Methods for Synchronizing Folders on Your Mac</u></a></li>
-<li><a href="https://win-top.techidaily.com/understanding-co-citations-comprehensive-guide-and-seo-optimization-techniques/"><u>Understanding Co-Citations: Comprehensive Guide & SEO Optimization Techniques</u></a></li>
-<li><a href="https://win-top.techidaily.com/understanding-external-links-comprehensive-guide-with-top-seo-strategies/"><u>Understanding External Links: Comprehensive Guide with Top SEO Strategies</u></a></li>
-<li><a href="https://win-top.techidaily.com/unlock-the-secrets-of-festive-promotions-holiday-and-event-marketing-strategies-for-2012-with-essential-tips-from-massmail/"><u>Unlock the Secrets of Festive Promotions: Holiday & Event Marketing Strategies for 2012 with Essential Tips From Massmail</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-3-seo-instrumenta-dlya-novichkov-v-2024-godu-uskorenie-razvitiya-vashego-veb-proekta/"><u>Топ-3 SEO-Инструмента Для Новичков В 2024 Году: Ускорение Развития Вашего Веб-Проекта</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-step-by-step-guide-to-wirecast-facebook-livestreams/"><u>[New] In 2024, Step-by-Step Guide to Wirecast Facebook Livestreams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-building-a-cohesive-setup-synergizing-obs-with-zoom-services/"><u>[Updated] 2024 Approved Building a Cohesive Setup Synergizing OBS with Zoom Services</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-master-your-first-steps-in-using-tiktok-macpc-edition/"><u>[Updated] 2024 Approved Master Your First Steps in Using TikTok Mac/PC Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-quick-start-to-engaging-in-face-to-face-conversations-on-snapchat/"><u>2024 Approved Quick Start to Engaging in Face-to-Face Conversations on Snapchat</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/oading-the-latest-hits-top-youtube-playlist-savers-for-pc-for-2024/"><u>Downloading the Latest Hits Top YouTube Playlist Savers for PC for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-samsung-qn55q6f-premium-4k-hdr-smart-television-unveiled/"><u>Expert Analysis of the Samsung QN55Q6F - Premium 4K HDR Smart Television Unveiled</u></a></li>
+<li><a href="https://win-top.techidaily.com/explore-the-power-of-hoe-rsync-in-windows-11-comprehensive-learning-material-and-effective-workarounds-for-te-gebruiken/"><u>Explore the Power of Hoe Rsync in Windows 11 | Comprehensive Learning Material & Effective Workarounds for Te Gebruiken</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/google-unveils-its-ai-warrior-bard-aiming-to-challenge-chatgpt/"><u>Google Unveils Its AI Warrior 'Bard,' Aiming to Challenge ChatGPT</u></a></li>
+<li><a href="https://win-top.techidaily.com/improving-hyper-v-vm-performance-essential-tips-and-tricks/"><u>Improving Hyper-V VM Performance: Essential Tips & Tricks</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/modify-origin-settings-within-the-property-values-window/"><u>Modify Origin Settings Within the Property Values Window</u></a></li>
+<li><a href="https://win-top.techidaily.com/page-unavailable-encountering-the-error-404-moment/"><u>Page Unavailable – Encountering the Error 404 Moment</u></a></li>
+<li><a href="https://win-top.techidaily.com/solving-the-puzzle-of-windows-update-error-80240020-expert-fixes-and-guidelines/"><u>Solving the Puzzle of Windows Update Error 80240020: Expert Fixes & Guidelines</u></a></li>
+<li><a href="https://win-top.techidaily.com/step-by-step-guide-retrieving-accidentally-deleted-documents-on-any-version-of-windows/"><u>Step-by-Step Guide: Retrieving Accidentally Deleted Documents on Any Version of Windows</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-free-disk-imaging-programs-for-seagate-drives-on-windows-xp-vista-included/"><u>Top Free Disk Imaging Programs For Seagate Drives on Windows (XP, Vista Included)</u></a></li>
+<li><a href="https://win-top.techidaily.com/trasferisci-i-tuoi-file-con-eleganza-sul-pc-windows-11-guida-passo-passo/"><u>Trasferisci I Tuoi File Con Eleganza Sul PC Windows 11 - Guida Passo-Passo</u></a></li>
+<li><a href="https://win-top.techidaily.com/understanding-icloud-backup-duration-what-factors-influence-the-time-required/"><u>Understanding iCloud Backup Duration: What Factors Influence the Time Required?</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-arp-cache-unrave-written-steps-and-strategies-126-chars-exceeds-limit-adjusted-to-fit-better-steps-for-clearing-windows-arp/"><u>Windows ARP Cache Unrave Written: Steps & Strategies (126 Chars, Exceeds Limit, Adjusted to Fit Better: Steps for Clearing Windows ARP</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cómo Restaurar Una Copia De Seguridad en Windows Server: Un Tutorial Detallado"
-date: 2024-11-23T16:10:10.414Z
-updated: 2024-12-01T04:52:33.652Z
+date: 2024-12-06T02:17:49.918Z
+updated: 2024-12-08T17:43:43.763Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/ca106d3a1759df91ff994491e604d7b2503de3936ded446ac4b42dea9ea4d4d9.jpg
@@ -18,23 +18,19 @@ thumbnail: https://thmb.techidaily.com/ca106d3a1759df91ff994491e604d7b2503de3936
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -42,10 +38,6 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -56,10 +48,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -77,12 +65,16 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
@@ -110,7 +102,7 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
@@ -130,7 +122,11 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -181,6 +177,10 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -198,18 +198,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-express-yourself-incorporating-emojis-into-yt-feedback-for-2024/"><u>[Updated] Express Yourself Incorporating Emojis Into YT Feedback for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-insta-wonders-top-9-habits-of-influencers-and-stars-for-2024/"><u>[Updated] Insta Wonders Top 9 Habits of Influencers and Stars for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/boost-your-pc-writings/"><u>Boost Your PC' Writings=</u></a></li>
-<li><a href="https://win-top.techidaily.com/exploring-vmware-recovery-solutions-top-evaluations-and-aligning-strategies-with-eoas/"><u>Exploring VMware Recovery Solutions – Top Evaluations & Aligning Strategies with EOAs</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-nova-y91-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Huawei Nova Y91 Phone without Any Data Loss</u></a></li>
-<li><a href="https://fox-links.techidaily.com/perfect-your-pcs-sound-with-these-5-windows-11-recording-tips-for-2024/"><u>Perfect Your PC's Sound with These 5 Windows 11 Recording Tips for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/screen-capture-savvy-top-four-techniques-for-recording-games-for-2024/"><u>Screen Capture Savvy Top Four Techniques for Recording Games for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-to-samsung-galaxy-f54-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Samsung Galaxy F54 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-14-plus-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 14 Plus from iCloud</u></a></li>
-<li><a href="https://win-top.techidaily.com/troubleshooting-guide-fixing-playback-unable-hulu-error-code-p-dev320-for-a-smooth-streaming-experience-on-roku-tvs/"><u>Troubleshooting Guide: Fixing 'Playback Unable' Hulu Error Code P-DEV320 for a Smooth Streaming Experience on Roku TVs</u></a></li>
-<li><a href="https://win-top.techidaily.com/unveiling-the-power-of-sms-advertising-with-massmails-easy-to-use-platform-why-you-cant-miss-it/"><u>Unveiling The Power Of SMS Advertising with MassMail's Easy-to-Use Platform: Why You Can't Miss It!</u></a></li>
-<li><a href="https://win-top.techidaily.com/lidery-rynka-luchshie-specializirovannye-kompanii-po-seo-advokatu-v-dohe-katar-powersuite/"><u>Лидеры Рынка - Лучшие Специализированные Компании По SEO-Адвокату В Дохе, Катар | PowerSuite</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-10-seo-konsaltingovyh-firm-v-stambule-obzor-i-rekomendacii/"><u>Топ-10 SEO Консалтинговых Фирм В Стамбуле : Обзор И Рекомендации</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-from-barely-there-to-top-rated-the-youtube-growth-arc/"><u>[New] 2024 Approved From Barely There to Top Rated The Youtube Growth Arc</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-pinnacle-audio-dramatic-works/"><u>2024 Approved Pinnacle Audio-Dramatic Works</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-audiophile-experience-an-insightful-look-into-series-3-paww/"><u>Affordable Audiophile Experience: An Insightful Look Into Series 3 (Paww)</u></a></li>
+<li><a href="https://win-top.techidaily.com/avoiding-forex-trading-blunders-top-13-key-missteps-for-traders-using-metatrader-4-systems/"><u>Avoiding Forex Trading Blunders: Top 13 Key Missteps for Traders Using MetaTrader 4 Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/fixing-no-more-room-alert-comprehensive-guide-to-overcoming-esxi-error/"><u>Fixing 'No More Room' Alert: Comprehensive Guide to Overcoming ESXi Error</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-brainstorm-to-broadcast-chatgpts-script-guidebook/"><u>From Brainstorm to Broadcast: ChatGPT's Script Guidebook</u></a></li>
+<li><a href="https://win-top.techidaily.com/get-ready-for-the-affiliate-expo-2020-discover-how-massmail-software-can-boost-your-profits/"><u>Get Ready for the Affiliate EXPO 2020: Discover How Massmail Software Can Boost Your Profits!</u></a></li>
+<li><a href="https://win-top.techidaily.com/guida-completa-al-problema-della-non-sincronizzazione-di-goodnotes-con-mac-scopri-le-soluzioni-efficaci-in-3-passaggi/"><u>Guida Completa Al Problema Della Non-Sincronizzazione Di GoodNotes Con Mac: Scopri Le Soluzioni Efficaci in 3 Passaggi!</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-do-supportresistance-levels-work-on-the-mt4-platform-for-copiers/"><u>How Do Support/Resistance Levels Work on the MT4 Platform for Copiers?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-motorola-moto-g84-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Motorola Moto G84 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-changefake-your-vivo-v30-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Vivo V30 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-iphone-11-pro-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From iPhone 11 Pro? How to Fix it?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 11 Pro Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-currency-exchange-strategies-for-creating-a-varied-forex-portfolio-with-metatrader-4-copier/"><u>Mastering Currency Exchange: Strategies for Creating a Varied Forex Portfolio with MetaTrader 4 Copier</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-the-art-of-adult-entertainment-marketing-with-massmail-from-product-promotion-to-comprehensive-strategies/"><u>Mastering the Art of Adult Entertainment Marketing with Massmail: From Product Promotion to Comprehensive Strategies</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/movavimp3-swfmp3/"><u>MovaviのフリーオンラインMP3変換ツール - SWFから直接MP3に!</u></a></li>
+<li><a href="https://win-top.techidaily.com/maksimizaciya-reklamnogo-vliyaniya-sovremennye-varianty-brightedge-v-ramkah-efficient-seo-strategies-and-seo-power-suite/"><u>Максимизация Рекламного Влияния: Современные Варианты BrightEdge В Рамках Efficient SEO Strategies & SEO Power Suite</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-3-seo-instrumenta-dlya-novichkov-v-2024-godu-uskorenie-razvitiya-vashego-veb-proekta/"><u>Топ-3 SEO-Инструмента Для Новичков В 2024 Году: Ускорение Развития Вашего Веб-Проекта</u></a></li>
 </ul></div>
 
