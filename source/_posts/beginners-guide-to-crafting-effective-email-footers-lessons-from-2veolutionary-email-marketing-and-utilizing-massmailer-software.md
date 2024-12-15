@@ -1,7 +1,7 @@
 ---
 title: Beginner's Guide to Crafting Effective Email Footers - Lessons From 2Veolutionary Email Marketing and Utilizing MassMailer Software
-date: 2024-12-05T18:34:00.078Z
-updated: 2024-12-09T09:46:27.744Z
+date: 2024-12-10T00:17:01.278Z
+updated: 2024-12-14T17:38:50.753Z
 tags:
   - product
 categories:
@@ -21,10 +21,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -48,10 +44,6 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -59,7 +51,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -75,12 +67,16 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -90,6 +86,10 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
@@ -97,10 +97,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -119,7 +115,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,16 +149,16 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-thunder-gods-fury-new-age-begins-for-2024/"><u>[New] Thunder God's Fury New Age Begins for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-high-quality-streaming-top-5-recorder-devices-reviewed/"><u>[Updated] In 2024, High-Quality Streaming Top 5 Recorder Devices Reviewed</u></a></li>
-<li><a href="https://win-top.techidaily.com/54sh5ykz5lu95lil5b6p5y6f5rc45lmf5yiq6zmk5pah5lu255qe6ksh6zuc5pa55rov/"><u>無備份下復原永久刪除文件的複雜方法</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728473291038-aomei-backupper/"><u>AOMEI Backupper製品概要と関連用語解説</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-x-lock-screen-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone X Lock Screen</u></a></li>
-<li><a href="https://win-lab.techidaily.com/schritt-fur-schritt-anleitung-zum-ubertragen-ihres-windows-ebenso-wie-von-hdd-auf-solid-state-drive-ssd/"><u>Schritt-Für-Schritt Anleitung Zum Übertragen Ihres Windows Ebenso Wie Von HDD Auf Solid State Drive (SSD)</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-art-of-pairing-b-clips-with-main-shots/"><u>The Art of Pairing B-Clips with Main Shots</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-3-solutions-resolving-issues-when-windows-11-fails-to-start-in-safe-mode/"><u>Top 3 Solutions: Resolving Issues When Windows 11 Fails to Start in Safe Mode</u></a></li>
-<li><a href="https://win-top.techidaily.com/unable-to-access-the-requested-webpage-missing-information-detected/"><u>Unable To Access The Requested Webpage – Missing Information Detected</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unleashing-the-power-of-gpt-4-democratizing-ai-for-all/"><u>Unleashing the Power of GPT-4: Democratizing AI for All</u></a></li>
-<li><a href="https://win-top.techidaily.com/vier-effektive-strategien-wenn-der-sicherungsvorgang-den-generator-verpasst-hat/"><u>Vier Effektive Strategien, Wenn Der Sicherungsvorgang Den Generator Verpasst Hat</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-the-elite-5-digital-title-specialists/"><u>[Updated] Exploring the Elite 5 Digital Title Specialists</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-navigating-the-world-of-fb-instream-ads-a-comprehensive-setup-manual/"><u>2024 Approved Navigating the World of FB Instream Ads A Comprehensive Setup Manual</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/achieve-mastery-in-ai-conversational-design-through-these-5-premier-online-courses/"><u>Achieve Mastery in AI Conversational Design Through These 5 Premier Online Courses</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/diagnosing-the-mystery-understanding-speaker-pop-noises-insights-by-yl-computing/"><u>Diagnosing the Mystery: Understanding Speaker Pop Noises - Insights by YL Computing</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-beginner-to-fluent-mondlys-transformational-techniques-top-10/"><u>From Beginner to Fluent: Mondly's Transformational Techniques, Top 10</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a18-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/migraje-atenuado-de-windows-tin-a-un-disco-duro-o-ssd-fresco-evitando-reinstalacion/"><u>Migraje Atenuado De Windows ˈTiːn a Un Disco Duro O SSD Fresco, Evitando Reinstalación</u></a></li>
+<li><a href="https://win-top.techidaily.com/no-wi-fi-no-problem-expert-strategies-for-offline-setup-of-windows-server-2019-installs/"><u>No Wi-Fi? No Problem! Expert Strategies for Offline Setup of Windows Server 2019 Installs</u></a></li>
+<li><a href="https://win-top.techidaily.com/understanding-in-url-seo-a-complete-guide-with-seo-powersuite/"><u>Understanding In-URL SEO: A Complete Guide with SEO PowerSuite</u></a></li>
+<li><a href="https://win-top.techidaily.com/understanding-orphan-pages-comprehensive-guide-and-strategic-seo-advice-with-seo-mastery-suite/"><u>Understanding Orphan Pages: Comprehensive Guide & Strategic SEO Advice with SEO Mastery Suite</u></a></li>
+<li><a href="https://win-top.techidaily.com/understanding-vertical-search-a-comprehensive-guide-and-essential-seo-strategies-with-seo-powersuite/"><u>Understanding Vertical Search: A Comprehensive Guide & Essential SEO Strategies with SEO PowerSuite</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Evolution of Mobile & SMS Advertising in the Last Decade: A Comprehensive Guide to Campaign Strategies and Best Practices (Updated )"
-date: 2024-12-06T05:02:36.259Z
-updated: 2024-12-09T07:23:20.608Z
+date: 2024-12-09T04:18:26.883Z
+updated: 2024-12-15T00:19:53.601Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -31,6 +35,10 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -51,7 +59,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -66,17 +74,9 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -94,25 +94,29 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 8\. Partner
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-synching-youtube-songs-to-video-frameworks/"><u>[New] 2024 Approved Synching YouTube Songs to Video Frameworks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-premier-selection-of-best-indoor-android-games-no-wi-fi-required/"><u>[New] In 2024, Premier Selection of Best Indoor Android Games (No Wi-Fi Required)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unlocking-your-podcast-potential-on-ios-from-script-to-success/"><u>[Updated] Unlocking Your Podcast Potential on iOS From Script to Success</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-how-to-start-participate-in-and-organize-zoom-calls-for-android-users/"><u>2024 Approved How to Start, Participate in, and Organize Zoom Calls for Android Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/202-cups-of-coffee-in-the-morning-but-i-am-feeling-a-bit-sleepy-at-work/"><u>精選202 Cups of Coffee in the Morning, but I Am Feeling a Bit Sleepy at Work.</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728473205297-windows-11onedrive/"><u>您好，想在Windows 11系统中关闭OneDrive的云端同步？请参考本指南！</u></a></li>
-<li><a href="https://win-top.techidaily.com/comprehensive-handbook-on-resolving-mysterious-usb-malfunctions/"><u>Comprehensive Handbook on Resolving Mysterious USB Malfunctions</u></a></li>
-<li><a href="https://win-top.techidaily.com/data-rescue-wizard-myrecovers-ultimate-solution-for-lost-files-on-windows-and-iphone-systems/"><u>Data Rescue Wizard: MyRecover's Ultimate Solution for Lost Files on Windows and iPhone Systems</u></a></li>
-<li><a href="https://win-top.techidaily.com/how-to-solve-your-canon-digital-cameras-sd-card-glitches-expert-advice/"><u>How to Solve Your Canon Digital Camera's SD Card Glitches: Expert Advice</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/podcasting-perfection-premium-recording-mics/"><u>Podcasting Perfection Premium Recording Mics</u></a></li>
-<li><a href="https://win-top.techidaily.com/sd-karten-datentragererklarungsprobleme-losen-einfache-losungen-und-schutzmassnahmen/"><u>SD-Karten-Datenträgererklärungsprobleme Lösen: Einfache Lösungen Und Schutzmaßnahmen</u></a></li>
-<li><a href="https://win-top.techidaily.com/speedy-transfers-how-to-send-your-windows-11-video-content-to-your-iphone/"><u>Speedy Transfers: How to Send Your Windows 11 Video Content to Your iPhone</u></a></li>
-<li><a href="https://win-top.techidaily.com/step-by-step-guide-retrieving-accidentally-erased-documents-from-an-hp-notebook/"><u>Step-by-Step Guide: Retrieving Accidentally Erased Documents From an HP Notebook</u></a></li>
-<li><a href="https://win-best.techidaily.com/streamline-your-system-a-users-guide-to-eliminating-apparitions-in-windows-11/"><u>Streamline Your System: A User's Guide to Eliminating Apparitions in Windows 11</u></a></li>
-<li><a href="https://win-top.techidaily.com/the-blood-ocular-barrier-consists-of-the-blood-aqueous-barrier-and-the-blood-retinal-barrier-which-regulate-the-exchange-of-substances-between-the-bloodstre24/"><u>The Blood-Ocular Barrier Consists of the Blood-Aqueous Barrier and the Blood-Retinal Barrier, Which Regulate the Exchange of Substances Between the Bloodstream and Ocular Tissues.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-lifespan-of-your-mailcom-email-address-when-might-it-end/"><u>Understanding the Lifespan of Your mail.com Email Address - When Might It End?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ustream-showcase-plus-similar-video-sites-for-2024/"><u>Ustream Showcase + Similar Video Sites for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728480680841-windows-11/"><u>Windows 11について学ぶ - 昔のバージョンから進化した新機能と操作法</u></a></li>
-<li><a href="https://win-blog.techidaily.com/wsappx-explained-strategies-to-tackle-high-system-load-issues-successfully/"><u>WSAPPX Explained: Strategies to Tackle High System Load Issues Successfully</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-making-your-slides-come-alive-with-youtube-in-ppt/"><u>[Updated] Making Your Slides Come Alive with YouTube in PPT</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/verified-quick-and-easy-platinum-edition-winx-dvd-ripping-software-for-hd-mp4-conversion-h264-within-5-mins/"><u>[VERIFIED] Quick & Easy: Platinum Edition WinX DVD Ripping Software for HD MP4 Conversion (H.264) Within 5 Mins!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-journey-through-time-a-comprehensive-guide-on-scanning-and-storing-old-prints/"><u>2024 Approved Journey Through Time A Comprehensive Guide on Scanning and Storing Old Prints</u></a></li>
+<li><a href="https://win-top.techidaily.com/pc-iphone-ipad-ipod/"><u>專為 PC, iPhone, iPad 以及 iPod 設計的免费个人数据备份与恢复软件 - 百度</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-advice-repairing-and-preventing-windows-error-0x80n04cf-network-failures/"><u>Expert Advice: Repairing and Preventing Windows Error 0X80n04CF Network Failures</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-fix-windows-11-not-responding-from-sleep-mode-a-step-by-step-guide/"><u>How To Fix Windows 11 Not Responding From Sleep Mode: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-set-up-a-download-link-for-your-e-book-on-flipbuilder-a-comprehensive-guide/"><u>How to Set Up a Download Link for Your E-Book on FlipBuilder: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-swiftly-detect-and-exclude-your-address-from-spam-filters-using-massmail-techniques/"><u>How to Swiftly Detect & Exclude Your Address From Spam Filters Using Massmail Techniques</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/installation-guide-epson-xp-410-printer-drivers-on-windows-step-by-step/"><u>Installation Guide: Epson XP-410 Printer Drivers on Windows - Step by Step</u></a></li>
+<li><a href="https://win-top.techidaily.com/preventing-email-blacklists-essential-tips-using-massmailer/"><u>Preventing Email Blacklists: Essential Tips Using MassMailer</u></a></li>
+<li><a href="https://win-top.techidaily.com/recovering-lost-video-files-from-a-microsd-card-a-step-by-step-guide/"><u>Recovering Lost Video Files From a MicroSD Card – A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook.techidaily.com/rethinking-conversation-facebook-introduces-sonic-updates/"><u>Rethinking Conversation: Facebook Introduces Sonic Updates</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-organizing-a-memorable-karaoke-party-at-home/"><u>The Ultimate Guide to Organizing a Memorable Karaoke Party at Home</u></a></li>
+<li><a href="https://win-top.techidaily.com/understanding-redirects-comprehensive-guide-with-essential-seo-strategies-boost-your-sites-ranking/"><u>Understanding Redirects: Comprehensive Guide with Essential SEO Strategies | Boost Your Site's Ranking</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-noise-reduction-mastery-tips-and-tricks-for-final-cut-pro-x-users-for-2024/"><u>Updated Noise Reduction Mastery Tips and Tricks for Final Cut Pro X Users for 2024</u></a></li>
 </ul></div>
 

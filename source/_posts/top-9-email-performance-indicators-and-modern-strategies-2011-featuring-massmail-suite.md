@@ -1,7 +1,7 @@
 ---
 title: Top 9 Email Performance Indicators & Modern Strategies (2011) Featuring MassMail Suite
-date: 2024-12-06T21:10:28.196Z
-updated: 2024-12-09T09:02:54.467Z
+date: 2024-12-07T22:47:04.329Z
+updated: 2024-12-15T03:41:22.471Z
 tags:
   - product
 categories:
@@ -45,7 +45,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -55,7 +55,7 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
@@ -70,21 +70,29 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -97,10 +105,6 @@ When promoting your vanity short code, always provide the short code’s digits 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
@@ -115,7 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-boost-your-videos-impact-with-top-ranking-software-solutions/"><u>[New] In 2024, Boost Your Videos' Impact with Top-Ranking Software Solutions</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-iphones-finest-leading-cost-free-photo-layout-apps-ranked/"><u>[New] IPhone's Finest Leading Cost-Free Photo Layout Apps Ranked</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-protecting-beats-on-instagram/"><u>[Updated] Protecting Beats on Instagram</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-youtube-conversion-made-simple-learn-how-without-spending-a-dime/"><u>[Updated] YouTube Conversion Made Simple – Learn How Without Spending a Dime</u></a></li>
-<li><a href="https://win-top.techidaily.com/boost-your-forex-earnings-smart-strategies-for-successful-metaltrader-4-copying/"><u>Boost Your Forex Earnings: Smart Strategies for Successful Metaltrader 4 Copying.</u></a></li>
-<li><a href="https://win-top.techidaily.com/forex-mastery-with-algorithmic-trading-elevate-profits-using-mt4-copier/"><u>Forex Mastery with Algorithmic Trading: Elevate Profits Using MT4 Copier</u></a></li>
-<li><a href="https://win-top.techidaily.com/how-to-prepare-bootable-dell-windows/"><u>How to Prepare Bootable Dell Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-asus-rog-phone-7-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Asus ROG Phone 7 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-cutting-edge-filmmaking-kinemasters-seamless-segments/"><u>In 2024, Cutting-Edge Filmmaking Kinemaster's Seamless Segments</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-15-pro-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 15 Pro to iPhone 8/X/11 | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-mastering-live-streaming-for-peak-engagement/"><u>In 2024, Mastering Live Streaming for Peak Engagement</u></a></li>
-<li><a href="https://win-top.techidaily.com/leading-seo-service-providers-in-the-us-capital-region-with-a-spotlight-on-seo-powersuite-excellence/"><u>Leading SEO Service Providers in the US Capital Region with a Spotlight on SEO PowerSuite Excellence</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-the-psychology-behind-successful-long-term-forex-trading-with-steady-patience-and-strong-discipline/"><u>Mastering the Psychology Behind Successful Long-Term Forex Trading with Steady Patience and Strong Discipline</u></a></li>
-<li><a href="https://win-top.techidaily.com/optimize-your-site-the-comprehensive-guide-to-seo-driven-data-processing-tools/"><u>Optimize Your Site: The Comprehensive Guide to SEO-Driven Data Processing Tools</u></a></li>
-<li><a href="https://win-top.techidaily.com/safe-and-savvy-craigslist-strategies-in-2009-securing-your-transactions-with-massmail-tools/"><u>Safe and Savvy Craigslist Strategies in 2009: Securing Your Transactions with MassMail Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/techniques-for-more-watches-on-your-insta-vids/"><u>Techniques for More Watches on Your Insta Vids</u></a></li>
-<li><a href="https://win-top.techidaily.com/luchshie-agentstva-po-optimizacii-dlya-poiskovyh-sistem-seo-v-belfaste-angliya-ischerpyvayushij-obzor-ot-komandy-powersuite/"><u>Лучшие Агентства По Оптимизации Для Поисковых Систем (SEO) В Белфасте, Англия: Исчерпывающий Обзор От Команды PowerSuite</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728472639153-windows-10/"><u>啟動或關閉Windows 10中的隱身模式:精準使用技巧解析</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726222007957-movavi/"><u>小さくしたり、圧縮する！「Movavi」を用いたメール添付動画の改善テクニック</u></a></li>
+<li><a href="https://win-top.techidaily.com/come-ripristinare-il-tuo-computer-windows-passaggio-alla-modalita-provvisoria/"><u>Come Ripristinare Il Tuo Computer Windows: Passaggio Alla Modalità Provvisoria</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722964925488-elan-smbus-driver-the-ultimate-download-and-update-solution-for-your-windows-device/"><u>ELAN SMBus Driver - The Ultimate Download & Update Solution for Your Windows Device</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-14-plus-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 14 Plus to Computer? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-iphone-se-2020-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On iPhone SE (2020)? 5 Tips You Must Know</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/resolving-the-data-recovery-cycle-on-your-iphone-a-step-by-step-guide/"><u>Resolving the 'Data Recovery' Cycle on Your iPhone: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-top.techidaily.com/restoring-specific-notes-from-your-iphone-backup-made-easy/"><u>Restoring Specific Notes From Your iPhone Backup Made Easy</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/revel-in-the-rush-free-zone-unveiling-three-ways-to-slowdown-youtube-streams-62-chars-slightly-over-but-justified-with-context/"><u>Revel in the Rush-Free Zone Unveiling Three Ways to Slowdown YouTube Streams (62 Chars, Slightly over but Justified with Context)</u></a></li>
+<li><a href="https://win-top.techidaily.com/soluciones-efectivas-para-restaurar-el-almacen-interno-de-tu-iphone-que-no-aparece-o-esta-vacio/"><u>Soluciones Efectivas Para Restaurar El Almacén Interno De Tu iPhone Que No Aparece O Está Vacío</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-essential-auditory-enhancers-eliminating-ambient-sounds-effectively/"><u>Updated In 2024, Essential Auditory Enhancers Eliminating Ambient Sounds Effectively</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-itel-a05s-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Itel A05s Device</u></a></li>
+<li><a href="https://win-top.techidaily.com/zugriffsprobleme-auf-das-angegebene-gerat-oder-pfad-losungswege/"><u>Zugriffsprobleme Auf Das Angegebene Gerät Oder Pfad - Lösungswege</u></a></li>
 </ul></div>
 

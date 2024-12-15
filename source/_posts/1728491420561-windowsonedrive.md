@@ -1,7 +1,7 @@
 ---
 title: Windows上でOneDrive同期設定 - 自動アップデートガイド
-date: 2024-12-05T00:08:20.540Z
-updated: 2024-12-09T09:35:36.111Z
+date: 2024-12-09T04:02:51.510Z
+updated: 2024-12-14T22:35:20.611Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e93a7a87ff86f1d0befba824a.jpg
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
@@ -54,6 +58,10 @@ Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist e
 
 Aber wenn der [Papierkorb als leer angezeigt wird](https://tools.techidaily.com/ubackup/products/), es aber nicht ist, was können Sie tun, um dies zu beheben? Lesen Sie bitte weiter, um die entsprechenden Methoden zu erhalten.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Teil 1\. Wie kann man den Papierkorb vom Desktop entfernen unter Windows 10?
 
 Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass keine wichtigen Dateien darin enthalten sind. Hier sind die Schritte, um das Papierkorbsymbol vom Desktop zu entfernen:
@@ -63,28 +71,24 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 [![Windows-Einstellungen Personalisierung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/windows-settings-personalization.png "Windows-Einstellungen Personalisierung")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Schritt 2**. Klicken Sie auf die Schaltfläche „**Designs**“.
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -94,16 +98,16 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 
 [![Als Administrator ausführen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/run-as-administrator.png "Als Administrator ausführen")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Geben Sie „**rd /s /q C:\\Papierkorb**“ in das Eingabeaufforderungsfenster ein und drücken Sie „**Enter**“, um den Vorgang zu starten. Wenn erforderlich, ersetzen Sie das Laufwerk C durch Ihren gewünschten Laufwerksbuchstaben.
 
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
@@ -129,10 +133,6 @@ Sicherer Download
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Schritt 3**. Gehen Sie zum Papierkorb, um die gewünschten Dateien zu lokalisieren. Klicken Sie dann auf „**x Dateien wiederherstellen**“, um die ausgewählten Dateien wiederherzustellen. Speichern Sie diese wiederhergestellten Dateien bitte an einem neuen Ort.
 
@@ -165,13 +165,13 @@ Sicherer Download
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
 
@@ -184,6 +184,10 @@ Wenn Ihr Papierkorb leer angezeigt wird, dies aber nicht der Fall ist, können S
 Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zweiten Teil empfohlene erweiterte Eingabeaufforderung verwenden.
 
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
 
@@ -210,10 +214,6 @@ Waren die angebotenen Informationen nützlich? Ihre Stimme ist wichtig für uns!
 [Holiday](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Holiday ist seit dem 1\. Juni 2020 bei AOMEI und beschäftigt sich mit Sichern & Wiederherstellen, Festplatten- und Partitionsverwaltung usw. für AOMEI. Ob Arbeit, Studien oder Leben, sie versucht gerne, neue Dinge zu lernen und denkt, dass Überraschungen auf sie warten, egal wann und wo.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Folgende Artikel könnten Sie auch interessieren
 
@@ -248,7 +248,7 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
@@ -268,19 +268,20 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-video-annotations-mastery-cutting-with-precision-and-style/"><u>[New] 2024 Approved Video Annotations Mastery Cutting with Precision & Style</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-crafting-a-resume-that-shines-in-design-industry-for-2024/"><u>[New] Crafting a Resume that Shines in Design Industry for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-ranking-the-finest-five-screen-snipers-in-windows/"><u>[Updated] 2024 Approved Ranking the Finest Five Screen Snipers in Windows</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-pro-3-cam-exploration-a-deep-dive-into-ions-latest-offer/"><u>2024 Approved Pro 3 Cam Exploration A Deep Dive Into ION's Latest Offer</u></a></li>
-<li><a href="https://win-top.techidaily.com/data-rescue-tactics-discover-four-methods-to-recover-information-from-your-hard-disk-pre-formatting/"><u>Data Rescue Tactics: Discover Four Methods to Recover Information From Your Hard Disk Pre-Formatting</u></a></li>
-<li><a href="https://win-top.techidaily.com/easy-steps-to-successfully-play-wav-audio-on-your-iphone-device/"><u>Easy Steps to Successfully Play WAV Audio on Your iPhone Device</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-8-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 8 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-securing-snapchat-footage-essential-mobile-tips/"><u>In 2024, Securing Snapchat Footage Essential Mobile Tips</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-the-straightforward-approach-to-editing-age-on-tiktok/"><u>In 2024, The Straightforward Approach to Editing Age on TikTok</u></a></li>
-<li><a href="https://win-top.techidaily.com/troubleshooting-inactive-autoresponder-settings-in-office-365-discover-these-5-effective-methods/"><u>Troubleshooting Inactive Autoresponder Settings in Office 365 - Discover These 5 Effective Methods</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ultimate-compilation-exceptional-8k-cameras-ranked/"><u>Ultimate Compilation Exceptional 8K Cameras Ranked</u></a></li>
-<li><a href="https://win-top.techidaily.com/wie-man-einen-hotspot-clone-erfolgreich-implementiert-physische-maschine-vs-vmware-plattform/"><u>Wie Man Einen Hotspot-Clone Erfolgreich Implementiert: Physische Maschine Vs. VMware Plattform</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728487059342-win11/"><u>Win11でゴミ箱に捨てたファイルの回復方法【詳しく解説】</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728461304217-windows-11/"><u>Windows 11アップデート後のパソコンリセット手順ガイド</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-photo-perfection-top-6-iphone-utilities-to-exclude-unwanted-elements/"><u>[New] 2024 Approved Photo Perfection Top 6 iPhone Utilities to Exclude Unwanted Elements</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-the-smart-shoppers-guide-to-cloud-services-cost-for-2024/"><u>[New] The Smart Shopper's Guide to Cloud Services Cost for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/nveiling-the-mysteries-of-digital-media-ownership-on-youtube-for-2024/"><u>[New] Unveiling the Mysteries of Digital Media Ownership on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-broadview-networks-navigating-mcn-choices/"><u>[Updated] Broadview Networks Navigating MCN Choices</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-a-novices-vision-on-vectors-categories-explored-and-apps/"><u>[Updated] In 2024, A Novice's Vision on Vectors Categories Explored and Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-future-at-your-fingertips-testing-the-latest-in-virtual-reality-by-lg/"><u>[Updated] The Future at Your Fingertips Testing the Latest in Virtual Reality by LG</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-metaverse-laughter-for-2024/"><u>[Updated] The Ultimate Guide to Metaverse Laughter for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/error-404-pages-that-are-no-longer-available/"><u>Error 404: Pages That Are No Longer Available</u></a></li>
+<li><a href="https://win-top.techidaily.com/guide-dinstallation-des-pilotes-pour-un-ssd-nvme-non-reconnu-sous-windows-11/"><u>Guide D'Installation Des Pilotes Pour Un SSD NVMe Non Reconnu Sous Windows 11</u></a></li>
+<li><a href="https://win-top.techidaily.com/maximizing-search-engine-rankings-leverage-link-popularity-insights-with-seo-powersuite-strategies/"><u>Maximizing Search Engine Rankings: Leverage Link Popularity Insights with SEO PowerSuite Strategies</u></a></li>
+<li><a href="https://win-top.techidaily.com/protecting-privacy-with-confidence-master-the-cmd-trick-for-complete-hard-drive-wipe-on-modern-windows-systems/"><u>Protecting Privacy with Confidence: Master the CMD Trick for Complete Hard Drive Wipe on Modern Windows Systems</u></a></li>
+<li><a href="https://win-top.techidaily.com/understanding-public-interpretations-of-email-spam-and-their-rationale-a-deep-dive-with-massmail-expertise/"><u>Understanding Public Interpretations of Email Spam & Their Rationale: A Deep Dive with Massmail Expertise</u></a></li>
+<li><a href="https://win-top.techidaily.com/unlocking-the-secrets-of-punycode-for-enhanced-seo-performance-detailed-insights-and-strategies/"><u>Unlocking the Secrets of Punycode for Enhanced SEO Performance - Detailed Insights & Strategies</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/yl-software-essentials-mastering-the-configuration-of-system-protection-parameters/"><u>YL Software Essentials: Mastering the Configuration of System Protection Parameters</u></a></li>
+<li><a href="https://win-top.techidaily.com/vybiraem-vyhod-k-pervoj-vitrine-interneta-s-kopengagenskimi-agentstvami-seo-vozvyshenie-brenda-cherez-powersuite/"><u>Выбираем Выход К Первой Витрине Интернета С Копенгагенскими Агентствами SEO: Возвышение Бренда Через PowerSuite</u></a></li>
 </ul></div>
 
