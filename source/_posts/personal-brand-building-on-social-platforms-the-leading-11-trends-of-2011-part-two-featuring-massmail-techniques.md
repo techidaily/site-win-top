@@ -1,7 +1,7 @@
 ---
 title: "Personal Brand Building on Social Platforms: The Leading 11 Trends of 2011 - Part Two Featuring Massmail Techniques"
-date: 2024-12-17T02:41:10.922Z
-updated: 2024-12-23T21:56:28.417Z
+date: 2024-12-27T23:35:13.969Z
+updated: 2024-12-29T20:57:45.663Z
 tags:
   - product
 categories:
@@ -32,17 +32,9 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -58,6 +50,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -69,6 +65,10 @@ That is why in 2022, SMS will increasingly serve as the glue that cements multic
 One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware/products/), which helps local businesses and national chains to create and execute campaigns that feature shortcodes in direct mailers. After texting the shortcode, consumers receive an e-coupon on their phone that they redeem by showing to the merchant’s sales associate.
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
@@ -82,25 +82,17 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -110,17 +102,21 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 7\. Mind opt-in/out procedures
 
 Always respect the privacy of SMS subscribers by obtaining their permission through an opt-in procedure, and never purchase mobile phone number lists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,16 +149,19 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-creating-connection-identifying-the-best-6-videos-for-2024/"><u>[Updated] Creating Connection Identifying the Best 6 Videos for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-optimal-screen-capture-chromeos-enhanced/"><u>[Updated] Optimal Screen Capture ChromeOS Enhanced</u></a></li>
-<li><a href="https://win-top.techidaily.com/boost-your-podcast-reach-with-innovative-techniques-using-massmail-technology/"><u>Boost Your Podcast Reach with Innovative Techniques Using Massmail Technology</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-can-we-unlock-our-vivo-y78-5g-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Vivo Y78 5G Phone Screen?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/insights-into-the-duration-of-windows-update-cycles/"><u>Insights Into the Duration of Windows Update Cycles</u></a></li>
-<li><a href="https://some-skills.techidaily.com/introducing-microsofts-latest-innovation-an-ai-enhanced-recall-function-for-personal-computers/"><u>Introducing Microsoft's Latest Innovation: An AI-Enhanced Recall Function for Personal Computers</u></a></li>
-<li><a href="https://win-top.techidaily.com/leading-strategies-in-mobile-email-creation-insights-and-data-driven-tips-with-massmail/"><u>Leading Strategies in Mobile Email Creation: Insights & Data-Driven Tips with MassMail</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-batch-communication-introducing-magic-articles-revolutionary-massmail-software/"><u>Mastering Batch Communication: Introducing Magic Articles' Revolutionary MassMail Software</u></a></li>
-<li><a href="https://win-top.techidaily.com/maximizing-profits-when-to-start-trading-forex-in-america-based-on-market-opening-schedules-and-leveraging-mt4copier-tools/"><u>Maximizing Profits: When to Start Trading Forex in America Based on Market Opening Schedules & Leveraging MT4copier Tools</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728488572089-microsoft-outlook/"><u>Microsoft Outlook メッセージ送信失敗: 解決策とトラブルシューティング手順</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-dominating-the-market-on-facebook-twitter-instagram-and-youtube/"><u>The Ultimate Guide to Dominating the Market on Facebook, Twitter, Instagram and YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quintessential-5-filters-for-depth-video/"><u>[New] Quintessential 5 Filters for Depth Video</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-hitch-free-methods-igtv-and-story-sharing/"><u>[Updated] 2024 Approved Hitch-Free Methods IGTV and Story Sharing</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-step-by-step-guide-to-crafting-your-own-insta-tones/"><u>2024 Approved Step-By-Step Guide to Crafting Your Own Insta Tones</u></a></li>
+<li><a href="https://win-top.techidaily.com/come-ripristinare-il-tuo-computer-windows-passaggio-alla-modalita-provvisoria/"><u>Come Ripristinare Il Tuo Computer Windows: Passaggio Alla Modalità Provvisoria</u></a></li>
+<li><a href="https://win-top.techidaily.com/fehlerbehebung-fallt-bei-windows-10-der-systemwiederherstellungspunkt-ab/"><u>Fehlerbehebung: Fällt Bei Windows 10 Der Systemwiederherstellungspunkt Ab?</u></a></li>
+<li><a href="https://win-top.techidaily.com/guia-completa-de-compras-en-la-tienda-oficial-de-aomei-backupper/"><u>Guía Completa De Compras en La Tienda Oficial De AOMEI Backupper</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-y100-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo Y100 5G Devices</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-combatting-blurry-and-warped-youtube-videos/"><u>In 2024, Combatting Blurry and Warped YouTube Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pathways-of-file-formats-navigating-from-srt-to-others-for-2024/"><u>Pathways of File Formats Navigating From SRT to Others for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/reviewing-the-creative-labs-sound-blaster-zxr-a-solid-choice-for-gamers-in-201n/"><u>Reviewing the Creative Labs Sound Blaster ZxR - A Solid Choice for Gamers in 201N</u></a></li>
+<li><a href="https://win-top.techidaily.com/soluciones-efectivas-para-restaurar-el-almacen-interno-de-tu-iphone-que-no-aparece-o-esta-vacio/"><u>Soluciones Efectivas Para Restaurar El Almacén Interno De Tu iPhone Que No Aparece O Está Vacío</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transformative-techniques-for-capturing-on-iphone-for-2024/"><u>Transformative Techniques for Capturing on iPhone for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/zugriffsprobleme-auf-das-angegebene-gerat-oder-pfad-losungswege/"><u>Zugriffsprobleme Auf Das Angegebene Gerät Oder Pfad - Lösungswege</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Understanding Cost Per Acquisition in Digital Marketing - CPO Definitions & SEO Strategies Explained
-date: 2024-12-17T08:31:19.241Z
-updated: 2024-12-24T10:23:21.590Z
+date: 2024-12-29T00:58:00.043Z
+updated: 2024-12-30T02:40:06.420Z
 tags:
   - wiki
 categories:
@@ -17,13 +17,13 @@ thumbnail: https://thmb.techidaily.com/5d226635edaf435094da0cef0471d4f2b3210c149
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Cost per order (CPO)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Contents
@@ -35,13 +35,13 @@ thumbnail: https://thmb.techidaily.com/5d226635edaf435094da0cef0471d4f2b3210c149
 * [CPO alternatives](https://tools.techidaily.com/link-assistant/products/)
 * [References](https://tools.techidaily.com/link-assistant/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## CPO definition
 
 Cost per order, or CPO, is a term used to describe the average marketing spend needed to drive any purchase to your website. Cost per order, also known as cost per purchase, is often used to assess the effectiveness of an internet advertising campaign.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## CPO calculation
 
@@ -51,15 +51,15 @@ Here’s how to calculate CPO - you’ll need to divide the advertising costs by
 
 Here’s an example of calculating CPO: you paid $200 for placing a banner on a website and at the end of the campaign you received 40 orders. 200/40=$5 which means that the CPO in this case is $5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## CPO in affiliate marketing
 
 CPO is often used in affiliate marketing, meaning that an advertiser pays for ads only when a purchase is confirmed. It also implies a billing model that includes a campaign, tracking, and the commission payment.
 
 CPO often refers to a fee that’s paid by the seller of a product for placing ads on the websites of affiliate partners. It may include a fixed amount or a certain percentage that is paid out to partners.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## CPO pros and cons
 
@@ -74,7 +74,7 @@ However, a major disadvantage of the CPO model is the fact that website operator
 CPO is not the only model you can use in advertising and affiliate marketing. Such models as cost per action (CPA), cost per click (CPC), and cost per lead (CPL) are very similar to CPO with the difference that advertising fees are paid when traffic is generated from advertisers (but purchases are not made yet). The cost per view (CPV) is another model that’s more often used to advertise videos or online games.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## References
@@ -96,24 +96,24 @@ CPO is not the only model you can use in advertising and affiliate marketing. Su
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-balancing-act-weaving-b-roll-into-main-scenes/"><u>[New] Balancing Act Weaving B Roll Into Main Scenes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-in-depth-samsung-picture-editor-features-and-proscons/"><u>[New] In-Depth Samsung Picture Editor Features and Pros/Cons</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-tier-session-identifier-generator/"><u>[Updated] 2024 Approved Top-Tier Session Identifier Generator</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-elite-8-cybernetic-photograph-assembly-suite/"><u>[Updated] Elite 8 Cybernetic Photograph Assembly Suite</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-future-gaming-top-5-psvr-releases-on-the-horizon-for-2024/"><u>[Updated] Future Gaming Top 5 PSVR Releases on the Horizon for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/windows-1011-mtssd/"><u>全面消除个人信息：在 Windows 10/11 上精心管理 M.tssd 擦除方法</u></a></li>
-<li><a href="https://win-top.techidaily.com/forex-event-driven-strategies-with-trade-copier-leverage-news-impacts-on-mt4-and-mt5-platforms/"><u>Forex Event-Driven Strategies with Trade Copier: Leverage News Impacts on MT4 & MT5 Platforms</u></a></li>
-<li><a href="https://win-top.techidaily.com/guide-complet-proteger-votre-configuration-raid-0-en-4-facilement-et-sans-cout/"><u>Guide Complet: Protéger Votre Configuration RAID 0 en 4 Facilement Et Sans Coût</u></a></li>
-<li><a href="https://win-top.techidaily.com/how-jeremy-shoemaker-earned-100kplus-using-adsense-and-revolutionary-massmail-software/"><u>How Jeremy Shoemaker Earned $100K+ Using AdSense and Revolutionary MassMail Software</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ideal-integrations-boosting-vs-codes-chatgpt-capabilities/"><u>Ideal Integrations: Boosting VS Code's ChatGPT Capabilities</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-6-plus-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 6 Plus</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728506699860-ios-15/"><u>IOS 15觸控功能故障解決方法 - 完全修復指南</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-foreign-exchange-effective-metatrader-4-strategies-for-achieving-financial-triumph-in-forex-markets/"><u>Mastering Foreign Exchange: Effective MetaTrader 4 Strategies for Achieving Financial Triumph in Forex Markets</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/premier-edit-suites-linux-compatible-tools-for-2024/"><u>Premier Edit Suites Linux-Compatible Tools for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-assassins-creed-valhalla-lag-and-crashes-2024-update-tips/"><u>Resolving Assassin's Creed Valhalla Lag and Crashes: 2024 Update Tips</u></a></li>
-<li><a href="https://win-top.techidaily.com/the-ultimate-guide-to-cultivating-a-champions-approach-in-mt4-swing-trade-execution-techniques/"><u>The Ultimate Guide to Cultivating a Champion's Approach in MT4 Swing Trade Execution Techniques</u></a></li>
-<li><a href="https://win-top.techidaily.com/understanding-xml-sitemaps-a-complete-guide-with-essential-seo-strategies/"><u>Understanding XML Sitemaps: A Complete Guide with Essential SEO Strategies</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-optimizing-video-output-with-compressor-in-fcpx/"><u>Updated 2024 Approved Optimizing Video Output with Compressor in FCPX</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728466663510-windows-11/"><u>ショートカットガイド:Windows 11への簡単リファレンス、ハードディスク消去からインストールまで</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ehind-the-scenes-how-to-create-youtube-trailers-in-filmora/"><u>[New] Behind the Scenes How-To Create YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-streaming-tools-duel-go-with-obs-or-shadowplay/"><u>[Updated] 2024 Approved Streaming Tools Duel Go with OBS or ShadowPlay?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-strong-authentication-protocols/"><u>[Updated] In 2024, Strong Authentication Protocols</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-transforming-youtube-videos-bars-free-vision/"><u>[Updated] In 2024, Transforming YouTube Videos Bars-Free Vision</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-melody-filled-visuals-the-fusion-project/"><u>[Updated] Melody-Filled Visuals The Fusion Project</u></a></li>
+<li><a href="https://win-top.techidaily.com/1-top-5-solutions-to-resolve-your-iphones-persistent-emergency-sos-display-problem/"><u>1. Top 5 Solutions to Resolve Your iPhone's Persistent Emergency SOS Display Problem</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/arc-electrify-powerful-media-player-replacement-for-2024/"><u>Arc Electrify Powerful Media Player Replacement for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-canon-pixma-mg2522-printer-drivers-latest-version/"><u>Download Canon PIXMA MG2522 Printer Drivers - Latest Version</u></a></li>
+<li><a href="https://win-top.techidaily.com/effortless-fixes-for-overcoming-windows-backup-error-0x8100002f-with-simple-steps/"><u>Effortless Fixes for Overcoming Windows Backup Error 0X8100002F with Simple Steps</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcps-cinematic-legacy-10-timeless-movies-made-with-final-cut-pro/"><u>FCPs Cinematic Legacy 10 Timeless Movies Made with Final Cut Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-popular-virtual-reality-peripherals/"><u>In 2024, Top 10 Popular Virtual Reality Peripherals</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/latest-version-release-download-dex-31602-and-lyrx-amplifier-1702-now-available/"><u>Latest Version Release - Download DEX 3.16.0.2 & LYRX Amplifier 1.7.0.2 Now Available!</u></a></li>
+<li><a href="https://win-top.techidaily.com/metodos-faciles-para-exportar-el-historial-del-chat-de-wechat-en-dispositivos-moviles/"><u>Métodos Fáciles Para Exportar El Historial Del Chat De WeChat en Dispositivos Móviles</u></a></li>
+<li><a href="https://win-top.techidaily.com/rising-stars-in-the-marketing-realm-meet-the-elite-millionaire-creators-with-massmail-solutions/"><u>Rising Stars in the Marketing Realm: Meet the Elite Millionaire Creators with MassMail Solutions</u></a></li>
+<li><a href="https://win-top.techidaily.com/search-for-sentences-that-describe-proximity-to-amenities-eg-shops-and-cafes/"><u>Search for Sentences that Describe Proximity to Amenities (E.g., Shops and Cafes).</u></a></li>
+<li><a href="https://win-top.techidaily.com/simplest-methods-to-restore-deleted-files-on-windows-11-a-step-by-step-guide/"><u>Simplest Methods to Restore Deleted Files on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-top.techidaily.com/transferencia-expressa-do-hdd-para-um-disco-solto-m2-tecnica-simplificada/"><u>Transferência Expressa Do HDD Para Um Disco Solto M.2 - Técnica Simplificada</u></a></li>
+<li><a href="https://win-top.techidaily.com/understanding-email-bounce-rates-strategies-for-reduction-with-massmail-software/"><u>Understanding Email Bounce Rates: Strategies for Reduction with MassMail Software</u></a></li>
+<li><a href="https://win-top.techidaily.com/understanding-tracking-pixels-and-their-role-in-seo-a-comprehensive-guide/"><u>Understanding Tracking Pixels & Their Role in SEO - A Comprehensive Guide</u></a></li>
 </ul></div>
 

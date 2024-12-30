@@ -1,7 +1,7 @@
 ---
 title: How Does Sender Policy Framework Work in Email Communication? Insights From MassMail's Perspective
-date: 2024-12-23T07:20:26.547Z
-updated: 2024-12-24T03:08:25.224Z
+date: 2024-12-24T19:49:33.303Z
+updated: 2024-12-30T00:38:36.115Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -41,7 +37,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -53,7 +49,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -61,10 +57,6 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,6 +70,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -86,9 +82,17 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -102,13 +106,13 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,20 +149,14 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-the-ideal-companion-15-tripods-and-mounts-for-gopro-excellence-for-2024/"><u>[New] The Ideal Companion 15 Tripods and Mounts for GoPro Excellence for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-video-dominance-on-instagram-designing-a-pro-marketing-approach/"><u>[New] Video Dominance on Instagram Designing a Pro-Marketing Approach</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-essential-techniques-for-quick-and-reliable-recording-of-online-classes/"><u>[Updated] In 2024, Essential Techniques for Quick and Reliable Recording of Online Classes</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-streamlining-spotify-listening-swiftly-but-safely/"><u>[Updated] In 2024, Streamlining Spotify Listening - Swiftly but Safely</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-plain-story-formulation-for-2024/"><u>[Updated] Plain Story Formulation for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/downloading-samfw-frp-tool-30-for-lava-blaze-2-pro-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Lava Blaze 2 Pro</u></a></li>
-<li><a href="https://win-top.techidaily.com/how-to-fix-windows-11-not-responding-from-sleep-mode-a-step-by-step-guide/"><u>How To Fix Windows 11 Not Responding From Sleep Mode: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-top.techidaily.com/how-to-swiftly-detect-and-exclude-your-address-from-spam-filters-using-massmail-techniques/"><u>How to Swiftly Detect & Exclude Your Address From Spam Filters Using Massmail Techniques</u></a></li>
-<li><a href="https://win-top.techidaily.com/preventing-email-blacklists-essential-tips-using-massmailer/"><u>Preventing Email Blacklists: Essential Tips Using MassMailer</u></a></li>
-<li><a href="https://win-top.techidaily.com/recovering-lost-video-files-from-a-microsd-card-a-step-by-step-guide/"><u>Recovering Lost Video Files From a MicroSD Card – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-9-email-performance-indicators-and-modern-strategies-2011-featuring-massmail-suite/"><u>Top 9 Email Performance Indicators & Modern Strategies (2011) Featuring MassMail Suite</u></a></li>
-<li><a href="https://win-top.techidaily.com/understanding-redirects-comprehensive-guide-with-essential-seo-strategies-boost-your-sites-ranking/"><u>Understanding Redirects: Comprehensive Guide with Essential SEO Strategies | Boost Your Site's Ranking</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-magic-5-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor Magic 5 Pro</u></a></li>
-<li><a href="https://win-blog.techidaily.com/what-really-happened-unraveling-guilty-gear-strive-launch-setbacks/"><u>What Really Happened? Unraveling Guilty Gear -Strive- Launch Setbacks</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/1719818185907-windows-clarity-just-clicked/"><u>Windows Clarity, Just Clicked</u></a></li>
+<li><a href="https://win-top.techidaily.com/boost-your-podcast-reach-with-innovative-techniques-using-massmail-technology/"><u>Boost Your Podcast Reach with Innovative Techniques Using Massmail Technology</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/compact-but-potent-apple-ipad-mini-5-in-depth-analysis/"><u>Compact but Potent Apple iPad Mini 5 - In-Depth Analysis</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-vivo-s17-pro-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Vivo S17 Pro Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://win-top.techidaily.com/leading-strategies-in-mobile-email-creation-insights-and-data-driven-tips-with-massmail/"><u>Leading Strategies in Mobile Email Creation: Insights & Data-Driven Tips with MassMail</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-batch-communication-introducing-magic-articles-revolutionary-massmail-software/"><u>Mastering Batch Communication: Introducing Magic Articles' Revolutionary MassMail Software</u></a></li>
+<li><a href="https://win-top.techidaily.com/maximizing-profits-when-to-start-trading-forex-in-america-based-on-market-opening-schedules-and-leveraging-mt4copier-tools/"><u>Maximizing Profits: When to Start Trading Forex in America Based on Market Opening Schedules & Leveraging MT4copier Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/navigating-background-extraction-in-figma-designs-easily/"><u>Navigating Background Extraction in Figma Designs Easily</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solving-common-issues-a-users-guide-for-malfunctioning-samsung-blu-ray-devices/"><u>Solving Common Issues: A User's Guide for Malfunctioning Samsung Blu Ray Devices</u></a></li>
+<li><a href="https://win-community.techidaily.com/tackling-the-unfixable-five-proven-methods-to-correct-wheauncorrectableerror-in-windows-11-systems/"><u>Tackling the Unfixable: Five Proven Methods to Correct WHEA_UNCORRECTABLE_ERROR in Windows 11 Systems</u></a></li>
 </ul></div>
 
