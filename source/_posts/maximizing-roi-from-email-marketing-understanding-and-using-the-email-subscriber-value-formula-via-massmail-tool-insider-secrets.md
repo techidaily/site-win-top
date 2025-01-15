@@ -1,7 +1,7 @@
 ---
 title: "Maximizing ROI From Email Marketing: Understanding and Using the Email Subscriber Value Formula via MassMail Tool | Insider Secrets"
-date: 2025-01-05T04:24:39.571Z
-updated: 2025-01-09T05:03:47.129Z
+date: 2025-01-12T23:12:35.902Z
+updated: 2025-01-14T17:05:25.565Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -39,10 +35,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -58,6 +50,10 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -71,7 +67,7 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
@@ -82,17 +78,9 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -102,13 +90,25 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,19 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-combating-content-id-blocks-on-youtube-with-knowledge/"><u>2024 Approved Combating Content ID Blocks on YouTube with Knowledge</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-gopro-and-yi-the-2023-ultimate-actions-camera-verdict/"><u>2024 Approved GoPro & YI The 2023 Ultimate Actions Camera Verdict</u></a></li>
-<li><a href="https://win-top.techidaily.com/conversor-rapido-de-mkv-a-avi-con-facilidad-metodologia-fina-por-movavi/"><u>Conversor Rápido De MKV a AVI Con Facilidad - Metodología Fina Por Movavi</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-huawei-nova-y91-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Huawei Nova Y91 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-a-guide-to-effective-hashtag-integration-on-facebook-platforms/"><u>In 2024, A Guide to Effective Hashtag Integration on Facebook Platforms</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-from-high-speed-to-leisurely-the-pathway-to-stellar-ig-reel-slow-motion/"><u>In 2024, From High-Speed to Leisurely The Pathway to Stellar IG Reel Slow Motion</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Asus ROG Phone 8? | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/les-incontournables-les-11-meilleures-outils-denregistrement-de-jeux-video-pour-une-performance-impeccable-en-2e-moitie-de-2024/"><u>Les Incontournables: Les 11 Meilleures Outils D'Enregistrement De Jeux Vidéo Pour Une Performance Impeccable en 2E Moitié De 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/1726222181075-qtmp4-movavi/"><u>QT簡單免費在線MP4轉換器- 選擇Movavi快速過渡平台</u></a></li>
-<li><a href="https://fox-search.techidaily.com/resolving-issues-with-esim-data-transfer-failure-on-the-latest-iphone-models/"><u>Resolving Issues with eSIM Data Transfer Failure on the Latest iPhone Models</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-12-chrome-screen-recording-extensions-para-su-mac-o-pc/"><u>Top 12 Chrome Screen Recording Extensions Para Su Mac O PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-choosing-quality-speakers-for-record-players-pros-list-featured-by-zdnet/"><u>Ultimate Guide to Choosing Quality Speakers for Record Players: Pros' List Featured by ZDNet</u></a></li>
-<li><a href="https://win-top.techidaily.com/vytvoreni-dvojkovackovych-video-v-online-streamingu-ucinny-pocet-objevu-uzivatelu/"><u>Vytvoření Dvojkováčkových Video v Online Streamingu – Účinný Počet Objevů Uživatelů</u></a></li>
-<li><a href="https://win-top.techidaily.com/1726219394244-wav-flv-movavi/"><u>영구성 무료 오디오 형식 바이트 대비: WAV-FLV 전환기 - Movavi</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-professional-guide-extracting-vimeo-content-as-mp4s/"><u>[Updated] In 2024, Professional Guide Extracting Vimeo Content as MP4s</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-audio-enhancer-on-android/"><u>2024 Approved Premium Audio Enhancer on Android</u></a></li>
+<li><a href="https://win-top.techidaily.com/3g2wma-movavi/"><u>在線自由改制3G2到WMA的方法 - 如何使用 Movavi 轉錄器簡化流程</u></a></li>
+<li><a href="https://win-top.techidaily.com/aac-in-mp3-omzetten-online-gratis-met-de-expertise-van-movavi-een-scherpe-seo-titel/"><u>AAC in MP3 Omzetten Online Gratis Met De Expertise Van Movavi: Een Scherpe SEO Titel</u></a></li>
+<li><a href="https://win-top.techidaily.com/free-online-conversion-transforming-vob-files-into-flv-format-with-ease-movavi/"><u>Free Online Conversion: Transforming VOB Files Into FLV Format with Ease - Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-y100-by-drfone-android/"><u>How to Bypass FRP from Vivo Y100?</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-resolve-audio-glitches-on-youtube-with-windows-10-patches/"><u>How to Repair and Resolve Audio Glitches on YouTube with Windows 10 Patches</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-honor-v-purse-phone-by-drfone-android/"><u>How to Reset a Locked Honor V Purse Phone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Motorola Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-magic-6-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor Magic 6? | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/melhores-ferramentas-de-criacao-de-capturas-de-tela-para-o-mac-picks-do-2024/"><u>Melhores Ferramentas De Criação De Capturas De Tela Para O Mac: Picks Do 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/online-transformation-of-oggvorbis-videos-without-costs-with-movavis-services/"><u>Online Transformation of OGG/Vorbis Videos Without Costs with Movavi's Services</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/online-veilig-3gp-in-swf-veranderen-gratuitie-duurzaamheid-and-versies-kracht-van-movavi/"><u>Online Veilig 3GP in SWF Veranderen: Gratuitie, Duurzaamheid & Versies - Kracht Van Movavi</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-evolution-growth-post-internet-exit/"><u>Social Evolution: Growth Post-Internet Exit</u></a></li>
+<li><a href="https://win-top.techidaily.com/flac-wmv-movavi/"><u>오픈 소스 FLAC 및 WMV 영상을 무료 직접 변환 - Movavi</u></a></li>
+<li><a href="https://win-top.techidaily.com/1726226084199-3gpflv-movavi/"><u>자원 없이 인터넷을 통해 3GP/FLV 비디오를 바꾸기: Movavi의 방법</u></a></li>
 </ul></div>
 

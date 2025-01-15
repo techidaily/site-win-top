@@ -1,7 +1,7 @@
 ---
 title: "Decoding the Evolution of Online Ad Spend: 2010 Statistics and Predictions for 2011 with Massmail's Analytic Solutions"
-date: 2025-01-07T01:40:54.853Z
-updated: 2025-01-08T17:53:18.791Z
+date: 2025-01-12T17:47:23.444Z
+updated: 2025-01-14T21:43:58.739Z
 tags:
   - product
 categories:
@@ -17,10 +17,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
@@ -48,6 +44,10 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
@@ -66,29 +66,25 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -107,7 +103,7 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
@@ -119,7 +115,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -129,6 +125,10 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/rocuring-legal-melodies-a-youtube-creators-guide-for-2024/"><u>[New] Procuring Legal Melodies A YouTube Creator's Guide for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-digital-content-showdown-audios-answer-to-visual-media-in-2024/"><u>[Updated] Digital Content Showdown Audio's Answer to Visual Media, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-review-of-dji-mavic-pro-eyewear-tech/"><u>[Updated] In-Depth Review of DJI Mavic Pro Eyewear Tech</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-video-capabilities-dslr-or-mirrorless-for-2024/"><u>[Updated] Unveiling Video Capabilities DSLR or Mirrorless for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-how-do-fan-tokens-work-in-sports-betting/"><u>1. How Do Fan Tokens Work in Sports Betting?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/movavi-learning-portal/"><u>学びを強化する! Movavi Learning Portal - 教育の中心であなたをサポート</u></a></li>
-<li><a href="https://win-top.techidaily.com/avoiding-forex-trading-blunders-top-13-key-missteps-for-traders-using-metatrader-4-systems/"><u>Avoiding Forex Trading Blunders: Top 13 Key Missteps for Traders Using MetaTrader 4 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/comprehensive-tutorial-for-recording-chats-across-mobile-platforms-iosandroid-and-desktop-systems-macwindows/"><u>Comprehensive Tutorial for Recording Chats Across Mobile Platforms (iOS/Android) and Desktop Systems (Mac/Windows)</u></a></li>
-<li><a href="https://win-top.techidaily.com/fixing-no-more-room-alert-comprehensive-guide-to-overcoming-esxi-error/"><u>Fixing 'No More Room' Alert: Comprehensive Guide to Overcoming ESXi Error</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-oppo-a79-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Oppo A79 5G FRP</u></a></li>
-<li><a href="https://win-top.techidaily.com/guida-completa-al-problema-della-non-sincronizzazione-di-goodnotes-con-mac-scopri-le-soluzioni-efficaci-in-3-passaggi/"><u>Guida Completa Al Problema Della Non-Sincronizzazione Di GoodNotes Con Mac: Scopri Le Soluzioni Efficaci in 3 Passaggi!</u></a></li>
-<li><a href="https://win-top.techidaily.com/how-do-supportresistance-levels-work-on-the-mt4-platform-for-copiers/"><u>How Do Support/Resistance Levels Work on the MT4 Platform for Copiers?</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-currency-exchange-strategies-for-creating-a-varied-forex-portfolio-with-metatrader-4-copier/"><u>Mastering Currency Exchange: Strategies for Creating a Varied Forex Portfolio with MetaTrader 4 Copier</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-the-art-of-adult-entertainment-marketing-with-massmail-from-product-promotion-to-comprehensive-strategies/"><u>Mastering the Art of Adult Entertainment Marketing with Massmail: From Product Promotion to Comprehensive Strategies</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On OnePlus 12R? | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/unlocking-local-search-success-a-guide-to-understanding-the-local-pack-and-effective-seo-strategies/"><u>Unlocking Local Search Success: A Guide to Understanding the Local Pack & Effective SEO Strategies</u></a></li>
-<li><a href="https://win-top.techidaily.com/maksimizaciya-reklamnogo-vliyaniya-sovremennye-varianty-brightedge-v-ramkah-efficient-seo-strategies-and-seo-power-suite/"><u>Максимизация Рекламного Влияния: Современные Варианты BrightEdge В Рамках Efficient SEO Strategies & SEO Power Suite</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-scrutinizing-djis-phantom-3-for-enthusiast-use/"><u>[New] In 2024, Scrutinizing DJI's Phantom 3 for Enthusiast Use</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-insiders-guide-to-flawless-game-recordings-on-playstation-4/"><u>[New] In 2024, The Insider’s Guide to Flawless Game Recordings on PlayStation 4</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-50plus-youtube-channel-names-for-vloggers-100-new-filmora/"><u>[Updated] 50+ Youtube Channel Names for Vloggers [100% New] - Filmora</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-phonesnapshot-protocols-expert-tips-for-mobile-capture-on-snapchat/"><u>2024 Approved Phonesnapshot Protocols Expert Tips for Mobile Capture on Snapchat</u></a></li>
+<li><a href="https://win-top.techidaily.com/windows-1087/"><u>安全模式下Windows 10/8/7的硬盘克隆方法</u></a></li>
+<li><a href="https://win-top.techidaily.com/dropbox-ordners-sicher-verschieben-schritt-fur-schritt-anleitung-ohne-datenverlust/"><u>Dropbox-Ordners Sicher Verschieben: Schritt-Für-Schritt Anleitung Ohne Datenverlust</u></a></li>
+<li><a href="https://win-top.techidaily.com/expertenhilfe-zur-rekonstruktion-von-fotos-rettung-verschollener-bilder-aus-canon-dslr-kameras/"><u>Expertenhilfe Zur Rekonstruktion Von Fotos - Rettung Verschollener Bilder Aus Canon DSLR-Kameras</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-retrieve-deleted-thunderbird-email-for-free-top-6-strategies/"><u>How to Retrieve Deleted Thunderbird Email for Free - Top 6 Strategies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-google-pixel-8-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Google Pixel 8 Pro</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-journey-to-joyrides-top-6-essential-mc-house-plans/"><u>In 2024, Journey to Joyrides Top 6 Essential MC House Plans</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovate-and-inspire-computexs-ai-hardware/"><u>Innovate and Inspire: Computex’s AI Hardware</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-in-2024-guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>New In 2024, Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
+<li><a href="https://win-top.techidaily.com/problemfall-winloadefi-nicht-gefunden-klone-dein-system-mit-diesen-4-strategien-plus-einem-hilfreichen-ratschlag/"><u>Problemfall Winload.efi Nicht Gefunden - Klone Dein System Mit Diesen 4 Strategien + Einem Hilfreichen Ratschlag</u></a></li>
+<li><a href="https://win-top.techidaily.com/resolve-your-itunes-troubles-in-windows-11-a-comprehensive-breakdown-of-top-three-challenges-and-how-to-overcome-them/"><u>Resolve Your iTunes Troubles in Windows 11: A Comprehensive Breakdown of Top Three Challenges and How to Overcome Them</u></a></li>
+<li><a href="https://win-top.techidaily.com/revive-your-lost-team-documents-a-step-by-step-guide-on-retrieving-deleted-items-from-microsoft-teams/"><u>Revive Your Lost Team Documents: A Step-by-Step Guide on Retrieving Deleted Items From Microsoft Teams</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/slash-your-expenses-grab-an-instant-200-save-on-the-latest-m1-macbook-air-unveiled/"><u>Slash Your Expenses! Grab an Instant $200 Save on the Latest M1 MacBook Air - Unveiled</u></a></li>
+<li><a href="https://win-top.techidaily.com/solucion-efectiva-para-la-pantalla-negra-de-windows-11-despues-de-una-actualizacion/"><u>Solución Efectiva Para La Pantalla Negra De Windows 11 Después De Una Actualización</u></a></li>
+<li><a href="https://win-top.techidaily.com/successful-strategies-for-restoring-lost-disk-partitions-on-windows-10/"><u>Successful Strategies for Restoring Lost Disk Partitions on Windows 10</u></a></li>
+<li><a href="https://driver-error.techidaily.com/system-failure-alerted-absence-of-intelladapter/"><u>System Failure Alerted: Absence of IntellAdapter</u></a></li>
 </ul></div>
 

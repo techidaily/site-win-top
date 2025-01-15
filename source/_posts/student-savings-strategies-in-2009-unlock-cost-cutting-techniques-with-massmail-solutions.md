@@ -1,7 +1,7 @@
 ---
 title: "Student Savings Strategies in 2009: Unlock Cost-Cutting Techniques with MassMail Solutions"
-date: 2025-01-06T06:30:53.263Z
-updated: 2025-01-08T18:17:33.537Z
+date: 2025-01-12T18:08:13.417Z
+updated: 2025-01-15T04:21:28.426Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,10 +40,6 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -53,10 +53,6 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,37 +74,45 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -117,10 +121,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 ### 8\. Partner
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -149,24 +149,22 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-boosting-social-reach-share-tiktoks-with-a-twist-of-twitter/"><u>[New] Boosting Social Reach Share TikToks with a Twist of Twitter</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-harness-youtube-movie-maker-for-impactful-videos/"><u>[Updated] In 2024, Harness YouTube Movie Maker for Impactful Videos</u></a></li>
-<li><a href="https://fox-where.techidaily.com/2-professionelle-dashcam-video-wiederherstellungstechniken-verstanden-entdecken-sie-die-geheimnisse-mit-myrecover/"><u>2. Professionelle Dashcam-Video Wiederherstellungstechniken Verstanden – Entdecken Sie Die Geheimnisse Mit MyRecover</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-invisible-volume-tapering-a-guide-for-audacity-enthusiasts/"><u>2024 Approved Invisible Volume Tapering A Guide for Audacity Enthusiasts</u></a></li>
-<li><a href="https://win-top.techidaily.com/6led/"><u>如何解決手提電腦起動時出現全黑屏的問題？6個專家提�led拯救方法揭秘！</u></a></li>
-<li><a href="https://extra-information.techidaily.com/breaking-barriers-with-brightness-the-comprehensive-guide-to-the-lg-31mu97-b-screen-for-2024/"><u>Breaking Barriers with Brightness – The Comprehensive Guide to the LG 31MU97-B Screen for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/bypass-the-frustration-top-6-methods-for-fixing-an-iphone-that-wont-respond/"><u>Bypass the Frustration: Top 6 Methods for Fixing an iPhone That Won’t Respond</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/te-your-channel-identity-essential-youtube-naming-strategies-for-2024/"><u>Elevate Your Channel Identity Essential YouTube Naming Strategies for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-correctly-address-msstdfmtdll-file-absence-on-windows-computers/"><u>How to Correctly Address Msstdfmt.dll File Absence on Windows Computers</u></a></li>
-<li><a href="https://win-top.techidaily.com/how-to-transfer-data-from-an-hdd-to-a-sandisk-ssd-in-windows-7-8-or-10/"><u>How to Transfer Data From an HDD to a SanDisk SSD in Windows 7, 8 or 10</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-the-essential-checklist-for-adding-videos-to-tweets/"><u>In 2024, The Essential Checklist for Adding Videos to Tweets</u></a></li>
-<li><a href="https://facebook.techidaily.com/is-fb-away-tips-for-timely-restoration-monitoring/"><u>Is FB Away? Tips for Timely Restoration Monitoring</u></a></li>
-<li><a href="https://win-top.techidaily.com/paso-por-paso-preparacion-del-sistema-sysprep-para-windows-10-y-11-explicada-detalladamente/"><u>Paso Por Paso: Preparación Del Sistema (Sysprep) Para Windows 10 Y 11 Explicada Detalladamente</u></a></li>
-<li><a href="https://win-top.techidaily.com/quest-ce-qui-se-passe-avec-les-fichiers-recuperes-quand-on-vide-la-corbeille-sous-windows-11/"><u>Qu'est-Ce Qui Se Passe Avec Les Fichiers Recupérés Quand On Vide La Corbeille Sous Windows 11?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/tiktok-video-reversal-made-easy-a-beginners-guide-updated/"><u>TikTok Video Reversal Made Easy A Beginners Guide Updated </u></a></li>
-<li><a href="https://win-top.techidaily.com/time-machinewindows/"><u>Time Machineに匹敵するWindowsデスクトップ向けの高度なバックアップソフトウェア</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-tipps-zur-bereinigung-von-update-dateien-in-windows-11-die-schnellsten-und-sichersten-wege-erklart/"><u>Top-Tipps Zur Bereinigung Von Update-Dateien in Windows 11 - Die Schnellsten Und Sichersten Wege Erklärt</u></a></li>
-<li><a href="https://win-top.techidaily.com/transferencia-de-archivos-entre-computadoras-mediante-un-cable-ethernet-una-guia-sencilla/"><u>Transferencia De Archivos Entre Computadoras Mediante Un Cable Ethernet: Una Guía Sencilla</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728500590321-pc/"><u>ウィンドウズPCで強力なバックアップソリューション - 自宅事業者に最適!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-crystal-clear-capture-amping-up-your-home-studio-recordings/"><u>[New] 2024 Approved Crystal Clear Capture Amping Up Your Home Studio Recordings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-building-awesome-channel-art-for-your-youtube-presence/"><u>[New] In 2024, Building Awesome Channel Art for Your YouTube Presence</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-unleashing-your-cellphones-potential-in-videography/"><u>[Updated] Unleashing Your Cellphone's Potential in Videography</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-pushing-boundaries-in-motion-photography/"><u>2024 Approved Pushing Boundaries in Motion Photography</u></a></li>
+<li><a href="https://win-top.techidaily.com/404-web/"><u>404 Webページ未発見の問題 - 検索方法と解決策</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/addressing-unregistered-software-class-errors-on-windows-10-solutions/"><u>Addressing Unregistered Software Class Errors on Windows 10 [Solutions]</u></a></li>
+<li><a href="https://win-top.techidaily.com/aufdeckung-der-ursache-wenn-verschwinden-sie-ihre-hddssd-auf-windows-10-wiederholt/"><u>Aufdeckung Der Ursache: Wenn Verschwinden Sie Ihre HDD/SSD Auf Windows 10 Wiederholt?</u></a></li>
+<li><a href="https://win-top.techidaily.com/enhanced-text-editing-with-emeditor-pro-800-beta-version/"><u>Enhanced Text Editing with EmEditor Pro 8.00 Beta Version</u></a></li>
+<li><a href="https://win-top.techidaily.com/guide-facile-pour-resetter-votre-ordinateur-verrouille-par-windows-11-sans-code/"><u>Guide Facile Pour Resetter Votre Ordinateur Verrouillé Par Windows 11 Sans Code.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-a54-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy A54 5G Face Lock?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728488376192-pc/"><u>PC上のファイル・フォルダが開けない - 詳細な解決法と対処方法</u></a></li>
+<li><a href="https://win-top.techidaily.com/sicherstellen-sie-ein-reibungsloses-update-auf-windows-11-ohne-datenverlust-entdecken-sie-drei-effektive-strategien/"><u>Sicherstellen Sie Ein Reibungsloses Update Auf Windows 11 Ohne Datenverlust: Entdecken Sie Drei Effektive Strategien!</u></a></li>
+<li><a href="https://win-top.techidaily.com/strategies-pour-retrouver-et-restaurer-vos-fichiers-word-sur-un-pc-windows/"><u>Stratégies Pour Retrouver Et Restaurer Vos Fichiers Word Sur Un PC Windows</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-s17-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo S17 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-gratuito-para-backup-de-drive-interno-optimo/"><u>Top Gratuito Para Backup De Drive Interno Óptimo</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/troubleshooting-guide-how-i-overcame-my-hp-laptops-persistent-black-display-problem-at-boot-up/"><u>Troubleshooting Guide: How I Overcame My HP Laptop's Persistent Black Display Problem at Boot-Up</u></a></li>
 </ul></div>
 

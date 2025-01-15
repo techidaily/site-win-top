@@ -1,7 +1,7 @@
 ---
 title: "Creative Blogging Strategies of 2009: Boosting Your Mood & Engagement with MassMail"
-date: 2025-01-04T19:55:15.669Z
-updated: 2025-01-09T09:22:43.588Z
+date: 2025-01-11T20:16:06.749Z
+updated: 2025-01-15T06:09:16.768Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -40,6 +40,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -49,7 +53,7 @@ _For example:_
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s measurable
@@ -57,6 +61,10 @@ When customers respond to, say, a shortcode in a print ad, that initial communic
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,6 +78,10 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -78,17 +90,9 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
@@ -115,7 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,24 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-elevate-your-gaming-advanced-techniques-for-recording-minecraft-for-2024/"><u>[Updated] Elevate Your Gaming Advanced Techniques for Recording Minecraft for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-ultimate-workstations-your-tech-dreams-realized/"><u>2024 Approved Ultimate Workstations - Your Tech Dreams Realized</u></a></li>
-<li><a href="https://win-top.techidaily.com/choosing-the-best-data-protection-in-depth-analysis-of-wd-backup-and-file-history-features/"><u>Choosing the Best Data Protection: In-Depth Analysis of WD Backup and File History Features</u></a></li>
-<li><a href="https://win-top.techidaily.com/four-effective-methods-to-safeguard-your-vmware-vm-during-operation/"><u>Four Effective Methods to Safeguard Your VMware VM During Operation</u></a></li>
-<li><a href="https://win-top.techidaily.com/hp-laptop-troubleshooting-how-to-fix-when-it-wont-start-up/"><u>HP Laptop Troubleshooting - How To Fix When It Won’t Start Up</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-the-ultimate-guide-to-downloading-facebook-stories-anywhere/"><u>In 2024, The Ultimate Guide to Downloading Facebook Stories Anywhere</u></a></li>
-<li><a href="https://win-top.techidaily.com/mp4-file-restoration-guide-3-effective-methods-for-windows-11-users/"><u>MP4 File Restoration Guide: 3 Effective Methods for Windows 11 Users</u></a></li>
-<li><a href="https://win-top.techidaily.com/redefinicao-rapida-de-clonagem-de-hd-para-conjunto-erroneo-acao-imediata-para-corrigir-tamanho/"><u>Redefinição Rápida De Clonagem De HD Para Conjunto Errôneo - Ação Imediata Para Corrigir Tamanho</u></a></li>
-<li><a href="https://win-top.techidaily.com/simples-download-de-imagens-do-painel-de-controle-em-sistemas-windows/"><u>Simples Download De Imagens Do Painel De Controle Em Sistemas Windows</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/step-by-step-solutions-for-when-your-pcs-media-player-wont-open-videos-or-music/"><u>Step-by-Step Solutions for When Your PC's Media Player Won't Open Videos or Music</u></a></li>
-<li><a href="https://fox-that.techidaily.com/struggling-with-an-unresponsive-contacts-app-on-ios-device-heres-how-to-resolve-it/"><u>Struggling with an Unresponsive Contacts App on iOS Device? Here's How to Resolve It</u></a></li>
-<li><a href="https://win-top.techidaily.com/the-therapressure-on-bone-marrow-can-lead-to-anemia-leukopenia-or-thrombocytopenia-as-side-effects/"><u>The Therapressure on Bone Marrow Can Lead to Anemia, Leukopenia, or Thrombocytopenia as Side Effects.</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-world-of-toms-hardware-insights-into-cutting-edge-computing-tools/"><u>The World of Tom's Hardware: Insights Into Cutting-Edge Computing Tools</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-windows-11-visualizer-for-rapid-images-for-2024/"><u>Top Windows 11 Visualizer for Rapid Images for 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/troubleshoot-missing-or-malfunctioning-antivirus-in-windows-11/"><u>Troubleshoot Missing or Malfunctioning Antivirus in Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-the-most-durable-iphone-1212-pro-cases-of-2023-featured-on-zdnet/"><u>Ultimate Selection: The Most Durable iPhone 12/12 Pro Cases of 2023, Featured on ZDNET</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-premier-free-mp3-harmonizer-software/"><u>Updated Premier Free MP3 Harmonizer Software</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728497669865-usbwindows-11/"><u>USBから移行してもWindows 11を起動できない場合の対策</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-get-youtube-posters-at-zero-price-top-free-downloading-tool/"><u>[New] 2024 Approved Get YouTube Posters at Zero Price - Top Free Downloading Tool</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-insta-photography-enhancement-hacks-for-professionals/"><u>[Updated] In 2024, Insta-Photography Enhancement Hacks for Professionals</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-premium-3d-video-app-for-android-devices/"><u>[Updated] In 2024, Premium 3D Video App for Android Devices</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-prime-5-podcast-options-for-your-iphone-experience/"><u>[Updated] Prime 5 Podcast Options for Your iPhone Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/2024s-leading-smart-illumination-devices-reviewed/"><u>2024'S Leading Smart Illumination Devices Reviewed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-reveals-performance-of-the-new-ryzen-9-9950x-zen-5-architecture-unleashed-in-high-demand-benchmarks/"><u>AMD Reveals Performance of the New Ryzen 9 9950X - Zen 5 Architecture Unleashed in High-Demand Benchmarks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-xiaomi-redmi-note-12r-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Xiaomi Redmi Note 12R via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/choosing-the-ideal-user-account-type-in-windows-11-a-step-by-step-guide/"><u>Choosing the Ideal User Account Type in Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/compatibility-check-connecting-apples-airpods-to-a-nintendo-switch-gaming-system/"><u>Compatibility Check: Connecting Apple's AirPods to a Nintendo Switch Gaming System</u></a></li>
+<li><a href="https://win-top.techidaily.com/conversor-rapido-de-mkv-a-avi-con-facilidad-metodologia-fina-por-movavi/"><u>Conversor Rápido De MKV a AVI Con Facilidad - Metodología Fina Por Movavi</u></a></li>
+<li><a href="https://win-top.techidaily.com/descubra-o-mundo-visual-atraves-dos-olhos-de-douglas-franca-fotografo-experiente-com-links-para-sua-criacao-no-movavi/"><u>Descubra O Mundo Visual Através Dos Olhos De Douglas França, Fotógrafo Experiente Com Links Para Sua Criação No Movavi</u></a></li>
+<li><a href="https://facebook.techidaily.com/guard-your-cyber-world-elude-this-trio-of-intruders/"><u>Guard Your Cyber World: Elude This Trio of Intruders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-navigating-the-world-of-drone-video-manipulation/"><u>In 2024, Navigating the World of Drone Video Manipulation</u></a></li>
+<li><a href="https://win-top.techidaily.com/kostenlose-konvertierung-von-mkv-zu-m2ts-im-web-movavi/"><u>Kostenlose Konvertierung Von MKV Zu M2TS Im Web - Movavi</u></a></li>
+<li><a href="https://win-top.techidaily.com/les-incontournables-les-11-meilleures-outils-denregistrement-de-jeux-video-pour-une-performance-impeccable-en-2e-moitie-de-2024/"><u>Les Incontournables: Les 11 Meilleures Outils D'Enregistrement De Jeux Vidéo Pour Une Performance Impeccable en 2E Moitié De 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/telechargez-gratuitement-convertissez-votre-fichier-m4a-au-format-video-mkv-en-ligne-avec-ease-movavi/"><u>Téléchargez Gratuitement: Convertissez Votre Fichier M4A Au Format Vidéo MKV en Ligne Avec Ease - Movavi</u></a></li>
+<li><a href="https://win-top.techidaily.com/tiff-a-jpg-convertissez-votre-fichier-sans-frais-avec-movavi-online/"><u>Tiff À Jpg : Convertissez Votre Fichier Sans Frais Avec Movavi Online!</u></a></li>
+<li><a href="https://win-top.techidaily.com/troubleshooting-steps-fixing-print-screen-issues-in-windows-11/"><u>Troubleshooting Steps: Fixing Print Screen Issues in Windows 11</u></a></li>
+<li><a href="https://win-top.techidaily.com/1726219394244-wav-flv-movavi/"><u>영구성 무료 오디오 형식 바이트 대비: WAV-FLV 전환기 - Movavi</u></a></li>
 </ul></div>
 
