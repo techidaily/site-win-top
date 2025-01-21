@@ -1,7 +1,7 @@
 ---
 title: "Understanding Co-Citations: Comprehensive Guide & SEO Optimization Techniques"
-date: 2024-11-27T06:25:57.423Z
-updated: 2024-11-30T16:29:40.806Z
+date: 2025-01-18T08:50:04.968Z
+updated: 2025-01-21T09:03:17.982Z
 tags:
   - wiki
 categories:
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/e2a22d0e1eb69e31073b9f86edc15bd17dc9ed743
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Co-citation
 
@@ -39,7 +35,7 @@ Co-citation is an indicator used to measure semantic relatedness between two doc
 In simple words, a co-citation occurs every time two publications are cited together by any other document. And the more such common citing documents they have, the more semantically related the two cited documents are considered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Co-citation vs bibliographic coupling
@@ -51,7 +47,11 @@ While co-citation presupposes that one document is referring to two others, bibl
 ![Co-citation vs bibliographic coupling](https://cdn1.link-assistant.com/thumbs/w790-c1/upload/seowiki/posts/36/cc1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What is author co-citation analysis?
@@ -60,6 +60,10 @@ Citation analysis has multiple areas of focus, from journal rankings to measurin
 
 The term refers to measuring the number of times any author's work is co-cited by another author. The co-citation patterns are then used to identify, trace, and illustrate the intellectual structure of an academic discipline[\[2\]](https://tools.techidaily.com/link-assistant/products/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a co-citation network/map?
 
 For the purposes of co-citation analyses, the so-called citation graph is built, or, in other words, the network of documents interconnected with each other through citations. 
@@ -67,6 +71,10 @@ For the purposes of co-citation analyses, the so-called citation graph is built,
 The constructed network forms closely connected clusters of co-cited documents, which tend to share some common theme.
 
 ![Evolution of Electronic Word of Mouth: A Systematic Literature Review Using Bibliometric Analysis of 20 Years (2000–2020)](https://cdn1.link-assistant.com/thumbs/w747-c1/upload/seowiki/posts/36/cc2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Co-citation and SEO
 
@@ -78,17 +86,9 @@ The former is obvious from the commonly known role of backlinks in search engine
 
 In any case, the concept of co-citation has influenced the basic principles of SEO link building, giving birth to co-citation link building - actively pursuing web mentions in the same articles where key competitors’ are being mentioned. Thus, being co-cited by the same source, a website might get a semantic association with an established industry leader.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## See more
 
 [9 Actionable Link Building Tactics for 2023 - Explore co-citation links](https://tools.techidaily.com/link-assistant/products/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## References
 
@@ -109,21 +109,20 @@ In any case, the concept of co-citation has influenced the basic principles of S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-boost-viewership-cost-effectively-with-subscriber-purchase/"><u>[New] In 2024, Boost Viewership Cost-Effectively with Subscriber Purchase</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlocking-the-power-of-in-stream-ads-on-facebook-a-comprehensive-handbook/"><u>[New] In 2024, Unlocking the Power of In-Stream Ads on Facebook A Comprehensive Handbook</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-transform-images-top-5-android-tools/"><u>[Updated] 2024 Approved Transform Images Top 5 Android Tools</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/best-15-video-player-apps-compatible-with-windows-10-8-7-and-macos-top-picks/"><u>Best 15 Video Player Apps Compatible with Windows 10, 8, 7 & macOS: Top Picks</u></a></li>
-<li><a href="https://win-top.techidaily.com/copiez-et-gravez-limage-iso-dinstallation-daomei-backup-pour-linux-sans-frais/"><u>Copiez Et Gravez L’Image ISO D’Installation D'AOMEI Backup Pour Linux Sans Frais</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-usb-to-rs232-driver-quickly/"><u>Download USB to RS232 Driver Quickly</u></a></li>
-<li><a href="https://win-top.techidaily.com/effizientes-kopieren-von-windows-1011-systemen-professionelle-tipps-und-tricks-zum-erstellen-genauester-duplizate/"><u>Effizientes Kopieren Von Windows 10/11 Systemen: Professionelle Tipps Und Tricks Zum Erstellen Genauester Duplizate</u></a></li>
-<li><a href="https://win-top.techidaily.com/how-to-back-up-your-data-transferring-windows-11-files-to-a-usb-stick-two-easy-methods/"><u>How to Back Up Your Data: Transferring Windows 11 Files to a USB Stick, Two Easy Methods</u></a></li>
-<li><a href="https://win-top.techidaily.com/les-deux-facons-pour-sauvegarder-le-lecteur-de-systeme-c-dans-windows-nouvelle-version-guide-pratique-and-detaile/"><u>Les Deux Façons Pour Sauvegarder Le Lecteur De Système C Dans Windows Nouvelle Version - Guide Pratique & Détailé</u></a></li>
-<li><a href="https://win-top.techidaily.com/liberez-votre-boite-mail-la-cle-pour-optimiser-votre-outlook/"><u>Libérez Votre Boîte-Mail : La Clé Pour Optimiser Votre Outlook</u></a></li>
-<li><a href="https://win-top.techidaily.com/outlook-hilfe-strategien-zur-wiederherstellung-geloschter-e-mails-und-datenschutz-gewahrleisten/"><u>Outlook-Hilfe: Strategien Zur Wiederherstellung Gelöschter E-Mails Und Datenschutz Gewährleisten</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-s18-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo S18 Pro Phone Now with These Tips</u></a></li>
-<li><a href="https://win-top.techidaily.com/seamless-file-migration-how-to-shift-data-from-onedrive-to-windows-11-with-simplicity/"><u>Seamless File Migration: How to Shift Data From OneDrive to Windows 11 with Simplicity</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-shopping-guide-choosing-game-consoles-and-extras-for-junior-players/"><u>Ultimate Shopping Guide: Choosing Game Consoles and Extras for Junior Players</u></a></li>
-<li><a href="https://win-blog.techidaily.com/vrijwelgratis-omzetting-van-swf-bestandjes-de-beste-oplossingen-voor-online-converters/"><u>Vrijwelgratis Omzetting Van Swf-Bestandjes: De Beste Oplossingen Voor Online Converters</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-the-game-of-access-paths-to-opening-directories/"><u>Win the Game of Access: Paths to Opening Directories</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-a-blended-media-experience-with-tunes/"><u>Crafting a Blended Media Experience with Tunes</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/ethereal-backup-operations/"><u>Ethereal Backup Operations</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-bandicam-unveiled-a-comprehensive-screen-recorder-analysis/"><u>In 2024, Bandicam Unveiled A Comprehensive Screen Recorder Analysis</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-concealed-chorus-capturers-6-discreet-audio-recorders-for-devices/"><u>In 2024, Concealed Chorus Capturers 6 Discreet Audio Recorders for Devices</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-on-your-apple-iphone-xs-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock on your Apple iPhone XS and iPad</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/launch-your-filmmaking-dreams-xp-edition-preparation-for-2024/"><u>Launch Your Filmmaking Dreams XP Edition Preparation for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/master-the-top-istanbul-seo-services-of-2-4-increase-website-visibility-2024s-ultimate-guide-using-powersuite/"><u>Master the Top Istanbul SEO Services of 2# #4 Increase Website Visibility - 2024'S Ultimate Guide Using PowerSuite</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-currency-exchange-strategies-for-building-a-varied-forex-portfolio-with-mt4-and-mt5-copy-trading/"><u>Mastering Currency Exchange: Strategies for Building a Varied Forex Portfolio with MT4 and MT5 Copy Trading</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-forex-top-3-entry-level-strategies-guaranteed-to-earn-on-mt4/"><u>Mastering Forex: Top 3 Entry-Level Strategies Guaranteed to Earn on MT4</u></a></li>
+<li><a href="https://win-top.techidaily.com/pariss-premier-seo-firms-for-2e25-success-discover-top-picks-and-expert-strategies-using-seo-powersuite/"><u>Paris's Premier SEO Firms for 2E25 Success: Discover Top Picks & Expert Strategies Using SEO PowerSuite</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/story-3-overlooking-grounding-in-outdoor-wet-locations-answer-d/"><u>Story 3: Overlooking Grounding in Outdoor Wet Locations (Answer D)</u></a></li>
+<li><a href="https://win-top.techidaily.com/strategia-efficiente-come-costruire-il-tuo-disco-di-ripristino-in-windows-server-2022/"><u>Strategia Efficiente: Come Costruire Il Tuo Disco Di Ripristino in Windows Server 2022</u></a></li>
+<li><a href="https://win-top.techidaily.com/tutorial-implementare-un-backup-continuo-e-autonomo-per-il-tuo-nas-sistemato-in-windows/"><u>Tutorial: Implementare Un Backup Continuo E Autonomo per Il Tuo NAS Sistemato in Windows</u></a></li>
 </ul></div>
 

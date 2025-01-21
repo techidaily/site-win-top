@@ -1,7 +1,7 @@
 ---
 title: Evolving Landscape of Digital Mailing List Management (1999-2012) by MassMail Solutions
-date: 2024-12-27T02:21:31.688Z
-updated: 2024-12-29T19:15:39.898Z
+date: 2025-01-17T17:03:55.063Z
+updated: 2025-01-20T16:29:33.532Z
 tags:
   - product
 categories:
@@ -18,13 +18,13 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -37,7 +37,7 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s engaging
@@ -58,10 +58,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -79,7 +75,7 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 Here are some extra important SMS Marketing tips and tricks to help you!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Ask your audience
@@ -102,9 +98,17 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -115,7 +119,7 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,22 +149,24 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-top-picks-hd-cameras-under-100-for-extreme-sports/"><u>[New] 2024 Approved Top Picks HD Cameras Under $100 for Extreme Sports</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-revolutionary-impact-future-of-vr-cinematic-experience/"><u>[New] The Revolutionary Impact Future of VR Cinematic Experience</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-guide-to-scheduling-zoom-events-for-2024/"><u>[New] The Ultimate Guide to Scheduling Zoom Events for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-jumpstart-your-recording-with-this-obs-mac-setup-guide-for-2024/"><u>[Updated] Jumpstart Your Recording with This OBS Mac Setup Guide for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-avoid-distraction-with-firm-footage-capture/"><u>2024 Approved Avoid Distraction with Firm Footage Capture</u></a></li>
-<li><a href="https://win-top.techidaily.com/dvd4k/"><u>高画質ビデオ再生 - DVDを4Kテレビに流す方法</u></a></li>
-<li><a href="https://win-top.techidaily.com/access-serene-melodies-download-tranquil-meditation-sounds-for-inner-calm/"><u>Access Serene Melodies: Download Tranquil Meditation Sounds for Inner Calm</u></a></li>
-<li><a href="https://win-top.techidaily.com/aiffwav/"><u>AIFF音声をWAV形式に一元化して変換する包括的ガイドとツール</u></a></li>
-<li><a href="https://win-top.techidaily.com/comprehensive-steps-to-change-webm-media-to-mpgmpeg-video-file/"><u>Comprehensive Steps to Change WebM Media to MPG/MPEG Video File</u></a></li>
-<li><a href="https://win-top.techidaily.com/dvdflac/"><u>DVDコレクションからファイルをFLACにアップグレード: ステップバイステップチュートリアル</u></a></li>
-<li><a href="https://win-top.techidaily.com/effortless-steps-for-transforming-your-dvd-collection-into-avi-format/"><u>Effortless Steps for Transforming Your DVD Collection Into AVI Format</u></a></li>
-<li><a href="https://win-top.techidaily.com/flac52024/"><u>FLAC形式の音楽を自由に聞くためのベスト5無料再生ソフト：2024年版</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-migrate-android-to-linux-platforms/"><u>How to Migrate Android to Linux Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/ps5xbox-series-x-top-gaming-tvs-unveiled-for-2024/"><u>PS5/Xbox Series X Top Gaming TVs Unveiled for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-closed-caption-mishaps-in-windows-10/"><u>Resolving Closed Caption Mishaps in Windows 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/topo-os-12-melhores-editores-de-som-para-excelencia-na-producao-de-audio/"><u>Topo: Os 12 Melhores Editores De Som Para Excelência Na Produção De Áudio</u></a></li>
-<li><a href="https://win-top.techidaily.com/dvd5/"><u>スムーズに無料DVDクランキング：5分完了まで安全保証</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-imitation-ingenuity-generating-parodies-of-films/"><u>[New] 2024 Approved Imitation Ingenuity Generating Parodies of Films</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-crafting-compelling-content-strategies-for-snapbiz/"><u>[Updated] In 2024, Crafting Compelling Content Strategies for SnapBiz</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-innovation-insights-into-vr-gear-designs-for-2024/"><u>[Updated] The Innovation Insights Into VR Gear Designs for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-win-like-a-pro-with-this-no-cost-high-impact-voice-changer-for-valorant-for-2024/"><u>[Updated] Win Like a Pro with This No-Cost, High-Impact Voice Changer for Valorant for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/1-essential-guide-to-restoring-files-mastering-crucial-ssd-data-recovery-techniques/"><u>1. Essential Guide to Restoring Files: Mastering Crucial SSD Data Recovery Techniques</u></a></li>
+<li><a href="https://win-top.techidaily.com/best-seo-solutions-in-suez-egypt-leading-agencies-featured-by-seo-experts/"><u>Best SEO Solutions in Suez, Egypt : Leading Agencies Featured by SEO Experts</u></a></li>
+<li><a href="https://win-top.techidaily.com/comment-recupere-t-on-des-donnees-apres-un-formatage-de-disque-dur/"><u>Comment Récupère-T-On Des Données Après Un Formatage De Disque Dur ?</u></a></li>
+<li><a href="https://win-top.techidaily.com/comment-transformer-des-fichiers-rar-en-systeme-de-fichiers-ntfs-sans-perdre-les-donnees-un-guide-complet/"><u>Comment Transformer Des Fichiers RAR en Système De Fichiers NTFS Sans Perdre Les Données : Un Guide Complet</u></a></li>
+<li><a href="https://win-top.techidaily.com/ebay-mastery-advanced-strategies-and-techniques-with-drop-shipping-and-massmail-pro/"><u>EBay Mastery: Advanced Strategies and Techniques with Drop Shipping & MassMail Pro</u></a></li>
+<li><a href="https://win-top.techidaily.com/guia-completa-para-rescatar-archivos-sin-perderlos-metodos-especiales-para-tarjetas-sd-desorganizadas/"><u>Guía Completa Para Rescatar Archivos Sin Perderlos: Métodos Especiales Para Tarjetas SD Desorganizadas</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-inverting-movies-with-iphone/"><u>In 2024, Step by Step Inverting Movies with iPhone</u></a></li>
+<li><a href="https://win-top.techidaily.com/learn-to-seamlessly-mirror-trades-from-mt4-to-dxtrade-using-mt4copier-step-by-step-tutorial-video-inside/"><u>Learn to Seamlessly Mirror Trades From MT4 to DXTrade Using Mt4copier - Step-by-Step Tutorial Video Inside!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/list-of-pokemon-go-joysticks-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-elliott-wave-principles-comprehensive-guide-and-strategies-for-traders/"><u>Mastering Elliott Wave Principles: Comprehensive Guide & Strategies for Traders</u></a></li>
+<li><a href="https://win-top.techidaily.com/maximize-your-romance-promotions-ultimate-list-of-93-valentines-day-subject-lines-via-massmail-software/"><u>Maximize Your Romance Promotions: Ultimate List of 93 Valentine's Day Subject Lines via Massmail Software</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-flawless-faces-in-fcpx-a-plugin-free-approach-to-skin-smoothing/"><u>New In 2024, Flawless Faces in FCPX A Plugin-Free Approach to Skin Smoothing</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-battle-of-titans-how-does-the-iphone-15-pro-max-stack-up-against-samsungs-s24-ultra/"><u>The Battle of Titans: How Does the iPhone 15 Pro Max Stack Up Against Samsung's S24 Ultra?</u></a></li>
+<li><a href="https://win-studio.techidaily.com/1728484270134-windows-11-usb/"><u>Windows 11 イメージのUSBからの展開方法</u></a></li>
 </ul></div>
 

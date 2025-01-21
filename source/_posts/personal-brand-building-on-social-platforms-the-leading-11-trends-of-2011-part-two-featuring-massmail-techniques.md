@@ -1,7 +1,7 @@
 ---
 title: "Personal Brand Building on Social Platforms: The Leading 11 Trends of 2011 - Part Two Featuring Massmail Techniques"
-date: 2025-01-08T19:36:51.663Z
-updated: 2025-01-14T16:58:36.739Z
+date: 2025-01-19T02:26:17.655Z
+updated: 2025-01-20T19:58:13.514Z
 tags:
   - product
 categories:
@@ -19,16 +19,12 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mobile is multichannel
 
@@ -45,7 +41,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -75,12 +71,16 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -90,21 +90,17 @@ After subscribers participate in one program, ask them if they’d like to opt-i
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -113,6 +109,10 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -149,20 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-windows-11-guide-to-recording-games/"><u>[New] 2024 Approved The Ultimate Windows 11 Guide to Recording Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-explore-cutting-edge-techniques-in-vivacut-detailed-review-and-guide-2024/"><u>[New] Explore Cutting Edge Techniques in VivaCut Detailed Review & Guide 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-samsungs-photo-enhancing-tools/"><u>[New] Exploring Samsung’s Photo Enhancing Tools</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-engineer-eliciting-gags/"><u>[Updated] 2024 Approved Engineer Eliciting Gags</u></a></li>
-<li><a href="https://win-top.techidaily.com/creating-a-durable-usb-drive-for-windows-11-a-comprehensive-guide/"><u>Creating a Durable USB Drive for Windows 11 - A Comprehensive Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/ending-that-annoying-popping-sound-while-using-windows-heres-how/"><u>Ending That Annoying Popping Sound While Using Windows – Here’s How!</u></a></li>
-<li><a href="https://win-top.techidaily.com/guia-paso-a-paso-regresar-tu-iphone-al-estado-original-con-simplicidad/"><u>Guía Paso a Paso: Regresar Tu iPhone Al Estado Original Con Simplicidad</u></a></li>
-<li><a href="https://win-top.techidaily.com/herstellen-einer-bootfahigen-windows-10-liveusb-mit-rufus-kostenloser-download-und-schritt-fur-schritt-anleitung-fur-portable-setups/"><u>Herstellen Einer Bootfähigen Windows 10 LiveUSB Mit Rufus - Kostenloser Download Und Schritt-Für-Schritt-Anleitung Für Portable Setups</u></a></li>
-<li><a href="https://win-top.techidaily.com/iphone-whatsapp/"><u>IPhone WhatsAppメッセージキャプチャ機能 - 空き容量を最大化する方法</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/playing-with-preferences-how-does-the-nintendo-switch-lite-stack-up-to-the-oled-version/"><u>Playing with Preferences: How Does the Nintendo Switch Lite Stack Up to the OLED Version?</u></a></li>
-<li><a href="https://win-top.techidaily.com/recuperer-un-document-microsoft-word-perdu-10-methodes-efficacite/"><u>Recuperer Un Document Microsoft Word Perdu : 10 Méthodes Efficacité</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-complete-picture-toolwizs-app-masterclass-for-2024/"><u>The Complete Picture Toolwiz's App Masterclass for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-future-of-community-oversight-facebooks-innovative-approach/"><u>The Future of Community Oversight: Facebook's Innovative Approach</u></a></li>
-<li><a href="https://win-top.techidaily.com/ultimate-tutorial-on-using-lacie-backup-tool-for-windows-11/"><u>Ultimate Tutorial on Using Lacie Backup Tool for Windows 11</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728475058583-windows-11/"><u>Windows 11 專業級無價圖書機 - 完美功能、用户友好型和強大的免費磁碟映像軟體</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-from-newbie-to-pro-your-complete-guide-to-creator-studio/"><u>[New] From Newbie to Pro Your Complete Guide to Creator Studio</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-prodigy-ai-image-editing-arsenal/"><u>[New] Prodigy AI Image Editing Arsenal</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-filming-made-simple-steps-for-pcs-iphones-and-macbooks/"><u>[Updated] 2024 Approved Filming Made Simple Steps for PCs, iPhones & MacBooks</u></a></li>
+<li><a href="https://win-top.techidaily.com/1-accelerar-tu-pc-con-windows-11-tres-trucos-para-optimizar-el-rendimiento-post-copia-de-seguridad/"><u>1. Accelerar Tu PC Con Windows 11: Tres Trucos Para Optimizar El Rendimiento Post-Copia De Seguridad</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/5aac5l2v5luo5pww5a2x55u45yam5lit5ogi5asn5asx5y6755qe54wn54mh4ocu6auy5pwi5pa55rov6kej5aplusg/"><u>如何从数字相册中恢复失去的照片—高效方法解密</u></a></li>
+<li><a href="https://win-top.techidaily.com/activer-la-protection-systeme-requise-pour-ce-lecteur-guide-rapide-et-complet/"><u>Activer La Protection Système Requise Pour Ce Lecteur - Guide Rapide Et Complet</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instacaptions-for-a-global-stage-top-100-inspirational-posts/"><u>In 2024, InstaCaptions for a Global Stage Top 100 Inspirational Posts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-y27s-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/kostenloser-weg-zur-erstellung-einer-systemwiederherstellungsfestplatte-fur-windows-11/"><u>Kostenloser Weg Zur Erstellung Einer Systemwiederherstellungsfestplatte Für Windows 11</u></a></li>
+<li><a href="https://win-top.techidaily.com/le-top-5-software-di-riproduzione-libera-per-windows-11-back-up-ottimali/"><u>Le Top 5 Software Di Riproduzione Libera per Windows 11: Back-Up Ottimali</u></a></li>
+<li><a href="https://win-top.techidaily.com/resolving-the-unfixable-error-in-windows-10-5-effective-methods/"><u>Resolving the Unfixable Error in Windows 10 - 5 Effective Methods</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/silent-screenshare-troubleshooting-microphone-on-google-meet-windows/"><u>Silent Screenshare: Troubleshooting Microphone on Google Meet (Windows)</u></a></li>
+<li><a href="https://win-top.techidaily.com/ultimate-guide-to-free-full-drive-imaging-in-windows-11-discover-both-techniques/"><u>Ultimate Guide to Free Full Drive Imaging in Windows 11: Discover Both Techniques!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/virtual-venues-clash-obstwitch-live-for-2024/"><u>Virtual Venues Clash OBS/Twitch Live for 2024</u></a></li>
 </ul></div>
 

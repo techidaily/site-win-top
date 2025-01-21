@@ -1,7 +1,7 @@
 ---
 title: Effectively Remembering Your Audience Through Gentle Email Alerts Using MassMail Technology
-date: 2024-12-27T16:22:07.231Z
-updated: 2024-12-29T19:08:30.999Z
+date: 2025-01-20T06:25:45.465Z
+updated: 2025-01-20T21:38:56.230Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -40,6 +36,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -48,15 +48,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,32 +78,36 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Offer incentives
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6\. Use it fro B2B
@@ -126,10 +130,6 @@ Written by:
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Emily Bronte
 
  Back to blog
@@ -149,18 +149,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-compatibility-checklist-phone-list-for-gear-vr-2023/"><u>[Updated] Compatibility Checklist Phone List for Gear VR 2023</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-audio-mastery-techniques-for-windows-users/"><u>[Updated] In 2024, Audio Mastery Techniques for Windows Users</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-top-obs-recording-software-unveiled-in-our-latest-study/"><u>2024 Approved Top OBS Recording Software Unveiled in Our Latest Study</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/common-fixes-for-when-your-apple-watch-fails-to-track-activity/"><u>Common Fixes for When Your Apple Watch Fails to Track Activity</u></a></li>
-<li><a href="https://win-top.techidaily.com/discover-the-best-web-based-radio-services-for-complimentary-audio-entertainment/"><u>Discover the Best Web-Based Radio Services for Complimentary Audio Entertainment</u></a></li>
-<li><a href="https://win-top.techidaily.com/expert-tutorial-mastering-the-art-of-adjusting-pdf-document-sizes/"><u>Expert Tutorial: Mastering the Art of Adjusting PDF Document Sizes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-note-12-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi Note 12 Pro 5G Phones with/without a PC</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pioneering-your-path-in-youtube-livestreams-on-mobiles/"><u>In 2024, Pioneering Your Path in YouTube Livestreams on Mobiles</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-bandicam-navigating-its-full-potential/"><u>In 2024, The Ultimate Guide to Bandicam Navigating Its Full Potential</u></a></li>
-<li><a href="https://win-top.techidaily.com/step-by-step-guide-changing-your-video-from-mp4-format-to-wma/"><u>Step-by-Step Guide: Changing Your Video From MP4 Format to WMA</u></a></li>
-<li><a href="https://win-top.techidaily.com/step-by-step-guide-designing-your-own-unique-instagram-stickers/"><u>Step-by-Step Guide: Designing Your Own Unique Instagram Stickers</u></a></li>
-<li><a href="https://win-top.techidaily.com/windows-11-update-cost-microsoft-announces-new-pricing-structure-starting-next-year-insights-and-estimates-zdnet/"><u>Windows 11 Update Cost: Microsoft Announces New Pricing Structure Starting Next Year - Insights and Estimates | ZDNet</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aximizing-reach-youtubes-template-advantage-explained/"><u>[New] Maximizing Reach YouTube's Template Advantage Explained</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-winters-chill-and-your-videos-selecting-heated-backdrops/"><u>[Updated] 2024 Approved Winter's Chill & Your Videos Selecting Heated Backdrops</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-supreme-top-4k-tvs-for-gamers/"><u>[Updated] Supreme Top 4K TVs for Gamers</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728469672758-onedrive/"><u>雲端存儲OneDrive消去了我的桌面文件：如何重建和復原？</u></a></li>
+<li><a href="https://win11.techidaily.com/decoding-the-secrets-of-clearing-blocked-files-using-powershell/"><u>Decoding the Secrets of Clearing Blocked Files Using PowerShell</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/iphone-transfer-transfer-contact-from-apple-iphone-14-pro-to-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>iPhone Transfer Transfer Contact from Apple iPhone 14 Pro to iPhone without iCloud | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-bluetooth-compatibility-expert-tips-for-seamless-connections-on-windows-n-in-the-new-year/"><u>Mastering Bluetooth Compatibility: Expert Tips for Seamless Connections on Windows N in the New Year</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/proven-methods-for-high-quality-webinars/"><u>Proven Methods for High-Quality Webinars</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivation-protocol-for-microsoft-store-apps-windows-11/"><u>Reactivation Protocol for Microsoft Store Apps (Windows 11)</u></a></li>
+<li><a href="https://win-top.techidaily.com/seagate-barracuda-datensicherung-wiederherstellungsprozess-verstandlich-erklart-meinwiederherstellen/"><u>Seagate Barracuda-Datensicherung Wiederherstellungsprozess Verständlich Erklärt | MeinWiederherstellen</u></a></li>
+<li><a href="https://win-top.techidaily.com/simple-steps-securing-your-microsoft-outlook-365-emails-with-a-comprehensive-backup-plan/"><u>Simple Steps: Securing Your Microsoft Outlook 365 Emails with a Comprehensive Backup Plan</u></a></li>
+<li><a href="https://win-top.techidaily.com/the-young-pioneers-of-prosperity-top-marketing-millionaires-under-30-massmail-tech/"><u>The Young Pioneers of Prosperity: Top Marketing Millionaires Under 30 | MassMail Tech</u></a></li>
+<li><a href="https://win-top.techidaily.com/what-is-a-google-penalty-explaining-the-concept-plus-top-seo-strategies-to-avoid-them/"><u>What Is a Google Penalty? Explaining the Concept + Top SEO Strategies to Avoid Them</u></a></li>
 </ul></div>
 

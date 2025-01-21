@@ -1,7 +1,7 @@
 ---
 title: "Maximizing ROI From Email Marketing: Understanding and Using the Email Subscriber Value Formula via MassMail Tool | Insider Secrets"
-date: 2025-01-12T23:12:35.902Z
-updated: 2025-01-14T17:05:25.565Z
+date: 2025-01-14T21:56:12.875Z
+updated: 2025-01-21T02:59:41.009Z
 tags:
   - product
 categories:
@@ -22,6 +22,10 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,6 +40,10 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s cost effective
 
 Brands and agencies increasingly recognize that mobile is a powerful, cost-effective way to maintain a relationship with customers.
@@ -44,15 +52,15 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -66,10 +74,6 @@ One example is [Atomic SMS Sender](https://tools.techidaily.com/massmailsoftware
 
 Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift averaging 3.5:1\. Just as important, SMS also allows these merchants to build an opt-in list to enable future campaigns. [SMS Marketing](https://tools.techidaily.com/massmailsoftware/products/) also provides brands and agencies with a less expensive, faster, and farther-reaching alternative to smartphone applications, which many campaigns use. Although smartphone adoption skyrocketed back in 2009, smartphone applications are not ideal for every campaign because, by various analysts' estimates, upward of 80 percent of mobile users have a feature phone.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
@@ -77,6 +81,10 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -86,29 +94,25 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -125,10 +129,6 @@ Needless to say that brands and agencies should not consider smartphone applicat
 Written by: 
 
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Emily Bronte
 
@@ -149,21 +149,20 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-professional-guide-extracting-vimeo-content-as-mp4s/"><u>[Updated] In 2024, Professional Guide Extracting Vimeo Content as MP4s</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-premium-audio-enhancer-on-android/"><u>2024 Approved Premium Audio Enhancer on Android</u></a></li>
-<li><a href="https://win-top.techidaily.com/3g2wma-movavi/"><u>在線自由改制3G2到WMA的方法 - 如何使用 Movavi 轉錄器簡化流程</u></a></li>
-<li><a href="https://win-top.techidaily.com/aac-in-mp3-omzetten-online-gratis-met-de-expertise-van-movavi-een-scherpe-seo-titel/"><u>AAC in MP3 Omzetten Online Gratis Met De Expertise Van Movavi: Een Scherpe SEO Titel</u></a></li>
-<li><a href="https://win-top.techidaily.com/free-online-conversion-transforming-vob-files-into-flv-format-with-ease-movavi/"><u>Free Online Conversion: Transforming VOB Files Into FLV Format with Ease - Movavi</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-vivo-y100-by-drfone-android/"><u>How to Bypass FRP from Vivo Y100?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-resolve-audio-glitches-on-youtube-with-windows-10-patches/"><u>How to Repair and Resolve Audio Glitches on YouTube with Windows 10 Patches</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-honor-v-purse-phone-by-drfone-android/"><u>How to Reset a Locked Honor V Purse Phone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Motorola Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-magic-6-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor Magic 6? | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/melhores-ferramentas-de-criacao-de-capturas-de-tela-para-o-mac-picks-do-2024/"><u>Melhores Ferramentas De Criação De Capturas De Tela Para O Mac: Picks Do 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/online-transformation-of-oggvorbis-videos-without-costs-with-movavis-services/"><u>Online Transformation of OGG/Vorbis Videos Without Costs with Movavi's Services</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/online-veilig-3gp-in-swf-veranderen-gratuitie-duurzaamheid-and-versies-kracht-van-movavi/"><u>Online Veilig 3GP in SWF Veranderen: Gratuitie, Duurzaamheid & Versies - Kracht Van Movavi</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-evolution-growth-post-internet-exit/"><u>Social Evolution: Growth Post-Internet Exit</u></a></li>
-<li><a href="https://win-top.techidaily.com/flac-wmv-movavi/"><u>오픈 소스 FLAC 및 WMV 영상을 무료 직접 변환 - Movavi</u></a></li>
-<li><a href="https://win-top.techidaily.com/1726226084199-3gpflv-movavi/"><u>자원 없이 인터넷을 통해 3GP/FLV 비디오를 바꾸기: Movavi의 방법</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-digital-symphony-recording-on-a-mac/"><u>[New] In 2024, Digital Symphony Recording on a Mac</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-seamless-video-editing-turning-avi-into-easily-shareable-gifs-with-filmora/"><u>2024 Approved Seamless Video Editing Turning AVI Into Easily Shareable GIFs with Filmora</u></a></li>
+<li><a href="https://win-top.techidaily.com/best-edinburgh-seo-firms-elite-services-and-powersuite-expertise/"><u>Best Edinburgh SEO Firms: Elite Services and PowerSuite Expertise</u></a></li>
+<li><a href="https://win-top.techidaily.com/comment-creer-une-version-bootable-de-windows-11-avec-3-techniques-faciles-sur-une-cle-usb/"><u>Comment Créer Une Version Bootable De Windows 11 Avec 3 Techniques Faciles Sur Une Clé USB</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/find-and-install-canon-pixma-mx492-drivers-on-your-pc-latest-version-for-windows-users/"><u>Find & Install Canon PIXMA MX492 Drivers on Your PC – Latest Version for Windows Users</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gain-free-access-unlocking-the-power-of-gpt-n-for-beginners/"><u>Gain Free Access: Unlocking the Power of GPT-N for Beginners</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-apcs-back-ups-pro-1500va-high-energy-reserve-and-convenient-battery-management-with-multiple-port-options/"><u>In-Depth Analysis: APC's Back-UPS Pro 1500VA – High Energy Reserve & Convenient Battery Management with Multiple Port Options</u></a></li>
+<li><a href="https://win-top.techidaily.com/seagate-barracuda-datensicherung-wiederherstellungsprozess-verstandlich-erklart-meinwiederherstellen/"><u>Seagate Barracuda-Datensicherung Wiederherstellungsprozess Verständlich Erklärt | MeinWiederherstellen</u></a></li>
+<li><a href="https://win-top.techidaily.com/simple-steps-securing-your-microsoft-outlook-365-emails-with-a-comprehensive-backup-plan/"><u>Simple Steps: Securing Your Microsoft Outlook 365 Emails with a Comprehensive Backup Plan</u></a></li>
+<li><a href="https://win-dash.techidaily.com/speedy-access-to-dell-latitude-e6420-drivers-download-now/"><u>Speedy Access to Dell Latitude E6420 Drivers – Download Now!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/surpassing-chatgpt-top-10-ai-conversational-tools-you-should-know-about/"><u>Surpassing ChatGPT: Top 10 AI Conversational Tools You Should Know About!</u></a></li>
+<li><a href="https://win-top.techidaily.com/the-young-pioneers-of-prosperity-top-marketing-millionaires-under-30-massmail-tech/"><u>The Young Pioneers of Prosperity: Top Marketing Millionaires Under 30 | MassMail Tech</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-premium-usb-hubs-expert-reviews-and-buyers-guide-zdnet/"><u>Top 5 Premium USB Hubs : Expert Reviews & Buyer's Guide - ZDNet</u></a></li>
+<li><a href="https://win-top.techidaily.com/troubleshooting-errors-in-windows-10-resolving-issues-with-your-hard-drive/"><u>Troubleshooting Errors in Windows 10: Resolving Issues with Your Hard Drive</u></a></li>
+<li><a href="https://win-top.techidaily.com/what-is-a-google-penalty-explaining-the-concept-plus-top-seo-strategies-to-avoid-them/"><u>What Is a Google Penalty? Explaining the Concept + Top SEO Strategies to Avoid Them</u></a></li>
 </ul></div>
 
