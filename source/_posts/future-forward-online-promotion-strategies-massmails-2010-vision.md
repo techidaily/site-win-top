@@ -1,7 +1,7 @@
 ---
 title: "Future-Forward Online Promotion Strategies: Massmail's 2010 Vision"
-date: 2025-01-20T06:08:47.198Z
-updated: 2025-01-21T01:20:05.890Z
+date: 2025-01-24T21:26:32.634Z
+updated: 2025-01-26T19:52:39.286Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -36,9 +32,17 @@ A growing number of marketing campaigns use mobile-enhanced billboard, print and
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s engaging
 
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### It’s cost effective
 
@@ -48,11 +52,19 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -70,17 +82,9 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 
 Here are some extra important SMS Marketing tips and tricks to help you!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Ask your audience
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use media types for promotion
 
@@ -90,13 +94,13 @@ If you use several types of media to promote your campaign, use a different keyw
 
 Offer incentives based on subscriber activity and preferences. If subscribers show interest in a particular offering, send them related promotions or content via SMS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Mind the wording
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Provide help
 
@@ -114,10 +118,6 @@ Always respect the privacy of SMS subscribers by obtaining their permission thro
 
 Most importantly, make sure you partner with the right company to execute your mobile marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Needless to say that brands and agencies should not consider smartphone applications. Just the opposite: They are a powerful new option for campaigns and an example of why “interactive” is part of mobile marketing’s new definition. But at the same time, it is essential to understand how applications fit in – or do not – with the product being marketed and its target audience. In that regard, SMS’ ubiquity fits another part of mobile marketing’s new definition: “any mobile device or network.” A partner like [AtomPark Software](https://tools.techidaily.com/massmailsoftware/products/) can offer support with carrier approval, program or campaign development, metrics and analytics, and the freedom to create and launch your campaigns in 165 countries! Only think of that! Good luck.
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,22 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-leveraging-imovie-content-on-the-vimeo-network-for-2024/"><u>[New] Leveraging iMovie Content on the Vimeo Network for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-optimize-obs-encoding-quick-solutions/"><u>[New] Optimize OBS Encoding Quick Solutions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-razers-kiyo-webcam-complete-overview/"><u>[Updated] Razer's Kiyo Webcam - Complete Overview</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728482767975-windows-7/"><u>安全性を高めるWindows 7の保護機能を有効にする詳細手引き</u></a></li>
-<li><a href="https://win-top.techidaily.com/activer-la-protection-systeme-requise-pour-ce-lecteur-guide-rapide-et-complet/"><u>Activer La Protection Système Requise Pour Ce Lecteur - Guide Rapide Et Complet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/answer/"><u>Answer:</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/choosing-the-champion-of-chatbots-the-incomparable-benefits-of-using-claude/"><u>Choosing the Champion of Chatbots: The Incomparable Benefits of Using Claude</u></a></li>
-<li><a href="https://win-top.techidaily.com/comment-reussir-a-modifier-son-identifiant-apple-sans-risquer-la-perte-de-donnees/"><u>Comment Réussir À Modifier Son Identifiant Apple Sans Risquer La Perte De Données?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-techniques-to-complete-stalled-steam-game-downloads-successfully/"><u>Effective Techniques to Complete Stalled Steam Game Downloads Successfully</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effiziente-methode-zur-erstellung-von-untertiteln-srt-aus-dvds-auf-pc-oder-mac-bereitstellen/"><u>Effiziente Methode Zur Erstellung Von Untertiteln (SRT) Aus DVDs Auf PC Oder Mac Bereitstellen</u></a></li>
-<li><a href="https://win-top.techidaily.com/guide-pratique-copie-dun-fichier-avec-cmd-sous-windows/"><u>Guide Pratique : Copie D'un Fichier Avec Cmd Sous Windows</u></a></li>
-<li><a href="https://win-top.techidaily.com/instant-fix-guide-eradicating-the-0x80072ee7-issue-efficiently/"><u>Instant Fix Guide: Eradicating the 0X80072EE7 Issue Efficiently</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oneplus-open-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-instructions-for-effortless-download-of-amd-ati-radeon-hd-4200-graphics-card-drivers/"><u>Step-by-Step Instructions for Effortless Download of AMD ATI Radeon HD 4200 Graphics Card Drivers</u></a></li>
-<li><a href="https://win-top.techidaily.com/top-4-inovator-untuk-migelan-minifix-aliran-daftar-daftar-rekaman-bacaan-dalam-tahun-2024/"><u>Top 4 Inovator Untuk Migelan Minifix: Aliran Daftar-Daftar Rekaman Bacaan Dalam Tahun 2024</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728464383430-windows-11windows-10/"><u>Windows 11から安全にWindows 10への復元ガイド</u></a></li>
-<li><a href="https://win-top.techidaily.com/windows-0x8078006b/"><u>Windows バックアップ・エラー コード 0X8078006Bに対する二手法解決方法</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-ultimate-terria-customization-collection/"><u>[Updated] 2024 Approved Ultimate Terria Customization Collection</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-dive-into-digital-dimensions-smartphone-vr-conversion-tricks/"><u>[Updated] Dive Into Digital Dimensions Smartphone-VR Conversion Tricks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-effortless-mp4-conversion-from-facebook-hd-content-all-for-free/"><u>2024 Approved Effortless MP4 Conversion From Facebook HD Content – All For Free</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-peak-performances-in-oly-x-cross-2022/"><u>2024 Approved Peak Performances in Oly X-Cross 2022</u></a></li>
+<li><a href="https://win-top.techidaily.com/easy-guide-retrieving-a-recently-erased-excel-document/"><u>Easy Guide: Retrieving a Recently Erased Excel Document</u></a></li>
+<li><a href="https://win-top.techidaily.com/effiziente-hyper-v-virtualisierung-praktische-anleitungen-zur-losung-von-prufpunkten/"><u>Effiziente Hyper-V-Virtualisierung: Praktische Anleitungen Zur Lösung Von Prüfpunkten</u></a></li>
+<li><a href="https://win-top.techidaily.com/effortless-preservation-of-memories-the-ultimate-walkthrough-for-automating-google-photos-backups-from-your-ios-device/"><u>Effortless Preservation of Memories: The Ultimate Walkthrough for Automating Google Photos Backups From Your iOS Device</u></a></li>
+<li><a href="https://win-hot.techidaily.com/how-to-clean-up-your-system-eliminating-the-windowsold-folder-in-windows-10-with-these-4-strategies/"><u>How to Clean Up Your System: Eliminating the 'Windows.old' Folder in Windows 10 with These 4 Strategies</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-t2-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from T2 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/panduan-reset-file-dihapsu-di-windows-1011-tutorial-dikembalinya/"><u>Panduan Reset File Dihapsu Di Windows 10/11: Tutorial Dikembalinya</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-reno-11-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo Reno 11 Pro 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-to-the-most-recent-realtek-bluetooth-software-for-windows-users/"><u>Update to the Most Recent Realtek Bluetooth Software for Windows Users</u></a></li>
+<li><a href="https://win-top.techidaily.com/upgrade-to-expertise-with-emeditor-professional-v1117-beta-your-advanced-text-editing-solution/"><u>Upgrade to Expertise with EmEditor Professional v11.1.7 Beta - Your Advanced Text Editing Solution</u></a></li>
+<li><a href="https://win-top.techidaily.com/windows-server-2019-losung-fur-probleme-mit-dem-remote-desktop-zugriff-rdp/"><u>Windows Server 2019 - Lösung Für Probleme Mit Dem Remote-Desktop-Zugriff (RDP)</u></a></li>
+<li><a href="https://win-top.techidaily.com/1728499338611-usb-3/"><u>データ救出不可能! USBドライブのセットで安全に情報抹消法 - 新たな戦略3つ</u></a></li>
 </ul></div>
 

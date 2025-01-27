@@ -1,7 +1,7 @@
 ---
 title: Современные Инструменты SEO Для ПК/Windows 2024 Года - Полный Список С Оценкой
-date: 2025-01-18T02:25:26.335Z
-updated: 2025-01-20T23:45:42.948Z
+date: 2025-01-25T18:17:57.217Z
+updated: 2025-01-26T20:07:47.290Z
 tags:
   - articles
 categories:
@@ -108,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/110fb399f984d23daa9e38ab73955fe742594ebb4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. SEO PowerSuite
 
 SEO PowerSuite - это всеобъемлющий набор SEO-инструментов, который отвечает всем нашим потребностям. Эта надежная платформа включает в себя все: от отслеживания ранжирования и исследования ключевых слов до технического аудита и анализа обратных ссылок. С помощью SEO PowerSuite любая SEO-задача становится управляемой. В состав пакета входят четыре основных инструмента: Rank Tracker, WebSite Auditor, SEO SpyGlass и LinkAssistant, каждый из которых предназначен для решения конкретных SEO-задач.
@@ -128,6 +132,10 @@ SEO PowerSuite - это всеобъемлющий набор SEO-инструм
 
 План Enterprise по цене $499 в год предназначен для тех, кому требуется комплексное SEO-решение. Он включает в себя все функции Профессионального плана с дополнительными улучшениями, такими как возможность печати отчетов без водяных знаков, расширенное планирование для отчетов и расширенные возможности экспорта данных, включая форматы .csv, .sql и .html. Более длительные обязательства доступны в 2-летнем плане по цене $798 (экономия 20%) и 3-летнем плане по цене $987 (экономия 34%).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Плюсы:
 
 * Полный набор инструментов для решения всех задач SEO
@@ -140,10 +148,6 @@ SEO PowerSuite - это всеобъемлющий набор SEO-инструм
 * Ограниченные возможности исследования ключевых слов в бесплатной версии
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/rt-1-1024x538.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Трекер рангов
 
@@ -179,7 +183,7 @@ Rank Tracker - это наш адаптируемый инструмент дл�
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/wa-1-1024x538.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Аудитор веб-сайта
@@ -207,6 +211,10 @@ WebSite Auditor предлагает множество функций для у
 * Комплексные инструменты для аудита и оптимизации сайта
 * Визуальный анализ карты сайта и внутренней перелинковки
 * Оптимизация контента в приложении
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Конс:
 
@@ -248,10 +256,6 @@ SEO SpyGlass предназначен для детального анализа
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/la-1-1024x538.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. LinkAssistant
 
 LinkAssistant - это инструмент для построения ссылок, предназначенный для автоматизации SEO-продвижения и создания высококачественных обратных ссылок. Инструмент предоставляет множество способов поиска возможностей для наращивания ссылок и помогает пользователям управлять кампаниями по наращиванию ссылок от начала и до конца. LinkAssistant предлагает такие функции, как поиск релевантных перспективных ссылок, сбор контактной информации, автоматическая отправка писем по электронной почте и отслеживание успешности усилий по наращиванию ссылочной массы. Кроме того, в него входят инструменты для проверки обратных ссылок и создания пользовательских отчетов по наращиванию ссылочной массы.
@@ -271,10 +275,6 @@ LinkAssistant упрощает процесс построения ссылок,
 #### План предприятия
 
 План Enterprise стоит $499 в год, при двухлетней подписке годовая цена снижается до $399 (скидка 20%), а при трехлетнем плане - до $333 в год (скидка 34%). Этот план включает все функции Профессионального плана, а также расширенную обработку выделенных запросов, автоматическую проверку обратных ссылок и полностью настраиваемые отчеты с белой меткой. Он также предлагает расширенный поиск ссылок, что делает его подходящим для масштабных кампаний по наращиванию ссылочной массы.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Плюсы:
 
@@ -315,10 +315,6 @@ Xenu's Link Sleuth - это классический и бесплатный и�
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/Netpeak-Checker.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7\. Netpeak Checker
 
 Netpeak Checker - это универсальный SEO-инструмент, предназначенный для анализа веб-сайтов и сбора данных из различных источников. Он предлагает глубокий анализ обратных ссылок, ключевых слов и других важных SEO-факторов. Инструмент позволяет пользователям сравнивать несколько сайтов одновременно, предоставляя ценные сведения о конкурентной среде. С помощью Netpeak Checker пользователи могут проводить комплексный аудит и эффективно оптимизировать свои SEO-стратегии.
@@ -338,6 +334,10 @@ Netpeak Checker отличается удобным интерфейсом и и
 #### Индивидуальные планы
 
 Эти индивидуальные решения, доступные для предприятий, предлагают гибкую ценовую политику и дополнительную поддержку, что позволяет крупным организациям в полной мере использовать возможности Netpeak Checker. Индивидуальные планы разработаны с учетом специфических требований бизнеса и предоставляют комплексные инструменты SEO-анализа.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Плюсы:
 
@@ -402,7 +402,7 @@ Scrapebox можно приобрести за единовременную пл
 * Отлично подходит для решения масштабных SEO-задач
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Конс:
@@ -412,6 +412,10 @@ Scrapebox можно приобрести за единовременную пл
 * Интерфейс может показаться устаревшим
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/Sitebulb.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 10\. Sitebulb
 
@@ -447,15 +451,15 @@ Sitebulb - это комплексный инструмент SEO-аудита, 
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/Advanced-Web-Ranking.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 11\. Продвинутый веб-рейтинг
 
 Advanced Web Ranking (AWR) - это надежный инструмент отслеживания ранжирования, которому доверяют более 24 000 агентств и SEO-команд по всему миру. Он позволяет пользователям отслеживать ранжирование ключевых слов в более чем 4 000 поисковых системах в 190 странах. Отслеживая ключевые слова как в настольных, так и в мобильных системах, AWR предоставляет подробную информацию о поисковых рейтингах, видимости и характеристиках SERP.
 
 Сильной стороной AWR является способность предоставлять отчеты с большим количеством данных, прогнозировать эффективность SEO и отслеживать видимость конкурентов, что делает его незаменимым инструментом для комплексного отслеживания ранжирования и планирования SEO-стратегии.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Ценовые планы:
 
@@ -471,15 +475,15 @@ Advanced Web Ranking (AWR) - это надежный инструмент отс
 
 План Enterprise по цене $499 в месяц предназначен для масштабных SEO-операций, поддерживает до 35 500 ключевых слов и предлагает комплексные функции проекта, подробную отчетность и широкие возможности интеграции. Этот план подходит для больших команд и сложных SEO-потребностей, обеспечивая точное и масштабное отслеживание ранжирования.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Плюсы:
 
 * Широкие возможности отслеживания ключевых слов
 * Подробные и настраиваемые отчеты
 * Конкурентный анализ и прогнозирование
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Конс:
 
@@ -488,10 +492,6 @@ Advanced Web Ranking (AWR) - это надежный инструмент отс
 * Сложный интерфейс для новичков
 
 ![](https://www.link-assistant.com/articles/wp-content/uploads/2024/07/SiteAnalyzer-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 12\. SiteAnalyzer
 
@@ -515,10 +515,6 @@ SiteAnalyzer - это мощный инструмент для проведен�
 * Всесторонний технический аудит
 * Поддержка нескольких операционных систем
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Конс:
 
 * Ограниченные возможности бесплатной версии
@@ -532,6 +528,10 @@ SiteAnalyzer - это мощный инструмент для проведен�
 GOAT SEO (ранее IBP) - это отмеченный наградами программный инструмент для SEO, предназначенный для помощи веб-сайтам в достижении высоких рейтингов в Google, Bing, Yahoo и других поисковых системах. Он предлагает набор инструментов для оптимизации, продвижения и отслеживания веб-страниц, что делает его комплексным решением для улучшения видимости в поисковых системах.
 
 GOAT SEO известен своими подробными советами по оптимизации, которые учитывают конкретные ключевые слова и поисковые системы, что позволяет пользователям точно улучшить свои сайты.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Ценовые планы:
 
@@ -576,16 +576,22 @@ GOAT SEO известен своими подробными советами п�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-from-hobbyist-to-pro-selecting-top-drone-editing-tools/"><u>[New] 2024 Approved From Hobbyist to Pro Selecting Top Drone Editing Tools</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-experts-choice-the-best-windows-pc-screen-recorders-for-2024/"><u>[New] Expert's Choice The Best Windows PC Screen Recorders for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/trouble-windows-fails-to-load-printer-driver/"><u>[TROUBLE] Windows Fails to Load Printer Driver</u></a></li>
-<li><a href="https://win-top.techidaily.com/boost-your-forex-earnings-smart-strategies-for-successful-metaltrader-4-copying/"><u>Boost Your Forex Earnings: Smart Strategies for Successful Metaltrader 4 Copying.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-unresponsive-skype-mic-in-windows-11-step-by-step/"><u>How to Repair Unresponsive Skype Mic in Windows 11 - Step by Step</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-your-iphone-13-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>How to Unlock Your iPhone 13 Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/leading-seo-service-providers-in-the-us-capital-region-with-a-spotlight-on-seo-powersuite-excellence/"><u>Leading SEO Service Providers in the US Capital Region with a Spotlight on SEO PowerSuite Excellence</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-the-psychology-behind-successful-long-term-forex-trading-with-steady-patience-and-strong-discipline/"><u>Mastering the Psychology Behind Successful Long-Term Forex Trading with Steady Patience and Strong Discipline</u></a></li>
-<li><a href="https://win-top.techidaily.com/safe-and-savvy-craigslist-strategies-in-2009-securing-your-transactions-with-massmail-tools/"><u>Safe and Savvy Craigslist Strategies in 2009: Securing Your Transactions with MassMail Tools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-13-mini-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 13 mini Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-iconic-acting-snapshot-review-for-2024/"><u>[New] Iconic Acting Snapshot Review for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-minimizing-noise-subtle-audio-tweaks-for-pc-mac/"><u>[New] Minimizing Noise Subtle Audio Tweaks for PC, Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-from-novice-to-pro-your-complete-screencast-journey/"><u>[Updated] From Novice to Pro Your Complete Screencast Journey</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instantaneous-instagram-video-experience/"><u>[Updated] Instantaneous Instagram Video Experience</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/1726029215830-windows-1011/"><u>動画上下反転のコツを学べ！Windows 10・11用トリプルテクニック</u></a></li>
+<li><a href="https://win-top.techidaily.com/capture-rivals-clientele-silently-unveiling-how-massmail-software-can-amplify-your-traffic-and-profits/"><u>Capture Rivals' Clientele Silently - Unveiling How Massmail Software Can Amplify Your Traffic & Profits</u></a></li>
+<li><a href="https://win-top.techidaily.com/complete-tutorial-on-converting-and-running-vmdk-images-in-vmware-environments/"><u>Complete Tutorial on Converting and Running VMDK Images in VMware Environments</u></a></li>
+<li><a href="https://win-top.techidaily.com/das-ultimative-tutorial-wie-man-windows-vollig-neu-installiert/"><u>Das Ultimative Tutorial: Wie Man Windows Völlig Neu Installiert</u></a></li>
+<li><a href="https://win-top.techidaily.com/decoding-serps-and-enhancing-visibility-mastering-seo-strategies-via-seopowersuite/"><u>Decoding SERPs and Enhancing Visibility - Mastering SEO Strategies via SEOPowerSuite</u></a></li>
+<li><a href="https://win-top.techidaily.com/discover-the-best-seo-services-in-cairo-exclusive-deals-and-propositions-from-leading-agency-partners-optimize-your-online-presence/"><u>Discover the Best SEO Services in Cairo: Exclusive Deals and Propositions From Leading Agency Partners | Optimize Your Online Presence</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/effective-forex-trading-with-bollinger-bands-a-comprehensive-guide-for-mt4-users/"><u>Effective Forex Trading with Bollinger Bands: A Comprehensive Guide for MT4 Users</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-url-containment-in-search-engine-optimization-using-the-seo-powersuite-methods/"><u>Mastering URL Containment in Search Engine Optimization Using the SEO PowerSuite Methods</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/reviving-your-windows-7-mic-expert-solutions-for-audio-trouble-spots/"><u>Reviving Your Windows 7 Mic: Expert Solutions for Audio Trouble Spots</u></a></li>
+<li><a href="https://win-top.techidaily.com/step-by-step-guide-restore-accidentally-deleted-files-on-windows-server-2012-r2/"><u>Step-by-Step Guide: Restore Accidentally Deleted Files on Windows Server 2012 R2</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamline-os-setup-asus-wireless-adapters/"><u>Streamline OS Setup: Asus Wireless Adapters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unleashing-creativity-with-pexels-finding-fabulous-images-for-2024/"><u>Unleashing Creativity with Pexels Finding Fabulous Images for 2024</u></a></li>
 </ul></div>
 

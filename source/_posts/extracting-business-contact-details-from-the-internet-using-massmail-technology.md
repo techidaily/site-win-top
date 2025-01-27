@@ -1,7 +1,7 @@
 ---
 title: Extracting Business Contact Details From the Internet Using MassMail Technology
-date: 2025-01-17T20:47:23.118Z
-updated: 2025-01-20T20:26:38.657Z
+date: 2025-01-24T08:33:02.421Z
+updated: 2025-01-26T17:00:56.087Z
 tags:
   - product
 categories:
@@ -18,12 +18,16 @@ In November, the Mobile Marketing Association updated the definition to “a set
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s Mobile MarketingTrends
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Mobile is multichannel
@@ -41,7 +45,7 @@ _Furthermore, the integration of a [USA virtual phone number](https://krispcall.
 This stickiness of mobile is one reason why brands and agencies will spend in 2022 and include a mobile component throughout all their mobile marketing programs at every state of the customer lifecycle. Another benefit drives that trend.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It’s cost effective
@@ -52,11 +56,19 @@ _For example:_
 
 When customers respond to, say, a shortcode in a print ad, that initial communication is an opportunity to invite them to opt into future campaigns and promotions, such as SMS-delivered alerts and e-coupons for secret sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### It’s measurable
 
 Richer analytics is that follows: mobile analytics tools will grow in both selection and features so that brands and agencies have richer, more actionable insights into their mobile campaigns, such as how consumers are interacting with them. This level of hard metrics benefits both the campaigns and the [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) industry by illustrating the value that mobile brings to a campaign.
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why SMS’ Value Skyrockets
 
@@ -78,10 +90,6 @@ Here are some extra important SMS Marketing tips and tricks to help you!
 
 After subscribers participate in one program, ask them if they’d like to opt-in for future SMS messages. For instance, if they opted into your event update program, offer them incentives such as promotions or alerts. This will help you build an opt-in database to kick-start future programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Use media types for promotion
 
 If you use several types of media to promote your campaign, use a different keyword for each media type while keeping the message the same. For instance, in one program you could use the keyword COOL for print, ICE for in-store displays, and FREEZE for in-venue promotions. This will allow you to measure which medium was most successful by comparing results by keyword.
@@ -94,10 +102,6 @@ Offer incentives based on subscriber activity and preferences. If subscribers sh
 
 When promoting your vanity short code, always provide the short code’s digits for recipients with a QWERTY keypad. For example, “Text YES to 92259 (WACKY).”
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5\. Provide help
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
@@ -105,10 +109,6 @@ Provide a directory that allows subscribers to text the word HELP to get more in
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -127,7 +127,7 @@ Written by:
 ![](https://www.massmailsoftware.com/blog/mobile-and-sms-marketing-history-software-tactics-tips/data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Emily Bronte
@@ -149,18 +149,21 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-earning-big-on-youtube-shorts-must-haves-opportunities-and-more/"><u>[New] In 2024, Earning Big on YouTube Shorts Must-Haves, Opportunities and More</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-transform-your-shots-with-understanding-luts/"><u>[Updated] 2024 Approved Transform Your Shots with Understanding LUTs</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-audio-layers-for-professional-videography-premiere-pro-edition/"><u>[Updated] Audio Layers for Professional Videography Premiere Pro Edition</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-discover-iconic-cinema-essential-youtube-channels/"><u>2024 Approved Discover Iconic Cinema Essential YouTube Channels</u></a></li>
-<li><a href="https://win-top.techidaily.com/5po66isr5pah5lu25rai5asx55qe54wp5oox77ya5pc25pwr6kkr6kqk5yiq5qqu5qgi55qe6zec6y215oqa6kgt/"><u>擺脫文件消失的煩惱：搶救被誤刪檔案的關鍵技術</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-gt-10-pro-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Infinix GT 10 Pro Phone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-techniques-for-effective-look-up-table-lut-applications-in-adobe-photoshop-cc/"><u>In 2024, Innovative Techniques for Effective Look-Up Table (LUT) Applications in Adobe PhotoShop CC</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-url-basics-and-enhancing-seo-techniques-using-seo-powersuite-a-complete-breakdown/"><u>Mastering URL Basics and Enhancing SEO Techniques Using SEO PowerSuite - A Complete Breakdown</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/reviving-historical-strategies-in-digital-advertising-using-massmail-tech-innovations/"><u>Reviving Historical Strategies in Digital Advertising Using MassMail Tech Innovations</u></a></li>
-<li><a href="https://win-top.techidaily.com/ssd-migration-mit-windows-10-zwei-leicht-verstandliche-losungen-zum-wechseln-ihrer-festplatte/"><u>SSD-Migration Mit Windows 10: Zwei Leicht Verständliche Lösungen Zum Wechseln Ihrer Festplatte</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/the-financial-frontier-of-video-monetization-2024-edition/"><u>The Financial Frontier of Video Monetization 2024 Edition</u></a></li>
-<li><a href="https://win-top.techidaily.com/windows-11-neu-installieren-ohne-tpm-secure-boot-bequem-und-schnell-erklart/"><u>Windows 11 Neu Installieren? Ohne TPM, Secure Boot - Bequem Und Schnell Erklärt!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-mastering-full-view-fb-movie-magic-for-2024/"><u>[New] Mastering Full-View Fb Movie Magic for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-iphones-video-fix-combat-blurry-facebook-videos/"><u>[Updated] In 2024, IPhone's Video Fix Combat Blurry Facebook Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-navigating-sony-vegas-for-professional-youtube-video-creation/"><u>[Updated] Navigating Sony Vegas for Professional YouTube Video Creation</u></a></li>
+<li><a href="https://win-top.techidaily.com/pc-iphone-ipad-ipod/"><u>專為 PC, iPhone, iPad 以及 iPod 設計的免费个人数据备份与恢复软件 - 百度</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/a-week-with-an-ergonomic-split-keyboard-how-one-change-upended-my-entire-tech-setup-insights-from-zdnet/"><u>A Week with an Ergonomic Split Keyboard: How One Change Upended My Entire Tech Setup - Insights From ZDNet</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/from-adequate-to-essential-understanding-16gb-in-win-pcs/"><u>From Adequate to Essential: Understanding 16GB in Win PCs</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-fix-windows-11-not-responding-from-sleep-mode-a-step-by-step-guide/"><u>How To Fix Windows 11 Not Responding From Sleep Mode: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-top.techidaily.com/how-to-swiftly-detect-and-exclude-your-address-from-spam-filters-using-massmail-techniques/"><u>How to Swiftly Detect & Exclude Your Address From Spam Filters Using Massmail Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-fix-confirmed-shorts-are-showing-up/"><u>In 2024, Fix Confirmed Shorts Are Showing Up</u></a></li>
+<li><a href="https://win-top.techidaily.com/preventing-email-blacklists-essential-tips-using-massmailer/"><u>Preventing Email Blacklists: Essential Tips Using MassMailer</u></a></li>
+<li><a href="https://win-top.techidaily.com/recovering-lost-video-files-from-a-microsd-card-a-step-by-step-guide/"><u>Recovering Lost Video Files From a MicroSD Card – A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782530-9781591437581-the-lost-tomb-of-king-arthur/"><u>The Lost Tomb of King Arthur | Free Book</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-9-email-performance-indicators-and-modern-strategies-2011-featuring-massmail-suite/"><u>Top 9 Email Performance Indicators & Modern Strategies (2011) Featuring MassMail Suite</u></a></li>
+<li><a href="https://win-best.techidaily.com/ultimate-guide-renaming-databases-and-files-efficiently-with-sql-server/"><u>Ultimate Guide: Renaming Databases & Files Efficiently with SQL Server</u></a></li>
+<li><a href="https://win-top.techidaily.com/understanding-redirects-comprehensive-guide-with-essential-seo-strategies-boost-your-sites-ranking/"><u>Understanding Redirects: Comprehensive Guide with Essential SEO Strategies | Boost Your Site's Ranking</u></a></li>
 </ul></div>
 
