@@ -1,7 +1,7 @@
 ---
 title: "EmEditor Update Flaw: Incremental Highlighting Remains Unchanged After Adjusting Search Settings"
-date: 2025-02-07T05:27:58.328Z
-updated: 2025-02-08T17:01:11.848Z
+date: 2025-02-14T08:10:46.942Z
+updated: 2025-02-18T23:45:49.889Z
 tags:
   - product
 categories:
@@ -54,18 +54,19 @@ Viewing 3 posts - 1 through 3 (of 3 total)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-avoidance-tactics-for-edg-vids-in-learning/"><u>[New] Avoidance Tactics for EDG Vids in Learning</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-refine-iphone-image-capture-specialized-filming-tools/"><u>[New] Refine iPhone Image Capture Specialized Filming Tools</u></a></li>
-<li><a href="https://win-top.techidaily.com/best-seo-companies-in-cardiff-expert-ranking-with-seo-suite-services/"><u>Best SEO Companies in Cardiff - Expert Ranking with SEO Suite Services</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/creazione-facile-e-affidabile-dellimmagine-iso-uefi-windows-10-in-due-modi-distinti/"><u>Creazione Facile E Affidabile Dell'immagine ISO UEFI Windows 10 in Due Modi Distinti</u></a></li>
-<li><a href="https://win-top.techidaily.com/effortless-email-marketing-for-spring-sales-using-massmails-free-customizable-templates/"><u>Effortless Email Marketing for Spring Sales Using MassMail's Free Customizable Templates</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Tecno Spark 20 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-itel-p55-5g-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Itel P55 5G ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://win-top.techidaily.com/leading-seo-solutions-providers-in-zurich-exploring-the-superiority-of-seo-powersuite-services/"><u>Leading SEO Solutions Providers in Zurich - Exploring the Superiority of SEO PowerSuite Services</u></a></li>
-<li><a href="https://win-top.techidaily.com/massmail-softwares-achievement-unlocked-a-record-breaking-200000plus-sms-delivered-via-atomic-sender-technology/"><u>MassMail Software's Achievement Unlocked: A Record-Breaking 200,000+ SMS Delivered via Atomic Sender Technology</u></a></li>
+<li><a href="https://win11.techidaily.com/embark-on-gesture-driven-navigation-within-microsoft-edge-windows-11/"><u>Embark on Gesture-Driven Navigation Within Microsoft Edge, Windows 11</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/empowerment-on-screen-11-must-watch-motivational-movies/"><u>Empowerment on Screen: 11 Must-Watch Motivational Movies</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Oppo Phone without Any Data Loss</u></a></li>
+<li><a href="https://win-top.techidaily.com/ipad-photo-transfer-tutorial-move-images-directly-to-an-sd-card/"><u>IPad Photo Transfer Tutorial - Move Images Directly to an SD Card</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-web-20-blogging-with-massmail-tips-and-techniques-for-successful-content-creation/"><u>Mastering Web 2.0 Blogging with MassMail: Tips and Techniques for Successful Content Creation</u></a></li>
+<li><a href="https://win-top.techidaily.com/outlook-aomei-backupper/"><u>Outlook メールを効率良く AOMEI Backupperでバックアップするための詳細ガイド</u></a></li>
+<li><a href="https://win-top.techidaily.com/what-is-a-content-delivery-network-maximizing-seo-through-cdn-strategies/"><u>What Is a Content Delivery Network? Maximizing SEO Through CDN Strategies</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/why-you-shouldnt-delegate-privacy-to-gpt/"><u>Why You Shouldn't Delegate Privacy to GPT</u></a></li>
+<li><a href="https://techtrends.techidaily.com/windows-7-end-of-lifesupport-everything-you-need-to-know/"><u>Windows 7 End of Life/Support: Everything You Need to Know</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-motorola-moto-g84-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Motorola Moto G84 5G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
