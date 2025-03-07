@@ -1,7 +1,7 @@
 ---
 title: Krok Po Kroku W Utrzymywaniu Dysku SSD SANDISK W Systemie Windows 11 - Wykonanie Skonfigurowania Twardego
-date: 2025-02-14T22:59:48.047Z
-updated: 2025-02-18T20:29:00.390Z
+date: 2025-03-06T20:00:56.999Z
+updated: 2025-03-07T16:20:51.694Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c36628b8a77d9c8656bc14c8b8281e34c21620e4322ca2c6d47a165e3e9293b6.png
@@ -24,10 +24,6 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
@@ -47,10 +43,6 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
@@ -69,17 +61,9 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -101,10 +85,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -112,10 +92,6 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
@@ -169,10 +145,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -198,17 +170,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-pros-selection-excellent-webcam-recorders-windows-11/"><u>[New] 2024 Approved Pro's Selection Excellent Webcam Recorders Windows 11</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-premium-pick-of-budget-friendly-vectors-and-graphic-sites/"><u>[New] Premium Pick of Budget-Friendly Vectors & Graphic Sites</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-valheim-keeps-freezing-and-stuttering-on-pc/"><u>[SOLVED] Valheim Keeps Freezing and Stuttering on PC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-realtime-replay-recorder/"><u>[Updated] RealTime Replay Recorder</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/fight-the-wmi-energy-drain-in-win1011/"><u>Fight the WMI Energy Drain in Win10/11</u></a></li>
-<li><a href="https://win-top.techidaily.com/guia-facil-de-reparar-la-falta-de-deteccion-del-tpm-en-sistemas-operativos-windows-1110/"><u>Guía Fácil De Reparar La Falta De Detección Del TPM en Sistemas Operativos Windows 11/10</u></a></li>
-<li><a href="https://win-top.techidaily.com/hddssd-ocz/"><u>HDDからSSDへの転送 - OCZに素早く高速クローン</u></a></li>
-<li><a href="https://win-top.techidaily.com/how-to-access-and-view-restored-microsoft-excel-documents/"><u>How to Access and View Restored Microsoft Excel Documents</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-do-zte-blade-a73-5g-screen-sharing-drfone-by-drfone-android/"><u>How To Do ZTE Blade A73 5G Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/schritt-fur-schritt-guide-zum-einrichten-von-windows/"><u>Schritt-Für-Schritt-Guide Zum Einrichten Von Windows</u></a></li>
-<li><a href="https://win-top.techidaily.com/semiotics-helps-us-understand-how-media-conveys-meaning-across-cultures-through-signs-and-symbols/"><u>Semiotics Helps Us Understand How Media Conveys Meaning Across Cultures Through Signs and Symbols.</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-patterned-pixels-looms-guide-to-screen-casting/"><u>[New] 2024 Approved Patterned Pixels Loom's Guide to Screen Casting</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tep-by-step-for-youtube-trailers-in-filmora-for-2024/"><u>[New] Step-by-Step for YouTube Trailers in Filmora for 2024</u></a></li>
+<li><a href="https://win-tips.techidaily.com/iumasuihjos4replus8muocpuocoplusodsplusodieocpuocuuabtoawsoobjowujos6huoblplusobnpluswplusjoobruwgjei1tpluswlles9noalreiqroayjjoi/"><u>進行中：ウィンドウズ更新が完了した後の再起動作業説明:</u></a></li>
+<li><a href="https://win-top.techidaily.com/arw-jpeg-movavi/"><u>強大的線上ARW-JPEG轉換器，全功能自助無限制 - Movavi 轉換器</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/bring-back-whats-yours-using-clonezilla-for-effortless-recovery-of-treasured-files-and-photos/"><u>Bring Back What's Yours: Using Clonezilla for Effortless Recovery of Treasured Files and Photos</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/firefox-video-capture-utilities-for-2024/"><u>Firefox Video Capture Utilities for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/free-online-conversion-transforming-vob-files-into-flv-format-with-ease-movavi/"><u>Free Online Conversion: Transforming VOB Files Into FLV Format with Ease - Movavi</u></a></li>
+<li><a href="https://win-top.techidaily.com/free-online-converter-change-flv-to-lossless-flac-format-with-movavi/"><u>Free Online Converter: Change FLV to Lossless FLAC Format with Movavi</u></a></li>
+<li><a href="https://win-top.techidaily.com/free-online-tool-change-mp3-files-into-high-quality-wav-format-with-ease-movevvi/"><u>Free Online Tool: Change MP3 Files Into High-Quality WAV Format with Ease - MoveVvi</u></a></li>
+<li><a href="https://win-top.techidaily.com/gratuito-online-convertidor-de-wmv-a-m4a-por-internet-utilice-movavi/"><u>Gratuito Online: Convertidor De WMV a M4A Por Internet - Utilice Movavi</u></a></li>
+<li><a href="https://win-top.techidaily.com/guida-esclusiva-ai-primi-10-editori-e-trasformatori-audio-nel-dominio-dello-streaming-provefatti-da-movavi/"><u>Guida Esclusiva Ai Primi 10 Editori E Trasformatori Audio Nel Dominio Dello Streaming: Provefatti Da Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harnessing-the-full-potential-of-lunapic-artistry/"><u>Harnessing the Full Potential of LunaPic Artistry</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-hdr-standards-meeting-or-surpassing-with-aurora/"><u>In 2024, HDR Standards Meeting or Surpassing with Aurora?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-unlock-instagram-videos-on-pc-and-mac-with-free-conversion-software/"><u>In 2024, Unlock Instagram Videos on PC & Mac with Free Conversion Software</u></a></li>
+<li><a href="https://win-top.techidaily.com/la-tecnica-basica-para-fotografia-en-blanco-y-negro-con-filtros-monocromaticos-blanco-y-negro-filters/"><u>La Técnica Básica Para Fotografía en Blanco Y Negro Con Filtros Monocromáticos | Blanco Y Negro Filters</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-ultimate-guide-to-free-image-editor-apps/"><u>The Ultimate Guide to Free Image Editor Apps</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-7-ferramentas-e-plataformas-de-criacao-de-podcasts-melhores-opcoes-do-setor/"><u>Top 7 Ferramentas E Plataformas De Criação De Podcasts - Melhores Opções Do Setor</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723210552709-touchpad-lag-or-no-response-heres-how-you-can-resolve-it/"><u>Touchpad Lag or No Response? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://win-top.techidaily.com/1726226084199-3gpflv-movavi/"><u>자원 없이 인터넷을 통해 3GP/FLV 비디오를 바꾸기: Movavi의 방법</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Personal Brand Building on Social Platforms: The Leading 11 Trends of 2011 - Part Two Featuring Massmail Techniques"
-date: 2025-02-16T22:41:37.695Z
-updated: 2025-02-19T03:48:22.752Z
+date: 2025-02-28T16:17:48.624Z
+updated: 2025-03-07T17:36:08.810Z
 tags:
   - product
 categories:
@@ -22,10 +22,6 @@ In November, the Mobile Marketing Association updated the definition to “a set
 
 Describing mobile marketing as a set of practices reflects how it has changed in 2009 and where it is headed in 2010\. To understand, it helps to consider the following few trends.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mobile is multichannel
 
 In 2010, brands and agencies increasingly will use mobile to enhance other channels, both traditional and new media. This trend has been underway for a couple of years, and it is not hard to see why: With high penetration even in developing countries, mobile is widely recognized as a convenient, cost-effective way for marketers to reach the mass market, including in ways they cannot with other media.
@@ -35,10 +31,6 @@ _For example:_
 A growing number of marketing campaigns use mobile-enhanced billboard, print and broadcast media to promote an opt-in for text alert programs, wallpapers, games and ringtones to maintain awareness of a product, such as a new car model or album. These programs support engagements long after exposure to the initial traditional marketing.
 
 _Furthermore, the integration of a [USA virtual phone number](https://krispcall.com/virtual-phone-number/usa/) into these mobile-enhanced strategies has increasingly become a pivotal element for businesses aiming to extend their reach and engagement within the American market_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### It’s engaging
 
@@ -58,10 +50,6 @@ Richer analytics is that follows: mobile analytics tools will grow in both selec
 
 Mobile analytics tools also increasingly will be integrated with analytics tools for other media. For example, a multichannel campaign spanning broadcast and mobile will be able to use a single dashboard for viewing data for SMS usage alongside Nielsen and Arbitron metrics. That is a key component enabling the overall marketing trend toward integrated campaigns.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Why SMS’ Value Skyrockets
 
 SMS is one of the oldest wireless technologies still in use, and for a good reason: It is nearly ubiquitous in terms of device and network support, enjoys comprehensive consumer awareness across all demographics, and is relatively inexpensive for consumers, brands, and marketers.
@@ -77,10 +65,6 @@ Participating Atomic SMS Sender merchants are reporting a coupon-redemption lift
 ## SMS Marketing Tips
 
 Here are some extra important SMS Marketing tips and tricks to help you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Ask your audience
 
@@ -102,17 +86,9 @@ When promoting your vanity short code, always provide the short code’s digits 
 
 Provide a directory that allows subscribers to text the word HELP to get more information, particularly for more complex or feature-rich programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6\. Use it fro B2B
 
 Don’t think [mobile marketing](https://tools.techidaily.com/massmailsoftware/products/) is just for consumer marketing; it can be used just as effectively in business-to-business marketing. Consider adding mobile alerts if you market to businesses – such as notices about upcoming Webinars or podcasts, or offers of on-site incentives to conference attendees.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 7\. Mind opt-in/out procedures
 
@@ -149,22 +125,18 @@ Emily Bronte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-boost-engagement-with-creative-video-titling-and-tagging-techniques/"><u>[New] Boost Engagement with Creative Video Titling and Tagging Techniques</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-boxes-that-speak-love-the-top-10-websites-offering-custom-wrapped-treasures/"><u>[New] In 2024, Boxes That Speak Love The Top 10 Websites Offering Custom Wrapped Treasures</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-the-fundamentals-of-human-interface-recognition/"><u>[Updated] 2024 Approved The Fundamentals of Human Interface Recognition</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-bring-your-creative-windows-video-projects-online-via-vimeo-for-2024/"><u>[Updated] Bring Your Creative Windows Video Projects Online via Vimeo for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-captivating-captions-writing-copy-that-drives-engagement-and-views-for-2024/"><u>[Updated] Captivating Captions Writing Copy That Drives Engagement and Views for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-insightful-viewership-data-for-your-insta-pics/"><u>[Updated] In 2024, Insightful Viewership Data for Your Insta Pics</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-xiaomi-redmi-12-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Xiaomi Redmi 12 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-access-to-logitech-m525-mouse-drivers-and-supportive-programming-tools/"><u>Easy Access to Logitech M525 Mouse Drivers & Supportive Programming Tools</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortless-film-transfer-with-official-winx-dvd-ripper-platinum-hd-mp4-ripping-h264-in-minutes/"><u>Effortless Film Transfer with Official WinX DVD Ripper Platinum - HD MP4 Ripping (H.264) In Minutes!</u></a></li>
-<li><a href="https://win-top.techidaily.com/effortlessly-reach-your-audience-discover-1-2-3-little-customers-and-massmailer-for-streamlined-mailing-solutions/"><u>Effortlessly Reach Your Audience: Discover 1-2-3 Little Customers & MassMailer for Streamlined Mailing Solutions</u></a></li>
-<li><a href="https://win-top.techidaily.com/1728491058617-gmail/"><u>Gmail電子郵件連接恢複技巧：最直接的解決方法</u></a></li>
-<li><a href="https://win-top.techidaily.com/halloween-promotional-mastery-essential-tactics-creative-concepts-and-inspiration-for-impactful-campaigns-via-massmail-solutions/"><u>Halloween Promotional Mastery: Essential Tactics, Creative Concepts & Inspiration for Impactful Campaigns via MassMail Solutions</u></a></li>
-<li><a href="https://win-top.techidaily.com/local-trading-station-enhances-user-experience-by-integrating-dxtrade-for-hassle-free-mt4-trade-cloning-using-mt4copier/"><u>Local Trading Station Enhances User Experience by Integrating DXTrade for Hassle-Free MT4 Trade Cloning Using Mt4Copier</u></a></li>
-<li><a href="https://win-top.techidaily.com/mastering-apaches-modrewrite-a-comprehensive-guide-for-boosted-seo-strategies/"><u>Mastering Apache's Mod_Rewrite: A Comprehensive Guide for Boosted SEO Strategies</u></a></li>
-<li><a href="https://win-top.techidaily.com/prevent-your-messages-from-landing-in-the-spam-folder-expert-tips-with-massmail/"><u>Prevent Your Messages From Landing in the Spam Folder: Expert Tips with MassMail</u></a></li>
-<li><a href="https://win-top.techidaily.com/effektivnye-metody-seo-ot-vedushih-agentstv-v-dallase-dostigajte-maksimalnoj-vidimosti-s-pomoshyu-seo-powersuite/"><u>Эффективные Методы SEO От Ведущих Агентств В Далласе - Достигайте Максимальной Видимости С Помощью SEO PowerSuite</u></a></li>
-<li><a href="https://win-top.techidaily.com/nfs-nas/"><u>バッファロー NFS NASでの素早いデータリカバリ手順</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/a-step-by-step-guide-to-integrating-lame-mp3-encoder-with-audacity/"><u>A Step-by-Step Guide to Integrating Lame MP3 Encoder with Audacity</u></a></li>
+<li><a href="https://win-top.techidaily.com/atlantas-premier-seo-companeis-boosting-digital-footprint-with-powersuite-expertise/"><u>Atlanta's Premier SEO Companeis Boosting Digital Footprint with PowerSuite Expertise</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-how-to-clean-up-installed-apps-on-macos/"><u>Comprehensive Tutorial: How to Clean Up Installed Apps on macOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-setup-guide-to-capture-high-quality-video-using-logitech-camera-for-2024/"><u>Expert Setup Guide to Capture High-Quality Video Using Logitech Camera for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/master-your-system-upgrades-with-expertise-from-toms-hardware/"><u>Master Your System Upgrades with Expertise From Tom's Hardware</u></a></li>
+<li><a href="https://win-top.techidaily.com/mastering-seo-an-in-depth-guide-to-google-webmaster-tools-and-optimizing-rankings/"><u>Mastering SEO: An In-Depth Guide to Google Webmaster Tools and Optimizing Rankings</u></a></li>
+<li><a href="https://win-top.techidaily.com/mt4-copier-comparison-forex-vs-equities-choosing-the-optimal-investment-path/"><u>MT4 Copier Comparison: Forex Vs. Equities – Choosing the Optimal Investment Path</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/premium-ff-downloader-suite-for-efficient-fb-media-grabs/"><u>Premium FF Downloader Suite for Efficient FB Media Grabs</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-steps-resolving-connectivity-problems-for-logitech-g93003-mic-on-a-pc/"><u>Solution Steps: Resolving Connectivity Problems for Logitech G93#003; Mic on a PC</u></a></li>
+<li><a href="https://win-top.techidaily.com/besplatnye-i-dostupnye-instrumenty-dlya-seo-optimizacii-s-minimalnymi-zatratami-obzor-seo-powersuite/"><u>Бесплатные И Доступные Инструменты Для SEO-Оптимизации С Минимальными Затратами: Обзор SEO PowerSuite</u></a></li>
+<li><a href="https://win-top.techidaily.com/livanskij-rynok-ishet-luchshie-specialisty-po-seo-iz-bejruta-powersuite-resheniya/"><u>Ливанский Рынок Ищет: Лучшие Специалисты По SEO Из Бейрута | PowerSuite Решения</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-5-rejtingovyh-seo-agentstv-v-kanade-dlya-povysheniya-onlajn-vidimosti/"><u>Топ-5 Рейтинговых SEO Агентств В Канаде Для Повышения Онлайн Видимости</u></a></li>
 </ul></div>
 
